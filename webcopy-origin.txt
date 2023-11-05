@@ -122,6 +122,66 @@ Uri: http://192.168.1.124/villapianesi/
 File Name: C:\Downloaded Web Sites\192.168.1.124\villapianesi\index.htm
 Content Type: text/html
 
+Uri: http://192.168.1.124/wp-content/fonts/84b1e1c1a8c9b35d24b94f62d84ba74e.css
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\84b1e1c1a8c9b35d24b94f62d84ba74e.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/fonts/dm-serif-display/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\dm-serif-display\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/dm-serif-display/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD212k.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\dm-serif-display\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD212k.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/dm-serif-display/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x0ujy.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\dm-serif-display\-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x0ujy.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/dm-serif-display/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\dm-serif-display\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-1aLY50.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-1aLY50.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-daLY50.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-daLY50.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-laLQ.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-laLQ.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-RaLY50.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-RaLY50.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-ZaLY50.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-ZaLY50.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-s.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-s.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tCKQ.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tCKQ.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tCKQ.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tCKQ.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tCKQ.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tCKQ.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.124/wp-content/fonts/nunito-sans/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tCKQ.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\fonts\nunito-sans\pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tCKQ.woff2
+Content Type: font/woff2
+
 Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/css/blossomthemes-toolkit-public.min.css?ver=2.2.5
 File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\css\blossomthemes-toolkit-public.min.css
 Content Type: text/css
@@ -465,80 +525,4 @@ Content Type: application/json
 Uri: http://192.168.1.124/xmlrpc.php?rsd
 File Name: C:\Downloaded Web Sites\192.168.1.124\xmlrpc.php
 Content Type: text/xml
-
-Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C200italic%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic|DM+Serif+Display:regular%2Citalic|Nunito+Sans:regular
-File Name: C:\Downloaded Web Sites\192.168.1.124\css
-Content Type: text/css
-
-Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
-Content Type: font/ttf
 
