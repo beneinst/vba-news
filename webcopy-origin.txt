@@ -1,0 +1,544 @@
+Uri: http://192.168.1.124/
+File Name: C:\Downloaded Web Sites\192.168.1.124\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/2023/
+File Name: C:\Downloaded Web Sites\192.168.1.124\2023\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/2023/11/
+File Name: C:\Downloaded Web Sites\192.168.1.124\2023\11\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/2023/11/04/hello-world/
+File Name: C:\Downloaded Web Sites\192.168.1.124\2023\11\04\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/2023/11/04/hello-world/?replytocom=1
+File Name: C:\Downloaded Web Sites\192.168.1.124\2023\11\04\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/2023/11/04/hello-world/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\2023\11\04\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/arte-mavi/
+File Name: C:\Downloaded Web Sites\192.168.1.124\arte-mavi\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/author/user/
+File Name: C:\Downloaded Web Sites\192.168.1.124\author\user\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/author/user/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\author\user\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/category/uncategorized/
+File Name: C:\Downloaded Web Sites\192.168.1.124\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/chi-siamo/
+File Name: C:\Downloaded Web Sites\192.168.1.124\chi-siamo\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/comments/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/cultura-e-tradizioni/
+File Name: C:\Downloaded Web Sites\192.168.1.124\cultura-e-tradizioni\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/cultura/
+File Name: C:\Downloaded Web Sites\192.168.1.124\cultura\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/dialetto/
+File Name: C:\Downloaded Web Sites\192.168.1.124\dialetto\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/elsewhere/
+File Name: C:\Downloaded Web Sites\192.168.1.124\elsewhere\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/fotografia/
+File Name: C:\Downloaded Web Sites\192.168.1.124\fotografia\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/gmedia-album/
+File Name: C:\Downloaded Web Sites\192.168.1.124\gmedia-album\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/gmedia-album/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\gmedia-album\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/gmedia-album/mostra-foto-ab/
+File Name: C:\Downloaded Web Sites\192.168.1.124\gmedia-album\mostra-foto-ab\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/gmedia-album/mostra-foto-ab/feed/
+File Name: C:\Downloaded Web Sites\192.168.1.124\gmedia-album\mostra-foto-ab\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://192.168.1.124/imprenditoria/
+File Name: C:\Downloaded Web Sites\192.168.1.124\imprenditoria\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/medicina/
+File Name: C:\Downloaded Web Sites\192.168.1.124\medicina\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/ricerca-e-attivita/
+File Name: C:\Downloaded Web Sites\192.168.1.124\ricerca-e-attivita\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/scienza/
+File Name: C:\Downloaded Web Sites\192.168.1.124\scienza\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/sociale/
+File Name: C:\Downloaded Web Sites\192.168.1.124\sociale\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/storia/
+File Name: C:\Downloaded Web Sites\192.168.1.124\storia\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/teatro/
+File Name: C:\Downloaded Web Sites\192.168.1.124\teatro\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/villapianesi/
+File Name: C:\Downloaded Web Sites\192.168.1.124\villapianesi\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/css/blossomthemes-toolkit-public.min.css?ver=2.2.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\css\blossomthemes-toolkit-public.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.min.js?ver=2.2.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\js\blossomthemes-toolkit-public.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/all.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\js\fontawesome\all.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/v4-shims.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\js\fontawesome\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/plugins/blossomthemes-toolkit/public/js/isotope.pkgd.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\blossomthemes-toolkit\public\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/plugins/grand-media/assets/gmedia.global.front.css?ver=1.15.0
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\grand-media\assets\gmedia.global.front.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/plugins/grand-media/assets/gmedia.global.front.js?ver=1.13.0
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\grand-media\assets\gmedia.global.front.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/plugins/grand-media/module/amron/js/script.js?ver=4.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\plugins\grand-media\module\amron\js\script.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/css/animate.min.css?ver=3.5.2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\css\animate.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/css/elementor.min.css?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\css\elementor.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/css/gutenberg.min.css?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\css\gutenberg.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/css/owl.carousel.min.css?ver=2.3.4
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/images/about-bg-img.png
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\images\about-bg-img.png
+Content Type: image/png
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/js/custom.min.js?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\js\custom.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/js/modal-accessibility.min.js?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\js\modal-accessibility.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/js/owl.carousel.min.js?ver=2.3.4
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/js/owl.carousel2.thumbs.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\js\owl.carousel2.thumbs.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/js/wow.min.js?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-content/themes/seva-lite/style.css?ver=1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\seva-lite\style.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-07-Castello-Panoramica-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-07-Castello-Panoramica-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-07-Castello-Panoramica-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-07-Castello-Panoramica-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-07-Castello-Panoramica-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-07-Castello-Panoramica-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/Targa-VBA-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\Targa-VBA-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.124/wp-includes/js/comment-reply.min.js?ver=6.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: http://192.168.1.124/wp-json/
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F2023%2F11%2F04%2Fhello-world%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F2023%2F11%2F04%2Fhello-world%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Farte-mavi%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Farte-mavi%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fchi-siamo%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fchi-siamo%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fcultura%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fcultura%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fcultura-e-tradizioni%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fcultura-e-tradizioni%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fdialetto%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fdialetto%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Felsewhere%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Felsewhere%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Ffotografia%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Ffotografia%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fgmedia-album%2Fmostra-foto-ab%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fgmedia-album%2Fmostra-foto-ab%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fimprenditoria%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fimprenditoria%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fmedicina%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fmedicina%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fricerca-e-attivita%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fricerca-e-attivita%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fscienza%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fscienza%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fsociale%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fsociale%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fstoria%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fstoria%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fteatro%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fteatro%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fvillapianesi%2F
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fvillapianesi%2F&format=xml
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://192.168.1.124/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/16
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/22
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\22
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/25
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/28
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/31
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/34
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\34
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/37
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\37
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/40
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\40
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\43
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/46
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\46
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/51
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\51
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/54
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\54
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://192.168.1.124/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://192.168.1.124/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\192.168.1.124\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C200italic%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic|DM+Serif+Display:regular%2Citalic|Nunito+Sans:regular
+File Name: C:\Downloaded Web Sites\192.168.1.124\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.124\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
