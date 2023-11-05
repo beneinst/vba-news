@@ -49,7 +49,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='seva-lite-css' href='../wp-content/themes/seva-lite/style.css?ver=1.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='seva-lite-elementor-css' href='../wp-content/themes/seva-lite/css/elementor.min.css?ver=1.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='seva-lite-gutenberg-css' href='../wp-content/themes/seva-lite/css/gutenberg.min.css?ver=1.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='gmedia-global-frontend-css' href='../wp-content/plugins/grand-media/assets/gmedia.global.front.css?ver=1.15.0' type='text/css' media='all'>
+<link rel='stylesheet' id='wp-featherlight-css' href='../wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.4' type='text/css' media='all'>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/40"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
@@ -58,8 +58,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='shortlink' href='index.htm?p=40'>
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-14?url=http%3A%2F%2F192.168.1.124%2Felsewhere%2F">
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-15?url=http%3A%2F%2F192.168.1.124%2Felsewhere%2F&#038;format=xml">
-
-<!-- <meta name="GmediaGallery" version="1.22.0/1.8.0" license="" /> -->
 <style type='text/css' media='all'>    
     :root {
         --global-body-font: Nunito Sans;
@@ -104,7 +102,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 }		</style>
 		</head>
 
-<body class="page-template-default page page-id-40 wp-custom-logo seva-lite-has-blocks rightsidebar" itemscope="" itemtype="http://schema.org/WebPage">
+<body class="page-template-default page page-id-40 wp-custom-logo wp-featherlight-captions seva-lite-has-blocks rightsidebar" itemscope="" itemtype="http://schema.org/WebPage">
 
     <div id="page" class="site">
         <a class="skip-link screen-reader-text" href="#content">Salta al contenuto (premi Invio)</a>
@@ -139,7 +137,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </ul>
 </li>
 <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="../chi-siamo/index.htm">Chi siamo</a></li>
-<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="../fotografia/index.htm">Fotografia</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-65"><a href="../fotografia/index.htm">Fotografia</a>
+<ul class="sub-menu">
+	<li id="menu-item-230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-230"><a href="../category/fotografia/index.htm">Fotografia</a></li>
+</ul>
+</li>
 </ul></div>    	</nav>
                               
                 </div>
@@ -180,7 +182,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </ul>
 </li>
 <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="../chi-siamo/index.htm">Chi siamo</a></li>
-<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="../fotografia/index.htm">Fotografia</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231"><a href="../category/fotografia/index.htm">Fotografia</a></li>
 </ul></div>    	</nav><!-- #site-navigation -->
                                     </div>
         </div>
@@ -241,7 +243,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="../chi-siamo/index.htm">Chi siamo</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="../fotografia/index.htm">Fotografia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231"><a href="../category/fotografia/index.htm">Fotografia</a></li>
 </ul></div>    	</nav><!-- #site-navigation -->
                                 </div>
                         <div class="header-right">
@@ -272,7 +274,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="../chi-siamo/index.htm">Chi siamo</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="../fotografia/index.htm">Fotografia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-65"><a href="../fotografia/index.htm">Fotografia</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-230"><a href="../category/fotografia/index.htm">Fotografia</a></li>
+</ul>
+</li>
 </ul></div>    	</nav>
                                 </div>
                     </div>
@@ -310,9 +316,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <aside id="secondary" class="widget-area" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
-	<section id="block-3" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="../2023/11/04/hello-world/index.htm">Benvenuti!</a></li>
+	<section id="block-3" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="../2023/11/05/volti-e-luoghi/index.htm">&#8220;Volti e Luoghi&#8221;</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="../2023/11/04/hello-world/index.htm">Benvenuti!</a></li>
 </ul></div></div></section><section id="block-4" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Recent Comments</h2><ol class="wp-block-latest-comments"><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://wordpress.org/">A WordPress Commenter</a> su <a class="wp-block-latest-comments__comment-link" href="../2023/11/04/hello-world/index.htm#comment-1">Benvenuti!</a></footer></article></li></ol></div></div></section><section id="block-5" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Archives</h2><ul class="wp-block-archives-list wp-block-archives">	<li><a href='../2023/11/index.htm'>Novembre 2023</a></li>
-</ul></div></div></section><section id="block-6" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Categories</h2><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-1"><a href="../category/uncategorized/index.htm">Uncategorized</a>
+</ul></div></div></section><section id="block-6" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Categories</h2><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-17"><a href="../category/fotografia/index.htm">Fotografia</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="../category/home/index.htm">Home</a>
 </li>
 </ul></div></div></section></aside><!-- #secondary -->
             
@@ -344,12 +353,7 @@ var seva_lite_data = {"rtl":"","auto":"1","loop":"1","animation":"","speed":"500
 </script>
 <script type='text/javascript' src='../wp-content/themes/seva-lite/js/custom.min.js?ver=1.1.5' id='seva-lite-js'></script>
 <script type='text/javascript' src='../wp-content/themes/seva-lite/js/modal-accessibility.min.js?ver=1.1.5' id='seva-lite-modal-accessibility-js'></script>
-<script type='text/javascript' id='gmedia-global-frontend-js-extra'>
-/* <![CDATA[ */
-var GmediaGallery = {"ajaxurl":"http:\/\/192.168.1.124\/wp-admin\/admin-ajax.php","nonce":"bc0fb2a49d","upload_dirurl":"http:\/\/192.168.1.124\/wp-content\/grand-media","plugin_dirurl":"http:\/\/192.168.1.124\/wp-content\/grand-media","license":"","license2":"","google_api_key":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/grand-media/assets/gmedia.global.front.js?ver=1.13.0' id='gmedia-global-frontend-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.4' id='wp-featherlight-js'></script>
 
 </body>
 </html>
