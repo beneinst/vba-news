@@ -1,660 +1,1020 @@
 Uri: http://192.168.229.128/
-File Name: C:\Downloaded Web Sites\192.168.229.128\index-1.htm
+File Name: C:\Downloaded Web Sites\192.168.229.128\index.htm
 Content Type: text/html
 
 Uri: http://192.168.229.128/alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/arte-mavi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\arte-mavi-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\arte-mavi.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/21f9472012de8fb7e771a274b24c8b8d.css
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/2aadf67effb4fa11684538bc1d6fb929.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\2aadf67effb4fa11684538bc1d6fb929-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\2aadf67effb4fa11684538bc1d6fb929.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/chi-siamo.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/magnific-popup.css
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/common.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\common-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?79ff9637b74326c362fb6f7f5801a7ba
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/contatti.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\contatti-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\contatti.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/cultura.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\cultura-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\cultura.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/curuèmm.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\curuèmm-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\curuèmm.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/dialetto.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\dialetto-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\dialetto.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/elsewhere.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\elsewhere-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\elsewhere.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/fotografia.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\fotografia-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\fotografia.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/francischi-i-vurpi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/galleria-centro-del-dialetto.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-centro-del-dialetto-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-centro-del-dialetto.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/il-pane-fatto-in-casa-sacralità-che-si-ripete.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\il-pane-fatto-in-casa-sacralità-che-si-ripete-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\il-pane-fatto-in-casa-sacralità-che-si-ripete.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/images/2023/12/06/1home_5-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\1home_5-new-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\1home_5-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/06/cropped-07-castello-panoramica-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\cropped-07-castello-panoramica-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/06/la-piuchella-new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\la-piuchella-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/09/Immagine1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Immagine1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/09/stregone.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\stregone.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/05-targa-k.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\05-targa-k.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/c1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/c1_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/c2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/Eveneto-20-Novembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eveneto-20-Novembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/Eventoico.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eventoico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/Eventoico_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eventoico_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/t1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\t1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/10/t1_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\t1_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/10/trova-un-modo-sfondo-per-desktop.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\trova-un-modo-sfondo-per-desktop-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\trova-un-modo-sfondo-per-desktop.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/11/1home_6a.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\11\1home_6a-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\11\1home_6a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/centro-radionica-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\centro-radionica-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/3_edited-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\3_edited-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/img-home/Carnival-Mask.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Carnival-Mask.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/DSC_0100.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\DSC_0100.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/Evento-20-Novembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Evento-20-Novembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/Foto-1-K-radioscopie.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Foto-1-K-radioscopie.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/iniziativa-diodato-per-d-bellini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\iniziativa-diodato-per-d-bellini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/Je.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Je.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/laC-intervista.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\laC-intervista.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-15102023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-15102023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-21052023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-21052023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-25062023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-25062023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-28052023-VBA.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-28052023-VBA.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-Mostra-R-R.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-Mostra-R-R.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/manifesto-rev-07-Recuperato.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\manifesto-rev-07-Recuperato.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/Mostra-Sali-e-Tabacchi-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Mostra-Sali-e-Tabacchi-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/Plataci-16-settembre_kn5y86a6.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Plataci-16-settembre_kn5y86a6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/img-home/tele-a1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\tele-a1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/sponsor/barbarossa-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\barbarossa-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/sponsor/logo-bianconero-slide-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-bianconero-slide-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/sponsor/logo-hotel-corallo-slide-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-hotel-corallo-slide-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/sponsor/logo-la-murata-slide-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-la-murata-slide-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/tornaindietro.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/villapiogo-04j.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\villapiogo-04j.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/logon.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\logon.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/arte-mavi/angelo-mavi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\angelo-mavi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/mariagrazia-cultura.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mariagrazia-cultura.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/federico-dialetto--2--new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\federico-dialetto--2--new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-25-giugno-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-25-giugno-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/t2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\t2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/t3.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\t3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/fotografia/acquedotto-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\acquedotto-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/impresecom-new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\impresecom-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/medicina/2-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\2-removebg-preview-1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/scienza/centro-radionica-03_1s7vv4cq.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\centro-radionica-03_1s7vv4cq.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/antonio-socialek.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\antonio-socialek.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/storia/francesco-storia1a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\francesco-storia1a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/pino-teatro--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\pino-teatro--2-.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Villapianesi/1_villapianesi.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\1_villapianesi-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\1_villapianesi.pdf
 Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/Villapianesi/gianni-villapianesi--2--new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\gianni-villapianesi--2--new.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Villapianesi/Villapianesi_2.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Villapianesi_2-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Villapianesi_2.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.229.128/images/pagine/Villapianesi/wd.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\wd.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/phocafavicon/favico.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\phocafavicon\favico-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\phocafavicon\favico.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-01-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-01_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-02.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-02-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-02_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-03.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-03-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-03_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-05.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-05-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-05_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-05_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-06.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-06-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-06.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-06_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-06_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-07.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-07-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-07.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-07_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-07_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-08.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-08-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-08_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-08_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-09.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-09-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-09_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-09_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-10.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-10-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-10_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-10_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-11.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-11-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-11_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-11_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-13.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-13-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-13_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-13_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-14.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-14-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-14.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-14_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-14_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-15.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-15-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-15_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-15_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-16.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-16-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-16.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-16_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-16_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-17.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-17-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-17.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-17_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-17_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-18.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-18-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-18.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-18_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-18_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-20.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-20-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-20.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-20_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-20_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-21.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-21-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-21_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-224.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-224-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-224.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-224_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-224_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/01-accoglienza.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\01-accoglienza-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\01-accoglienza.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/01-accoglienza_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\01-accoglienza_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/02-scopertura-targa.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\02-scopertura-targa-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\02-scopertura-targa.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/02-scopertura-targa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\02-scopertura-targa_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/03-cdv.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\03-cdv-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\03-cdv.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/03-cdv_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\03-cdv_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/04-targa-centro-del-dialetto.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\04-targa-centro-del-dialetto-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\04-targa-centro-del-dialetto.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/04-targa-centro-del-dialetto_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\04-targa-centro-del-dialetto_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/05-targa-cdbds.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\05-targa-cdbds-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\05-targa-cdbds.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/05-targa-cdbds_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\05-targa-cdbds_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/06-sede.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\06-sede-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\06-sede.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/06-sede_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\06-sede_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/07-nobile-dame.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\07-nobile-dame-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\07-nobile-dame.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/07-nobile-dame_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\07-nobile-dame_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/08-nobile-dame.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\08-nobile-dame-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\08-nobile-dame.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/08-nobile-dame_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\08-nobile-dame_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/09-pubblico.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\09-pubblico-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\09-pubblico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/09-pubblico_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\09-pubblico_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/10-gm.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\10-gm-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\10-gm.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/10-gm_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\10-gm_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/11-monsignore.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\11-monsignore-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\11-monsignore.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/11-monsignore_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\11-monsignore_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/12-preside-santagada.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\12-preside-santagada-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\12-preside-santagada.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/12-preside-santagada_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\12-preside-santagada_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/13-preside-masneri.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\13-preside-masneri-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\13-preside-masneri.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/13-preside-masneri_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\13-preside-masneri_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/14-monsignore.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\14-monsignore-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\14-monsignore.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/14-monsignore_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\14-monsignore_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/targa-mavi-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\targa-mavi-02.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/imprenditoria.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\imprenditoria-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\imprenditoria.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/inaugurazione-centro-del-dialetto.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\inaugurazione-centro-del-dialetto-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\inaugurazione-centro-del-dialetto.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/index.php?option=com_sppagebuilder&view=page&id=13
-File Name: C:\Downloaded Web Sites\192.168.229.128\index.php-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\index.php.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.feed?view=category&id=10&type=atom
-File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-3.feed
+File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-1.feed
 Content Type: application/atom+xml
 
 Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.feed?view=category&id=10&type=rss
-File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-2.feed
+File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione.feed
 Content Type: application/rss+xml
 
 Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-2.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.html?view=category&id=10
-File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-3.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-1.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?f423fbbee433d03d8a24cdb9d4af75b6
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min-1.js
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?1f344144b95c6c24ab2c7a3340705748
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\legacy\js\jquery-noconflict.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\core.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\core.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\messages-es5.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\messages-es5.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\messages.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\messages.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\showon-es5.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\showon-es5.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/showon.min.js?f79c256660e2c0ca2179cf7f3168ea8143e1af82
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\showon.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\showon.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/alert.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\alert.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\alert.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\bootstrap-es5.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\bootstrap-es5.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/button.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\button.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\button.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/carousel.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\carousel.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\carousel.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/collapse.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\collapse.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\collapse.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/dropdown.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\dropdown.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\dropdown.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/modal.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\modal.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\modal.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\offcanvas.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\offcanvas.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/popover.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\popover.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\popover.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\scrollspy.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\scrollspy.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/tab.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\tab.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\tab.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/bootstrap/js/toast.min.js?5.3.2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\toast.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\bootstrap\js\toast.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.eot
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-2.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.eot?
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-3.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.svg
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.svg
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.svg
 Content Type: image/svg+xml
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.woff2
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.eot
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-2.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.eot?
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-3.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.svg
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.svg
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.svg
 Content Type: image/svg+xml
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.woff2
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.eot
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-2.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.eot?
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-3.eot
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.svg
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.svg
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.svg
 Content Type: image/svg+xml
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.woff
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
 Uri: http://192.168.229.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.woff2
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.229.128/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\joomla-custom-elements\css\joomla-alert.min-1.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
 Content Type: text/css
 
 Uri: http://192.168.229.128/media/vendor/jquery/js/jquery.min.js?3.7.1
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\jquery\js\jquery.min-1.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\jquery\js\jquery.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/medicina.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\medicina-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\medicina.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/mostra-fotografica-sul-pane-fatto-in-casa.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\mostra-fotografica-sul-pane-fatto-in-casa-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\mostra-fotografica-sul-pane-fatto-in-casa.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/primo-incontro-poesia-dialettale.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\primo-incontro-poesia-dialettale-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\primo-incontro-poesia-dialettale.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/scienza.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\scienza-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\scienza.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/sociale.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\sociale-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\sociale.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/storia.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\storia-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\storia.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/tabasciajà.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\tabasciajà-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\tabasciajà.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/teatro.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\teatro-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\teatro.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/templates/shaper_helixultimate/images/menu-bg.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\templates\shaper_helixultimate\images\menu-bg-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\templates\shaper_helixultimate\images\menu-bg.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/templates/shaper_helixultimate/js/lazysizes.min.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\templates\shaper_helixultimate\js\lazysizes.min-1.js
-Content Type: application/javascript
-
 Uri: http://192.168.229.128/u-carrüšl-la-trottola.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\u-carrüšl-la-trottola-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\u-carrüšl-la-trottola.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/villapianesi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi-1.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi.html
 Content Type: text/html
 
 Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-4
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
 Content Type: text/css
 
 Uri: http://fonts.googleapis.com/css?family=Nunito Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-3
+File Name: C:\Downloaded Web Sites\192.168.229.128\css
 Content Type: text/css
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UjK_c-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UjK_c.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xt1Ug.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-5
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 Content Type: font/ttf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Condiscendenza umana.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Condiscendenza umana-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Condiscendenza umana.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Io ho molte credenze.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Io ho molte credenze-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Io ho molte credenze.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Júpiter, el sol más grande.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Júpiter, el sol más grande-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Júpiter, el sol más grande.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Le vrai poids des choses.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Le vrai poids des choses-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Le vrai poids des choses.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Mercurio, io e tu.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Mercurio, io e tu-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Mercurio, io e tu.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Per che sempre.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Per che sempre-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Per che sempre.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Real justifications.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Real justifications-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Real justifications.pdf
 Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
 Content Type: application/pdf
 
 Uri: https://ipfs.io/ipfs/QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp/Nahe Stämme.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme-1.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme.pdf
 Content Type: application/pdf
 
