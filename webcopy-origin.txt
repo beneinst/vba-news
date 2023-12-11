@@ -674,7 +674,7 @@ Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.html?view
 File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-1.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9c444eff045687b75cbeae3e1a6897bd
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9cbe54cc84998c0d0a5205adc01cd0ac
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -1017,4 +1017,12 @@ Content Type: application/pdf
 Uri: https://ipfs.io/ipfs/QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp/Nahe Stämme.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme.pdf
 Content Type: application/pdf
+
+Uri: https://raw.githubusercontent.com/gera76/vba-news/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\gera76\vba-news\main\fonts\DM_Serif_Display\DMSerifDisplay-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://raw.githubusercontent.com/gera76/vba-news/main/fonts/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\gera76\vba-news\main\fonts\Nunito_Sans\static\NunitoSans_10pt-Regular.ttf
+Content Type: application/octet-stream
 
