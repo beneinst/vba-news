@@ -14,79 +14,35 @@
 	<link href="css?family=Nunito Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=cyrillic&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
 	<link href="css-1?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
 	<link href="cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css" rel="stylesheet">
-	<style><style>
+	<style><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap" rel="stylesheet">
+
+<style>
+  /* DM Serif Display per i titoli */
+  @font-face {
+    font-family: 'DM Serif Display';
+    src: url('https://fonts.gstatic.com/s/dmserifdisplay/v6/rnCm-x5mC1oAvJbjjQvSl6QeJ3j5dNPbF3hJYIY7alE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* Nunito Sans per il testo normale */
   @font-face {
     font-family: 'Nunito Sans';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf') format('truetype');
+    src: url('https://fonts.gstatic.com/s/nunitosans/v7/pe03MImSLYBIv1o4X1M8cc9yAv5nPI4_2i7F0e9ttg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
   }
 
-  body {
+  /* Applica i font ai titoli */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Display', serif;
+  }
+
+  /* Applica il font al testo normale */
+  body, p, span, div {
     font-family: 'Nunito Sans', sans-serif;
-  }
-
-  .sppb-addon-text {
-    font-family: 'Nunito Sans', sans-serif;
-  }
-.navigation {
-  font-family: 'Nunito Sans', sans-serif;
-}
-
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-title h2,h1,h3,h4,h5
-  .sppb-addon-title sppb-feature-box-title,
-  sppb-media-heading h6 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-@font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-title h4 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-content span {
-    font-family: 'DM Serif Display', serif;
-  }
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .article-header h1,
-  .related-article-title h3,
-  .article-header h2 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-    @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .p-user {
-    font-family: 'DM Serif Display', serif;
-  }
-    @font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .p-pri {
-    font-family: 'DM Serif Display', serif;
   }
 </style>
 	<style>body{font-family: 'Nunito Sans', sans-serif;font-size: 18px;text-decoration: none;}
@@ -113,7 +69,7 @@
 <script src="media/com_wrapper/js/iframe-height.min.js?34cbae555b1140a397f08a231d0a5707" defer=""></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"712bd753bcd0309df0510813163a1593"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"e7573bf951775c81da99469961a5faad"}</script>
 	<script src="media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2"></script>
 	<script src="media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule="" defer=""></script>
 	<script src="media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be" defer="" nomodule=""></script>
@@ -133,79 +89,35 @@
 	<script src="media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
 	<script>template="shaper_helixultimate";</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap" rel="stylesheet">
+
 <style>
+  /* DM Serif Display per i titoli */
+  @font-face {
+    font-family: 'DM Serif Display';
+    src: url('https://fonts.gstatic.com/s/dmserifdisplay/v6/rnCm-x5mC1oAvJbjjQvSl6QeJ3j5dNPbF3hJYIY7alE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* Nunito Sans per il testo normale */
   @font-face {
     font-family: 'Nunito Sans';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf') format('truetype');
+    src: url('https://fonts.gstatic.com/s/nunitosans/v7/pe03MImSLYBIv1o4X1M8cc9yAv5nPI4_2i7F0e9ttg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
   }
 
-  body {
+  /* Applica i font ai titoli */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Display', serif;
+  }
+
+  /* Applica il font al testo normale */
+  body, p, span, div {
     font-family: 'Nunito Sans', sans-serif;
-  }
-
-  .sppb-addon-text {
-    font-family: 'Nunito Sans', sans-serif;
-  }
-.navigation {
-  font-family: 'Nunito Sans', sans-serif;
-}
-
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-title h2,h1,h3,h4,h5
-  .sppb-addon-title sppb-feature-box-title,
-  sppb-media-heading h6 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-@font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-title h4 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .sppb-addon-content span {
-    font-family: 'DM Serif Display', serif;
-  }
-
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .article-header h1,
-  .related-article-title h3,
-  .article-header h2 {
-    font-family: 'DM Serif Display', serif;
-  }
-
-    @font-face {
-    font-family: 'DM Serif Display';
-    src: url('/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .p-user {
-    font-family: 'DM Serif Display', serif;
-  }
-    @font-face {
-    font-family: 'DM Serif Display';
-    src: url('https://github.com/gera76/vba-news/blob/main/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-  }
-
-  .p-pri {
-    font-family: 'DM Serif Display', serif;
   }
 </style>
 	</head>
