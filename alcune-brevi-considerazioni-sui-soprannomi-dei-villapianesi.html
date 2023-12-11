@@ -15,10 +15,22 @@
 	<link href="css-1?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
 	<link href="cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css" rel="stylesheet">
 	<style><link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400&family=Nunito+Sans:wght@400&display=swap" rel="stylesheet">
 
-<style></style></style>
+<style>
+  /* Applica i font ai titoli e a tutti gli h */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400; /* Sostituisci con il peso desiderato, ad esempio: 400, 500, 600, ecc. */
+  }
+
+  /* Applica il font al testo normale */
+  body, p, span, div {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400; /* Sostituisci con il peso desiderato, ad esempio: 400, 500, 600, ecc. */
+  }
+</style>
 	<style>body{font-family: 'Nunito Sans', sans-serif;font-size: 18px;text-decoration: none;}
 </style>
 	<style>h1{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
@@ -43,7 +55,7 @@
 <script src="media/com_wrapper/js/iframe-height.min.js?efb657d3177b1e120556307bf38e0ef9" defer=""></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"d2a47bffae468e9a8ab2bc724e390450"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"4631321717109aef9df81661dbfede55"}</script>
 	<script src="media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2"></script>
 	<script src="media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule="" defer=""></script>
 	<script src="media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be" defer="" nomodule=""></script>
@@ -65,25 +77,9 @@
 	<script>template="shaper_helixultimate";</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap" rel="stylesheet">
+<link href="css2?family=DM+Serif+Display:wght@400&family=Nunito+Sans:wght@400&display=swap" rel="stylesheet">
 
 <style>
-  /* DM Serif Display per i titoli */
-  @font-face {
-    font-family: 'DM Serif Display';
-    src: url('ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  /* Nunito Sans per il testo normale */
-  @font-face {
-    font-family: 'Nunito Sans';
-    src: url('ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-
   /* Applica i font ai titoli e a tutti gli h */
   h1, h2, h3, h4, h5, h6 {
     font-family: 'DM Serif Display', serif;
@@ -93,6 +89,7 @@
   /* Applica il font al testo normale */
   body, p, span, div {
     font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400; /* Sostituisci con il peso desiderato, ad esempio: 400, 500, 600, ecc. */
   }
 </style>
 	</head>

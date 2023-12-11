@@ -954,7 +954,7 @@ Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQ
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap
+Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400&family=Nunito+Sans:wght@400&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css2
 Content Type: text/css
 
@@ -990,32 +990,8 @@ Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL-U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL-U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
 Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL8U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL8U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL9U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL9U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLxU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLxU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLzU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLzU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL_U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL_U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
 Content Type: font/ttf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Condiscendenza umana.pdf
@@ -1049,14 +1025,6 @@ Content Type: application/pdf
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
 Content Type: application/pdf
-
-Uri: https://gold-male-wallaby-623.mypinata.cloud/ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/DM_Serif_Display/DMSerifDisplay-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b\DM_Serif_Display\DMSerifDisplay-Regular.ttf
-Content Type: font/ttf
-
-Uri: https://gold-male-wallaby-623.mypinata.cloud/ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b\Nunito_Sans\static\NunitoSans_10pt-Regular.ttf
-Content Type: font/ttf
 
 Uri: https://ipfs.io/ipfs/QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp/Nahe Stämme.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme.pdf
