@@ -674,7 +674,7 @@ Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.html?view
 File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-1.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?34cbae555b1140a397f08a231d0a5707
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?efb657d3177b1e120556307bf38e0ef9
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -1049,6 +1049,14 @@ Content Type: application/pdf
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
 Content Type: application/pdf
+
+Uri: https://gold-male-wallaby-623.mypinata.cloud/ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/DM_Serif_Display/DMSerifDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b\DM_Serif_Display\DMSerifDisplay-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://gold-male-wallaby-623.mypinata.cloud/ipfs/QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmZwGLN5sv8NwoSnwBdLh1tcRSTtpdszuPtY1ZqLUPaG1b\Nunito_Sans\static\NunitoSans_10pt-Regular.ttf
+Content Type: font/ttf
 
 Uri: https://ipfs.io/ipfs/QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp/Nahe Stämme.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme.pdf
