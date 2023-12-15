@@ -2,13 +2,25 @@ Uri: http://192.168.229.128/
 File Name: C:\Downloaded Web Sites\192.168.229.128\index.htm
 Content Type: text/html
 
-Uri: http://192.168.229.128/alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
+Uri: http://192.168.229.128/apriti-borgo-2022-terza-edizione-borgo-in-una-notte-di-fine-estate.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\apriti-borgo-2022-terza-edizione-borgo-in-una-notte-di-fine-estate.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/arte-mavi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\arte-mavi.html
 Content Type: text/html
+
+Uri: http://192.168.229.128/bellezza-e-guerra-le-due-facce-dell’homo-sapiens.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\bellezza-e-guerra-le-due-facce-dell’homo-sapiens.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/bellezza-e-socialità.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\bellezza-e-socialità.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/1e19efb4f628c737dcd1386c8d3f661c.css
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\1e19efb4f628c737dcd1386c8d3f661c.css
+Content Type: text/css
 
 Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/21f9472012de8fb7e771a274b24c8b8d.css
 File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d.css
@@ -18,13 +30,9 @@ Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/2
 File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\2aadf67effb4fa11684538bc1d6fb929.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
+Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\52e02b7e15860e95371ad08a847bdc1b.js
 Content Type: application/javascript
-
-Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
-File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f.css
-Content Type: text/css
 
 Uri: http://192.168.229.128/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
@@ -102,6 +110,10 @@ Uri: http://192.168.229.128/curuèmm.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\curuèmm.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/desiderio-di-pace.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\desiderio-di-pace.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/dialetto.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\dialetto.html
 Content Type: text/html
@@ -114,12 +126,24 @@ Uri: http://192.168.229.128/fotografia.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\fotografia.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/francischi-i-vurpi.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/galleria-centro-del-dialetto.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-centro-del-dialetto.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/galleria-fotografica-di-maria-costa.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-fotografica-di-maria-costa.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/galleria-fotografica-di-nicola-barbati.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-fotografica-di-nicola-barbati.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/graziella-alphonse.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\graziella-alphonse.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/i-riti-di-passaggio-nel-mondo-culturale-della-arberia.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\i-riti-di-passaggio-nel-mondo-culturale-della-arberia.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/il-pane-fatto-in-casa-sacralità-che-si-ripete.html
@@ -138,20 +162,12 @@ Uri: http://192.168.229.128/images/2023/12/06/la-piuchella-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\la-piuchella-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/09/Immagine1.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Immagine1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022_thumbnail.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022_thumbnail.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/09/stregone.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\stregone.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/10/05-targa-k.jpg
@@ -190,13 +206,53 @@ Uri: http://192.168.229.128/images/2023/12/10/t1_thumbnail.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\t1_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/10/trova-un-modo-sfondo-per-desktop.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\trova-un-modo-sfondo-per-desktop.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\11\1home_6a.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/13/sgfr.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\13\sgfr.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/14/photo_2023-12-14_11-04-40.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\photo_2023-12-14_11-04-40.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/14/photo_2023-12dd.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\photo_2023-12dd.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/14/scena6-cutro.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\scena6-cutro.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/15/04-Maria-Costa---Torre-Castello.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\04-Maria-Costa---Torre-Castello.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2023/12/15/09-Palazzo-La-Regina1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\09-Palazzo-La-Regina1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2023/12/15/17072022-dji-0054-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\17072022-dji-0054-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/15/autunno-inverno-lauretta-ugolini1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\autunno-inverno-lauretta-ugolini1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2023/12/15/manifesto-Mostra-Sale-Arte---Tabacchi1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\manifesto-Mostra-Sale-Arte---Tabacchi1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2023/12/15/Nicola-Barbati---Villapiana-High.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\Nicola-Barbati---Villapiana-High.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2023/12/15/porta-dei-santi.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\15\porta-dei-santi.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/centro-radionica-03.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\centro-radionica-03.jpg
@@ -210,8 +266,8 @@ Uri: http://192.168.229.128/images/componenti/fonts/NunitoSans_10pt-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NunitoSans_10pt-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.229.128/images/componenti/img-home/3_edited-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\3_edited-removebg-preview.png
+Uri: http://192.168.229.128/images/componenti/img-home/3_1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\3_1.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/img-home/Carnival-Mask.jpg
@@ -282,22 +338,6 @@ Uri: http://192.168.229.128/images/componenti/img-home/tele-a1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\tele-a1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/componenti/sponsor/barbarossa-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\barbarossa-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/sponsor/logo-bianconero-slide-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-bianconero-slide-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/sponsor/logo-hotel-corallo-slide-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-hotel-corallo-slide-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/sponsor/logo-la-murata-slide-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\sponsor\logo-la-murata-slide-removebg-preview.png
-Content Type: image/png
-
 Uri: http://192.168.229.128/images/componenti/tornaindietro.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro.png
 Content Type: image/png
@@ -310,12 +350,92 @@ Uri: http://192.168.229.128/images/logon.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\logon.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\011_mavi-11-12-21.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/pagine/arte-mavi/angelo-mavi.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\angelo-mavi.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/arte-mavi/Angelo-Ventimiglia-articolo.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\Angelo-Ventimiglia-articolo.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/arte-mavi/ESantoro-Tutti-2012--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\ESantoro-Tutti-2012--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/arte-mavi/hhymavi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\hhymavi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Bellezza-e-Socialita.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Bellezza-e-Socialita.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/cultura/Bellezza-e-Solidarieta.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Bellezza-e-Solidarieta.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/cultura/evento-airc-310722.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\evento-airc-310722.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/fellini-AMANTEA-STILO-TESTA-DI-BASILEA-CODEX_Angelo_Ventimiglia.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\fellini-AMANTEA-STILO-TESTA-DI-BASILEA-CODEX_Angelo_Ventimiglia.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena1-PENTIDATTILO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena1-PENTIDATTILO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena2-MADONNA-DEL-PILERIO-E-ROSETO-CAPO-SPULICO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena2-MADONNA-DEL-PILERIO-E-ROSETO-CAPO-SPULICO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena3-LUNGRO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena3-LUNGRO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena4-ZUNGRI.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena4-ZUNGRI.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena5-RINO-GAETANO-E-GRIFONE-DEL-POLLINO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena5-RINO-GAETANO-E-GRIFONE-DEL-POLLINO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena7-CAMIGLIATELLO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena7-CAMIGLIATELLO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena8-ROSSANO.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena8-ROSSANO.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/Fellini/scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Fellini\scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/i-pugni-in-tasca.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\i-pugni-in-tasca.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/la-forma-della-voce.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\la-forma-della-voce.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/pagine/cultura/mariagrazia-cultura.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mariagrazia-cultura.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/cultura/mgqwba7xkuqff0gbs3l5ltnxfnt.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mgqwba7xkuqff0gbs3l5ltnxfnt.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/federico-dialetto--2--new.jpg
@@ -342,8 +462,220 @@ Uri: http://192.168.229.128/images/pagine/fotografia/acquedotto-01.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\acquedotto-01.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/fotografia/autunno-inverno-lauretta-ugolini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\autunno-inverno-lauretta-ugolini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/fotografia/dsc_0003--2-w.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\dsc_0003--2-w.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/fotografia/giuseppe-d-alba.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\giuseppe-d-alba.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/fotografia/maria-costa---campanile1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\maria-costa---campanile1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/fotografia/mostra-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\mostra-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/fotografia/nicola-barbati---villapiana-high.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\nicola-barbati---villapiana-high.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/fotografia/palazzo-la-regina.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\palazzo-la-regina.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/01_b3uzejby.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\01_b3uzejby.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/02_unjvqjg6.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\02_unjvqjg6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/03_7f79rvgv.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\03_7f79rvgv.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/05-bis.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\05-bis.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/06_pq9u3972.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\06_pq9u3972.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0002.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0012.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0012.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0013_mcmzq349.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0013_mcmzq349.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0014.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0014.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0016_xii2m1vz.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0016_xii2m1vz.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0020_9b6d8rp4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0020_9b6d8rp4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0052--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0052--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0054.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0054.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0056.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0056.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0059.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0059.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0062--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0062--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0066.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0066.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0073.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0073.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0080.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0080.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0106.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0106.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0107.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0107.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0155.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0155.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0176.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0176.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0179.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0179.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0180.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0180.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0187.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0187.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0188.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0188.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0189.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0189.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0190.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0190.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0191.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0191.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0205.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0205.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0215.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0215.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0218.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0218.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0224.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0224.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0225.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0230.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0230.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0234.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0234.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0235.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0235.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0239.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0239.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0248.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0248.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0251.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0251.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0257.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0257.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0263.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0263.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0273.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0273.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0289.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0289.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/pagine/imprenditoria/impresecom-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\impresecom-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/imprenditoria/plataci-16-settembre.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\plataci-16-settembre.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/medicina/2-removebg-preview-1.png
@@ -366,6 +698,58 @@ Uri: http://192.168.229.128/images/pagine/teatro/pino-teatro--2-.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\pino-teatro--2-.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2018/Borgo-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2018\Borgo-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2018/nativita-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2018\nativita-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2018/nativita-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2018\nativita-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/cardatrici.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\cardatrici.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/carpentiere.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\carpentiere.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/cosefritte.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\cosefritte.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/frazzuli.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\frazzuli.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/musici.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\musici.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/nativita-bn.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\nativita-bn.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/osteria.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\osteria.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/ricamatrici.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\ricamatrici.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2019/verduraia.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2019\verduraia.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/teatro/tea.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\tea.jpeg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/pagine/Villapianesi/1_villapianesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\1_villapianesi.pdf
 Content Type: application/pdf
@@ -377,10 +761,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/Villapianesi/Villapianesi_2.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Villapianesi_2.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/Villapianesi/wd.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\wd.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/phocafavicon/favico.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\phocafavicon\favico.jpg
@@ -538,6 +918,990 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pan
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\mostra-pane-224_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/a-prodotti-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\a-prodotti-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/a-prodotti-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\a-prodotti-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/b-prodotti-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\b-prodotti-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/b-prodotti-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\b-prodotti-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/c-prodotti-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\c-prodotti-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/c-prodotti-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\c-prodotti-03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/d-prodotti-04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\d-prodotti-04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/d-prodotti-04_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\d-prodotti-04_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/e-artigianato-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\e-artigianato-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/e-artigianato-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\e-artigianato-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/f-artigianato-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\f-artigianato-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/f-artigianato-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\f-artigianato-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/g-artigianato-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\g-artigianato-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/g-artigianato-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\g-artigianato-03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/h-artigianato-04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\h-artigianato-04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/h-artigianato-04_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\h-artigianato-04_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/mostra-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\mostra-03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/n-evento-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\n-evento-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/n-evento-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\n-evento-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/o-evento-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\o-evento-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/10/images/o-evento-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\10\images\o-evento-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4968rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4968rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4968rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4968rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4976rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4976rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4976rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4976rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4979rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4979rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4979rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4979rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4982rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4982rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4982rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4982rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4993rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4993rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-4993rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-4993rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5002rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5002rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5002rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5002rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5003rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5003rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5003rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5003rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5015rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5015rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5015rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5015rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5017rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5017rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5017rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5017rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5028rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5028rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5028rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5028rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5031rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5031rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5031rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5031rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5032rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5032rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5032rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5032rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5047rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5047rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5047rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5047rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5050rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5050rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5050rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5050rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5052rdesiderio-di-pace-040622.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5052rdesiderio-di-pace-040622.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5052rdesiderio-di-pace-040622_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5052rdesiderio-di-pace-040622_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-2_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-2_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-3.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-3_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-3_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-4_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-4_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/angelo-ventimiglia-5_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\angelo-ventimiglia-5_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/locandina-mavi-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\locandina-mavi-2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/locandina-mavi-2_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\locandina-mavi-2_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img-4965-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img-4965-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img-4965-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img-4965-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img-4923-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img-4923-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img-4923-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img-4923-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/2-17072022-dji-0061-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\2-17072022-dji-0061-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/2-17072022-dji-0061-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\2-17072022-dji-0061-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa2-3391-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa2-3391-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa2-3391-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa2-3391-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4-17072022-dji-0054-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4-17072022-dji-0054-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4-17072022-dji-0054-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4-17072022-dji-0054-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4a-17072022-dji-0049-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4a-17072022-dji-0049-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4a-17072022-dji-0049-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4a-17072022-dji-0049-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa3-3392-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa3-3392-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa3-3392-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa3-3392-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4897-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4897-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4897-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4897-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4929-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4929-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4929-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4929-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4953-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4953-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4953-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4953-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4971-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4971-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4971-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4971-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/torr-1235.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\torr-1235.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/torr-1235_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\torr-1235_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1-17072022-dji-0053-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1-17072022-dji-0053-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1-17072022-dji-0053-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1-17072022-dji-0053-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-12.53.51.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-12.53.51.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-12.53.51_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-12.53.51_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53.21-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53.21-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53.21-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53.21-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img-4965-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img-4965-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img-4965-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img-4965-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img-4924-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img-4924-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img-4924-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img-4924-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img-4907-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img-4907-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img-4907-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img-4907-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img-4921-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img-4921-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img-4921-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img-4921-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img-4923-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img-4923-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img-4923-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img-4923-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2-17072022-dji-0061-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2-17072022-dji-0061-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2-17072022-dji-0061-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2-17072022-dji-0061-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3-17072022-dji-0057-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3-17072022-dji-0057-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3-17072022-dji-0057-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3-17072022-dji-0057-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa2-3391-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa2-3391-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa2-3391-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa2-3391-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-20210911-104359-02-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-20210911-104359-02-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-20210911-104359-02-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-20210911-104359-02-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4-17072022-dji-0054-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4-17072022-dji-0054-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4-17072022-dji-0054-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4-17072022-dji-0054-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4a-17072022-dji-0049-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4a-17072022-dji-0049-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4a-17072022-dji-0049-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4a-17072022-dji-0049-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b-17072022-dji-0062-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b-17072022-dji-0062-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b-17072022-dji-0062-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b-17072022-dji-0062-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5-11-01-02.50.55.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5-11-01-02.50.55.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5-11-01-02.50.55_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5-11-01-02.50.55_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa3-3392-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa3-3392-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa3-3392-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa3-3392-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa4-3393-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa4-3393-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa4-3393-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa4-3393-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa5-3394-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa5-3394-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa5-3394-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa5-3394-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img-4897-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img-4897-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img-4897-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img-4897-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img-4904-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img-4904-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img-4904-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img-4904-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img-4891-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img-4891-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img-4891-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img-4891-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img-4905-2-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img-4905-2-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img-4905-2-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img-4905-2-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img-4906-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img-4906-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img-4906-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img-4906-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img-4920-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img-4920-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img-4920-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img-4920-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img-4953-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img-4953-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img-4953-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img-4953-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img-4929-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img-4929-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img-4929-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img-4929-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img-4944-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img-4944-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img-4944-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img-4944-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img-4960-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img-4960-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img-4960-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img-4960-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img-4971-1-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img-4971-1-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img-4971-1-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img-4971-1-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/torr-1235.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\torr-1235.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/torr-1235_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\torr-1235_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/01-acquedotto-san-vito.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\01-acquedotto-san-vito.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/01-acquedotto-san-vito_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\01-acquedotto-san-vito_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/02-ruderi-di-tripaola.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\02-ruderi-di-tripaola.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/02-ruderi-di-tripaola_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\02-ruderi-di-tripaola_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/03-chiesa-madre-notte.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\03-chiesa-madre-notte.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/03-chiesa-madre-notte_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\03-chiesa-madre-notte_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/04-porta-dei-santi-notte.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\04-porta-dei-santi-notte.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/04-porta-dei-santi-notte_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\04-porta-dei-santi-notte_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/05-porta-dei-santi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\05-porta-dei-santi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/05-porta-dei-santi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\05-porta-dei-santi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/06-chiesa-madre.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\06-chiesa-madre.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/06-chiesa-madre_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\06-chiesa-madre_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/07-castello-panoramica.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\07-castello-panoramica.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/07-castello-panoramica_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\07-castello-panoramica_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/08-palazzo-manfredi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\08-palazzo-manfredi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/08-palazzo-manfredi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\08-palazzo-manfredi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/09-palazzo-la-regina.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\09-palazzo-la-regina.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/09-palazzo-la-regina_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\09-palazzo-la-regina_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/10-orto-dei-monaci.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\10-orto-dei-monaci.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/15/images/10-orto-dei-monaci_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\15\images\10-orto-dei-monaci_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-alba-lido.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-alba-lido.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-alba-lido_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-alba-lido_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-bellavista-notturno.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-bellavista-notturno.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-bellavista-notturno_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-bellavista-notturno_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-campanile.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-campanile.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-campanile_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-campanile_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-panoramica.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-panoramica.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-panoramica_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-panoramica_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-rupe.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-rupe.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-rupe_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-rupe_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-torre-castello.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-torre-castello.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/16/images/maria-costa-torre-castello_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\16\images\maria-costa-torre-castello_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/autunno-inverno-lauretta-ugolini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\autunno-inverno-lauretta-ugolini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/autunno-inverno-lauretta-ugolini_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\autunno-inverno-lauretta-ugolini_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/carnival-mask.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\carnival-mask.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/carnival-mask_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\carnival-mask_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/dall-acino-al-calice-lauretta-ugolini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\dall-acino-al-calice-lauretta-ugolini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/dall-acino-al-calice-lauretta-ugolini_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\dall-acino-al-calice-lauretta-ugolini_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/frumento.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\frumento.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/frumento_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\frumento_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/limoni.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\limoni.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/limoni_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\limoni_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/pasta-e-magia.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\pasta-e-magia.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/pasta-e-magia_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\pasta-e-magia_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/peperoni.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\peperoni.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/peperoni_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\peperoni_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/ribes.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\ribes.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/ribes_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\ribes_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/secca.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\secca.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/secca_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\secca_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/tempo-di-mele.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\tempo-di-mele.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/17/images/tempo-di-mele_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\17\images\tempo-di-mele_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/fuochi-230423-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\fuochi-230423-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/fuochi-230423-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\fuochi-230423-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/fuochi-230423.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\fuochi-230423.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/fuochi-230423_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\fuochi-230423_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/nicola-barbati-villapiana-high.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\nicola-barbati-villapiana-high.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/nicola-barbati-villapiana-high_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\nicola-barbati-villapiana-high_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-04_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-04_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-05.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/18/images/villapiana-bynight-05_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\18\images\villapiana-bynight-05_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/acquedotto.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\acquedotto.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/acquedotto_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\acquedotto_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/chiesa-madre-notte-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\chiesa-madre-notte-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/chiesa-madre-notte-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\chiesa-madre-notte-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/covoni-05.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\covoni-05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/covoni-05_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\covoni-05_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0003-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0003-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0003-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0003-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0025-r6063omi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0025-r6063omi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0025-r6063omi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0025-r6063omi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0123-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0123-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0123-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0123-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0272-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0272-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/dsc-0272-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\dsc-0272-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/img-20190814-230810.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\img-20190814-230810.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/img-20190814-230810_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\img-20190814-230810_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/porta-dei-santi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\porta-dei-santi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/porta-dei-santi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\porta-dei-santi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/ruderi-di-tripaola.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\ruderi-di-tripaola.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/ruderi-di-tripaola_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\ruderi-di-tripaola_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/torre-castello-notte-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\torre-castello-notte-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/torre-castello-notte-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\torre-castello-notte-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/villapiana-dal-satanasso.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\villapiana-dal-satanasso.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/villapiana-dal-satanasso_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\villapiana-dal-satanasso_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/villapiana-lido-114.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\villapiana-lido-114.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/19/images/villapiana-lido-114_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\19\images\villapiana-lido-114_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/01-accoglienza.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\01-accoglienza.jpg
 Content Type: image/jpeg
@@ -650,6 +2014,614 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/14-monsign
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\14-monsignore_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/01-valentina-bria.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\01-valentina-bria.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/01-valentina-bria_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\01-valentina-bria_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/02-valentina-bria.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\02-valentina-bria.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/02-valentina-bria_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\02-valentina-bria_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/03-maria-costa-alba-lido.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\03-maria-costa-alba-lido.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/03-maria-costa-alba-lido_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\03-maria-costa-alba-lido_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/04-maria-costa-torre-castello.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\04-maria-costa-torre-castello.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/04-maria-costa-torre-castello_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\04-maria-costa-torre-castello_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/05-giuseppe-d-alba.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\05-giuseppe-d-alba.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/05-giuseppe-d-alba_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\05-giuseppe-d-alba_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/06-giuseppe-d-alba.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\06-giuseppe-d-alba.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/06-giuseppe-d-alba_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\06-giuseppe-d-alba_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/07-vincenzo-diodati.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\07-vincenzo-diodati.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/07-vincenzo-diodati_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\07-vincenzo-diodati_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/08-vincenzo-diodati.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\08-vincenzo-diodati.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/08-vincenzo-diodati_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\08-vincenzo-diodati_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/09-emilio-pace-porta-dei-santi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\09-emilio-pace-porta-dei-santi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/09-emilio-pace-porta-dei-santi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\09-emilio-pace-porta-dei-santi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/10-emilio-pace-chiesa-madre.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\10-emilio-pace-chiesa-madre.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/10-emilio-pace-chiesa-madre_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\10-emilio-pace-chiesa-madre_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione_thumb.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione_thumb.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma_thumb.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma_thumb.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319_thumb.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319_thumb.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-_thumb.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-_thumb.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/31.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\31.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/31_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\31_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/4_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\4_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/5_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\5_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/6.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/6_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\6_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/aaa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\aaa.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/aaa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\aaa_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/bbb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\bbb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/bbb_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\bbb_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ccc.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ccc.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ccc_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ccc_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ddd.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ddd.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ddd_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ddd_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/eee.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\eee.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/eee_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\eee_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/fff.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\fff.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/fff_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\fff_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ggg.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ggg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/ggg_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\ggg_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/hhh.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\hhh.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/hhh_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\hhh_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/manifesto-25062023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\manifesto-25062023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/manifesto-25062023-def_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\manifesto-25062023-def_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/01-geoy3srm.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\01-geoy3srm.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/01-geoy3srm_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\01-geoy3srm_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/05-5gdswws5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\05-5gdswws5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/05-5gdswws5_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\05-5gdswws5_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/07-qi6gcvwn.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\07-qi6gcvwn.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/07-qi6gcvwn_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\07-qi6gcvwn_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/08-cbv9bmxm.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\08-cbv9bmxm.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/08-cbv9bmxm_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\08-cbv9bmxm_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/12-bzm92h9f.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\12-bzm92h9f.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/12-bzm92h9f_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\12-bzm92h9f_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/14-xdn2ioyy.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\14-xdn2ioyy.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/14-xdn2ioyy_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\14-xdn2ioyy_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/15-yjrqxpxl.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\15-yjrqxpxl.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/15-yjrqxpxl_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\15-yjrqxpxl_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/18-h1lrxhbi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\18-h1lrxhbi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/18-h1lrxhbi_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\18-h1lrxhbi_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/21-irgw9i38.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\21-irgw9i38.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/21-irgw9i38_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\21-irgw9i38_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/22-9qiz8u4o.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\22-9qiz8u4o.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/22-9qiz8u4o_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\22-9qiz8u4o_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/27-cwbru6om.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\27-cwbru6om.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/27-cwbru6om_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\27-cwbru6om_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/manifesto-28052023-vba.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\manifesto-28052023-vba.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/5/images/manifesto-28052023-vba_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\5\images\manifesto-28052023-vba_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/01-a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\01-a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/01-a_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\01-a_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/03-0t6mn4ia.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\03-0t6mn4ia.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/03-0t6mn4ia_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\03-0t6mn4ia_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/05-m4t8s8hr.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\05-m4t8s8hr.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/05-m4t8s8hr_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\05-m4t8s8hr_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/09-n9m4a5zg.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\09-n9m4a5zg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/09-n9m4a5zg_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\09-n9m4a5zg_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/10-x6ve5cne.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\10-x6ve5cne.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/10-x6ve5cne_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\10-x6ve5cne_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/11-jt5p0046.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\11-jt5p0046.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/11-jt5p0046_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\11-jt5p0046_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/13-qh93orgc.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\13-qh93orgc.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/13-qh93orgc_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\13-qh93orgc_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/14-8pzsiwhu.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\14-8pzsiwhu.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/14-8pzsiwhu_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\14-8pzsiwhu_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/16-uqph9459.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\16-uqph9459.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/16-uqph9459_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\16-uqph9459_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/17-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\17-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/17-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\17-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/22.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\22.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/22_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\22_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/26.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\26.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/26_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\26_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/27.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\27.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/27_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\27_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/31-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\31-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/31-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\31-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/33.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/33_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\33_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/35.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\35.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/35_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\35_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/38.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\38.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/38_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\38_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/42.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\42.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/42_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\42_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/46.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\46.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/461.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\461.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/461_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\461_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/462.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\462.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/462_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\462_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/463.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\463.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/463_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\463_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/464.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\464.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/464_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\464_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/46_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\46_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/02-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\02-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/02-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\02-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/05.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/05_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\05_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/06.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\06.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/06_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\06_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/07.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\07.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/07_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\07_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/08.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/08_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\08_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/09.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/09_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\09_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/11.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/11_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\11_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/12.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\12.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/12_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\12_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/13.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/13_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\13_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/15.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/15_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\15_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/targa-mavi-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\targa-mavi-02.jpg
 Content Type: image/jpeg
@@ -682,7 +2654,11 @@ Uri: http://192.168.229.128/la-leggenda-dei-tagliolini-dell-ascensione.html?view
 File Name: C:\Downloaded Web Sites\192.168.229.128\la-leggenda-dei-tagliolini-dell-ascensione-1.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?efb657d3177b1e120556307bf38e0ef9
+Uri: http://192.168.229.128/lauretta-ugolini.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\lauretta-ugolini.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?ca331ce4bbf9430ddf87deb917f8cb4c
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -692,6 +2668,14 @@ Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\core.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.229.128/media/system/js/joomla-hidden-mail-es5.min.js?b2c8377606bb898b64d21e2d06c6bb925371b9c3
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\joomla-hidden-mail-es5.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.229.128/media/system/js/joomla-hidden-mail.min.js?065992337609bf436e2fedbcbdc3de1406158b97
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\system\js\joomla-hidden-mail.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d
@@ -838,16 +2822,48 @@ Uri: http://192.168.229.128/media/vendor/jquery/js/jquery.min.js?3.7.1
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\jquery\js\jquery.min.js
 Content Type: text/javascript
 
+Uri: http://192.168.229.128/media/vendor/webcomponentsjs/js/webcomponents-bundle.min.js?2.8.0
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\vendor\webcomponentsjs\js\webcomponents-bundle.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.229.128/media/videos/2023/12/14/flash-mob-al-gran-caffe-gambrinus-tra-turisti-e-napoletani.mp4
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\videos\2023\12\14\flash-mob-al-gran-caffe-gambrinus-tra-turisti-e-napoletani.mp4
+Content Type: video/mp4
+
+Uri: http://192.168.229.128/media/videos/2023/12/14/genetica-e-umanita--.mp4
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\videos\2023\12\14\genetica-e-umanita--.mp4
+Content Type: video/mp4
+
 Uri: http://192.168.229.128/medicina.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\medicina.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/mostra-fotografica-restanza-e-resilienza.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\mostra-fotografica-restanza-e-resilienza.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/mostra-fotografica-sul-pane-fatto-in-casa.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\mostra-fotografica-sul-pane-fatto-in-casa.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/nicola-barbati.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\nicola-barbati.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\piccola-mostra-fotografica-sale,-arte-tabacchi.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/pier-paolo-pasolini.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\pier-paolo-pasolini.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/primo-incontro-poesia-dialettale.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\primo-incontro-poesia-dialettale.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/progetto-villapiana-23-bellezza-e-solidarietà.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\progetto-villapiana-23-bellezza-e-solidarietà.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/scienza.html
@@ -862,10 +2878,6 @@ Uri: http://192.168.229.128/storia.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\storia.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/tabasciajà.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\tabasciajà.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/teatro.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\teatro.html
 Content Type: text/html
@@ -873,6 +2885,10 @@ Content Type: text/html
 Uri: http://192.168.229.128/templates/shaper_helixultimate/images/menu-bg.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\templates\shaper_helixultimate\images\menu-bg.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/territorio-e-borgo.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\territorio-e-borgo.html
+Content Type: text/html
 
 Uri: http://192.168.229.128/u-carrüšl-la-trottola.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\u-carrüšl-la-trottola.html
@@ -1056,9 +3072,5 @@ Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
-Content Type: application/pdf
-
-Uri: https://ipfs.io/ipfs/QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp/Nahe Stämme.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmYVjtGre4746TzTTEPiqgQ9FfGrELNZ98NsumLpYrcMKp\Nahe Stämme.pdf
 Content Type: application/pdf
 
