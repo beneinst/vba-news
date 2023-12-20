@@ -2,6 +2,10 @@ Uri: http://192.168.229.128/
 File Name: C:\Downloaded Web Sites\192.168.229.128\index.htm
 Content Type: text/html
 
+Uri: http://192.168.229.128/alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/apriti-borgo-2022-terza-edizione-borgo-in-una-notte-di-fine-estate.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\apriti-borgo-2022-terza-edizione-borgo-in-una-notte-di-fine-estate.html
 Content Type: text/html
@@ -38,15 +42,15 @@ Uri: http://192.168.229.128/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -54,7 +58,7 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -66,11 +70,11 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?79ff9637b74326c362fb6f7f5801a7ba
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?ff95f6ae719fe8f97c4bc8456a81a05a
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -98,6 +102,10 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/webfonts/fa-soli
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
+Uri: http://192.168.229.128/comunicato-stampa-3°-esperimento-di-villapiana.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\comunicato-stampa-3°-esperimento-di-villapiana.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/contatti.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\contatti.html
 Content Type: text/html
@@ -118,12 +126,24 @@ Uri: http://192.168.229.128/dialetto.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\dialetto.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/due-fotografie-commentate-da-ab.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\due-fotografie-commentate-da-ab.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/elsewhere.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\elsewhere.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/fotografia.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\fotografia.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/fotone-onda.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\fotone-onda.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/francischi-i-vurpi.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/galleria-centro-del-dialetto.html
@@ -146,12 +166,12 @@ Uri: http://192.168.229.128/galleria-fotografica-mostra-volti-e-luoghi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-fotografica-mostra-volti-e-luoghi.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/galleria-fotografica-mostra-volti-e-luoghi.html?view=article&id=33:immagini-dal-web,-commentate-da-ab&catid=19
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-fotografica-mostra-volti-e-luoghi-1.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/graziella-alphonse.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\graziella-alphonse.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/home
+File Name: C:\Downloaded Web Sites\192.168.229.128\home.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/i-riti-di-passaggio-nel-mondo-culturale-della-arberia.html
@@ -160,6 +180,10 @@ Content Type: text/html
 
 Uri: http://192.168.229.128/il-pane-fatto-in-casa-sacralità-che-si-ripete.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\il-pane-fatto-in-casa-sacralità-che-si-ripete.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/il-tempo-che-fu-della-bellezza.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\il-tempo-che-fu-della-bellezza.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/images/2023/12/06/1home_5-new.jpg
@@ -226,6 +250,10 @@ Uri: http://192.168.229.128/images/2023/12/13/sgfr.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\13\sgfr.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2023/12/14/manifesto-26032023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\manifesto-26032023-def.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/2023/12/14/photo_2023-12-14_11-04-40.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\photo_2023-12-14_11-04-40.jpg
 Content Type: image/jpeg
@@ -270,9 +298,41 @@ Uri: http://192.168.229.128/images/2023/12/17/HY1_3.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\17\HY1_3.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2023/12/18/ddfdsd.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\ddfdsd.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/18/dsc-0005-4li0ozro.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\dsc-0005-4li0ozro.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/2023/12/18/Eveneto-20-Novembre-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Eveneto-20-Novembre-2022.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/18/francesco-storia1a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\francesco-storia1a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/18/Image_001.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Image_001.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/18/Image_003a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Image_003a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/18/Sibarys-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Sibarys-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2023/12/19/Image_001-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\19\Image_001-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/centro-radionica-03.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\centro-radionica-03.jpg
@@ -381,10 +441,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/arte-mavi/angelo-mavi.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\angelo-mavi.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/arte-mavi/Angelo-Ventimiglia-articolo.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\Angelo-Ventimiglia-articolo.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/ESantoro-Tutti-2012--2-.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\ESantoro-Tutti-2012--2-.jpg
@@ -554,9 +610,21 @@ Uri: http://192.168.229.128/images/pagine/cultura/mgqwba7xkuqff0gbs3l5ltnxfnt.jp
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mgqwba7xkuqff0gbs3l5ltnxfnt.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/Dialetto/Curuemm.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Curuemm.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.229.128/images/pagine/Dialetto/federico-dialetto--2--new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\federico-dialetto--2--new.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/LaLeggendadeiTagliolini.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\LaLeggendadeiTagliolini.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/latrottola.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\latrottola.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-25-giugno-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-25-giugno-2022.jpg
@@ -565,6 +633,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Dialetto/pane.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\pane.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/t2.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\t2.jpg
@@ -798,17 +870,221 @@ Uri: http://192.168.229.128/images/pagine/medicina/2-removebg-preview-1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\2-removebg-preview-1.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/pagine/scienza/canale-youtube.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\canale-youtube.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/pagine/scienza/centro-radionica-03_1s7vv4cq.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\centro-radionica-03_1s7vv4cq.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/evento-15-05-2022-def.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\evento-15-05-2022-def.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_05.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_06.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_06.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_07.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_07.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_08.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_09.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_10.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_11.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_12.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_12.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_13.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_14.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_14.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_15.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_16.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_16.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_18.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_18.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_20.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_20.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_22.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_22.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_23.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_23.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_24.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_24.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_25.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_25.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_28.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_28.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_29.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_29.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_30.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_30.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_34.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_34.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_35.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_35.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_36.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_36.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_37.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_37.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_38.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_38.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_39.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_39.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_41.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_41.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_44.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_44.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_45.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_45.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_46.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_46.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_47.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_47.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_48.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_48.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_49.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_49.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_50.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_50.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/sociale/antonio-socialek.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\antonio-socialek.png
 Content Type: image/png
-
-Uri: http://192.168.229.128/images/pagine/sociale/Due-Fotografie-rev-02.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Due-Fotografie-rev-02.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/sociale/enzo-favale.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\enzo-favale.jpg
@@ -816,6 +1092,14 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/sociale/hy1_3.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\hy1_3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Image_001x.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Image_001x.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Image_002x.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Image_002x.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/sociale/Immagini dal Web/Image_001.jpg
@@ -862,14 +1146,6 @@ Uri: http://192.168.229.128/images/pagine/sociale/Immagini dal Web/Image_011.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Immagini dal Web\Image_011.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/pagine/sociale/Immagini-dal-web.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Immagini-dal-web.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/sociale/libretto-mostra-rev-03.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\libretto-mostra-rev-03.pdf
-Content Type: application/pdf
-
 Uri: http://192.168.229.128/images/pagine/sociale/manifesto-rev-06.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\manifesto-rev-06.png
 Content Type: image/png
@@ -878,9 +1154,205 @@ Uri: http://192.168.229.128/images/pagine/sociale/punto-incontro-villapiana.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\punto-incontro-villapiana.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/pagine/sociale/Volti-e-Luoghi--Faces---Places-_C.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti-e-Luoghi--Faces---Places-_C.pdf
-Content Type: application/pdf
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_06.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_06.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_08.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_09.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_11.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_12.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_12.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_14.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_14.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_15.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_16.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_16.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_17.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_17.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_18.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_18.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_19.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_19.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_22.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_22.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_23.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_23.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_24.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_24.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_25.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_25.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_26.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_26.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_28.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_28.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_29.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_29.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_30.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_30.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_31.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_31.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_32.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_32.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_33.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_34.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_34.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_35.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_35.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_36.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_36.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_37.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_37.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_38.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_38.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_39.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_39.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_40.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_40.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_41.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_41.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_42.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_42.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_43.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_43.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_44.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_44.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_45.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_45.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_46.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_46.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_47.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_47.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_48.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_48.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_49.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_49.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_50.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_50.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/storia/Dalla-torre-al-borgo.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Dalla-torre-al-borgo.pdf
@@ -894,13 +1366,33 @@ Uri: http://192.168.229.128/images/pagine/storia/francesco-storia1a.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\francesco-storia1a.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/storia/Image_001.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_001.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/storia/Image_001a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_001a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/storia/Image_002-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_002-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/storia/Image_002a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_002a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/storia/Image_003a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_003a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/storia/Image_004a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_004a.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/pagine/storia/NOTIZIE-ECCLESIASTICHE-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\NOTIZIE-ECCLESIASTICHE-02.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/storia/Sibarys-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Sibarys-01.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/storia/Sibarys-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Sibarys-02.jpg
@@ -3018,6 +3510,246 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/6/images/46_thumb.j
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\6\images\46_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0011.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0011.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0011_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0011_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0016.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0016.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0016_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0016_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0019.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0019.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0019_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0019_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0020-jkl5j6ms.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0020-jkl5j6ms.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0020-jkl5j6ms_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0020-jkl5j6ms_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0021-b8sv7h08.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0021-b8sv7h08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0021-b8sv7h08_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0021-b8sv7h08_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0022-lpgn250r.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0022-lpgn250r.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0022-lpgn250r_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0022-lpgn250r_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0023_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0023_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0025.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0025.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0025_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0025_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0029.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0029.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0029_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0029_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0031.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0031.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0031_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0031_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0033.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0033.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0033_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0033_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0038.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0038.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0038_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0038_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0040.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0040.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0040_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0040_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0042.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0042.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0042_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0042_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0043.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0043.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0043_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0043_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0044.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0044.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0044_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0044_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0047.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0047.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0047_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0047_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0048.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0048.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0048_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0048_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0049.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0049.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/7/images/dsc-0049_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\7\images\dsc-0049_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-03.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-03_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-03_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-04.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-04_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-04_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-09.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-09_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-09_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-10.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-10_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-10_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-11.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-11_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-11_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-12.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-12.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-12_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-12_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-13.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-13_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-13_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-14.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-14.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-14_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-14_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-15.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/8/images/incanto-15_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\8\images\incanto-15_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/01.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\01.jpg
 Content Type: image/jpeg
@@ -3122,6 +3854,10 @@ Uri: http://192.168.229.128/images/targa-vba.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\targa-vba.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/immagini-dal-web,-commentate-da-ab.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\immagini-dal-web,-commentate-da-ab.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/imprenditoria.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\imprenditoria.html
 Content Type: text/html
@@ -3130,8 +3866,16 @@ Uri: http://192.168.229.128/inaugurazione-centro-del-dialetto.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\inaugurazione-centro-del-dialetto.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/incanto-nel-borgo.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\incanto-nel-borgo.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/index.php?option=com_sppagebuilder&view=page&id=13
 File Name: C:\Downloaded Web Sites\192.168.229.128\index.php.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/k-radioscopia-in-microonde-hertziane-osservatorio-di-villapiana.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\k-radioscopia-in-microonde-hertziane-osservatorio-di-villapiana.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/la-guerra-tra-sibari-e-crotone.html
@@ -3158,7 +3902,19 @@ Uri: http://192.168.229.128/lauretta-ugolini.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\lauretta-ugolini.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?b4b8172f22cf6e93c8bab42876ce18b9
+Uri: http://192.168.229.128/libretto-mostra-volti-e-luoghi.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\libretto-mostra-volti-e-luoghi.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/links-al-canale-youtube.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\links-al-canale-youtube.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/matematica-e-bellezza.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?c1c58a7c4f24b38a56c4449c3220996f
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3350,12 +4106,20 @@ Uri: http://192.168.229.128/nicola-barbati.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\nicola-barbati.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/notizie-ecclesiastiche.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\notizie-ecclesiastiche.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\piccola-mostra-fotografica-sale,-arte-tabacchi.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/pier-paolo-pasolini.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\pier-paolo-pasolini.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/possono-le-onde-elettromagnetiche-distruggere-il-coronavirus.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\possono-le-onde-elettromagnetiche-distruggere-il-coronavirus.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/primo-incontro-poesia-dialettale.html
@@ -3366,6 +4130,14 @@ Uri: http://192.168.229.128/progetto-villapiana-23-bellezza-e-solidarietà.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\progetto-villapiana-23-bellezza-e-solidarietà.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/radionica.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\radionica.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/relazione-gaetano-silvestri.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\relazione-gaetano-silvestri.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/scienza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\scienza.html
 Content Type: text/html
@@ -3374,12 +4146,12 @@ Uri: http://192.168.229.128/si-può-progettare-la-solidarietà.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\si-può-progettare-la-solidarietà.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/si-può-progettare-la-solidarietà.html?view=article&id=33:immagini-dal-web,-commentate-da-ab&catid=19
-File Name: C:\Downloaded Web Sites\192.168.229.128\si-può-progettare-la-solidarietà-1.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/sociale.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\sociale.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/sospensione-pubblicazione-dati-orclav.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\sospensione-pubblicazione-dati-orclav.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/storia.html
@@ -3400,6 +4172,10 @@ Content Type: text/html
 
 Uri: http://192.168.229.128/u-carrüšl-la-trottola.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\u-carrüšl-la-trottola.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/villapiana-e-dintorni.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\villapiana-e-dintorni.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/villapianesi.html
