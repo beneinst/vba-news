@@ -198,18 +198,6 @@ Uri: http://192.168.229.128/images/2023/12/06/la-piuchella-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\la-piuchella-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/09/Locandina-25-giugno-2022_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\09\Locandina-25-giugno-2022_thumbnail.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/05-targa-k.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\05-targa-k.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/10/c1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1.jpg
 Content Type: image/jpeg
@@ -218,40 +206,12 @@ Uri: http://192.168.229.128/images/2023/12/10/c1_thumbnail.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/10/c2.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/Eveneto-20-Novembre-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eveneto-20-Novembre-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/Eventoico.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eventoico.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/Eventoico_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\Eventoico_thumbnail.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/t1.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\t1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/t1_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\t1_thumbnail.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\11\1home_6a.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/13/sgfr.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\13\sgfr.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/14/manifesto-26032023-def.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\14\manifesto-26032023-def.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/14/photo_2023-12-14_11-04-40.jpg
@@ -306,29 +266,153 @@ Uri: http://192.168.229.128/images/2023/12/18/dsc-0005-4li0ozro.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\dsc-0005-4li0ozro.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/18/Eveneto-20-Novembre-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Eveneto-20-Novembre-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/18/francesco-storia1a.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\francesco-storia1a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/18/Image_001.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Image_001.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/18/Image_003a.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Image_003a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/18/Sibarys-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\18\Sibarys-01.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/19/Image_001-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\19\Image_001-removebg-preview.png
 Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/04/Image_001x.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\04\Image_001x.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/04/manifesto-rev-06r.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\04\manifesto-rev-06r.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/1a80f903a94215c931cf17aa7751433d.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\1a80f903a94215c931cf17aa7751433d.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/05/canale-youtube.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\canale-youtube.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/05/coron.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\coron.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/05/dsc-0020_edited1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\dsc-0020_edited1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/Evento-15-05-2022-def.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Evento-15-05-2022-def.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/Fotone-Onda6m.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Fotone-Onda6m.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/Image_003-(1)g.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Image_003-(1)g.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/OIG-(2).jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\OIG-(2).jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/oig-4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\oig-4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/05/Presentazione-Dati-di-Osservazione_edited.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Presentazione-Dati-di-Osservazione_edited.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/06/05-targa-k.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\05-targa-k.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/05-targa-k_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\05-targa-k_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/c2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\c2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Eveneto-20-Novembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eveneto-20-Novembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Eveneto-20-Novembre-20221.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eveneto-20-Novembre-20221.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Eventoico.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eventoico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Eventoico_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eventoico_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/francesco-storia1a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\francesco-storia1a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Image_001-new.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Image_001-new.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/incanto-03_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\incanto-03_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/Sibarys-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Sibarys-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/stregone.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\stregone.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/t1_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\t1_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/06/t1_edited_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\t1_edited_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/09.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/evento-10-settembre.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\evento-10-settembre.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/Locandina-Evento-04-Dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\Locandina-Evento-04-Dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/Locandina-Pace-Web.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\Locandina-Pace-Web.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/manifesto-15102023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-15102023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/manifesto-21052023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-21052023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/manifesto-25062023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-25062023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/manifesto-26032023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-26032023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/07/manifesto-28052023-VBA.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-28052023-VBA.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
@@ -342,12 +426,12 @@ Uri: http://192.168.229.128/images/componenti/contwe.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\contwe.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
+Uri: http://192.168.229.128/images/componenti/fonts/Biryani-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\Biryani-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.229.128/images/componenti/fonts/NunitoSans_10pt-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NunitoSans_10pt-Regular.ttf
+Uri: http://192.168.229.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.229.128/images/componenti/img-home/3_1.png
@@ -426,8 +510,16 @@ Uri: http://192.168.229.128/images/componenti/tornaindietro.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/componenti/tornaindietro_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro_edited.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/componenti/villapiogo-04j.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\villapiogo-04j.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/Image_002.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\Image_002.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/logon.png
@@ -480,6 +572,122 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Centro-Radionica.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Centro-Radionica.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/00-Locandina-evento-15-ottobre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\00-Locandina-evento-15-ottobre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/2.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\2.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/3.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\3.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/33.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/4.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\4.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/5.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\5.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/6.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\6.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/7.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\7.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/evento-10-settembre.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\evento-10-settembre.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Evento-15-05-2022-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Evento-15-05-2022-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Evento-2-ottobre-2021.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Evento-2-ottobre-2021.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Evento-20-Novembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Evento-20-Novembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/evento-dialetto.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\evento-dialetto.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Evento-Marini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Evento-Marini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/evento-soprannomi.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\evento-soprannomi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Locandina-25-giugno-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Locandina-25-giugno-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/locandina-convegno--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\locandina-convegno--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Evento-04-Dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-04-Dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Evento-21-dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-21-dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Evento-27-Dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-27-Dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Pace-Web.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Pace-Web.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-15102023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-15102023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-21052023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-21052023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-25062023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-25062023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-26032023-def.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-26032023-def.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-28052023-VBA.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-28052023-VBA.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-Mostra-R-R.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-Mostra-R-R.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-07.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Report-Sito-Web-VBA-News-2023.pdf
@@ -878,9 +1086,49 @@ Uri: http://192.168.229.128/images/pagine/scienza/centro-radionica-03_1s7vv4cq.j
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\centro-radionica-03_1s7vv4cq.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/scienza/Comunicato-Stampa-15-magg-22-def.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Comunicato-Stampa-15-magg-22-def.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/scienza/Elenco-link-video-YouTube.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Elenco-link-video-YouTube.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.229.128/images/pagine/scienza/evento-15-05-2022-def.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\evento-15-05-2022-def.jpeg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda3.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda6.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/scienza/Links-su-Canale-YouTube.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Links-su-Canale-YouTube.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
@@ -1082,9 +1330,45 @@ Uri: http://192.168.229.128/images/pagine/scienza/Litografia Calabria/La-fenomen
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazione-Dati-di-Osservazione.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazione-Dati-di-Osservazione.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazionedati/Presentazione-Dati-di-Osservazione.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazionedati\Presentazione-Dati-di-Osservazione.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazionedati/Presentazione-Dati-di-Osservazione2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazionedati\Presentazione-Dati-di-Osservazione2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazionedati/Presentazione-Dati-di-Osservazione3.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazionedati\Presentazione-Dati-di-Osservazione3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazionedati/Presentazione-Dati-di-Osservazione4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazionedati\Presentazione-Dati-di-Osservazione4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Presentazionedati/Presentazione-Dati-di-Osservazione5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Presentazionedati\Presentazione-Dati-di-Osservazione5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/scienza/Radionica-02.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Radionica-02.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/scienza/RELAZIONE-VILfirma-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\RELAZIONE-VILfirma-removebg-preview.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/pagine/sociale/antonio-socialek.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\antonio-socialek.png
 Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/sociale/Due-Fotografie-rev-02.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Due-Fotografie-rev-02.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/sociale/enzo-favale.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\enzo-favale.jpg
@@ -1145,6 +1429,138 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/sociale/Immagini dal Web/Image_011.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Immagini dal Web\Image_011.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Immagini-dal-web.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Immagini-dal-web.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_003.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_003.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_004.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_004.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_005.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_005.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_006.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_006.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_007.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_007.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_008.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_008.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_009.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_009.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_010.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_010.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_011.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_011.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_012.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_012.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_013.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_013.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_014.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_014.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_015.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_015.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_016.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_016.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_017.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_017.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_018.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_018.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_019.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_019.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_020.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_020.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_021.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_021.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_023.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_023.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_024.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_024.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_025.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_025.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_026.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_026.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_027.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_027.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_028.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_029.gif
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_029.gif
+Content Type: image/gif
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_030.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_030.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_031.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_031.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_032.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_032.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_033.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_033.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/sociale/libretto-mostra-rev-03.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\libretto-mostra-rev-03.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/sociale/manifesto-rev-06.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\manifesto-rev-06.png
@@ -1469,6 +1885,10 @@ Content Type: application/pdf
 Uri: http://192.168.229.128/images/pagine/Villapianesi/gianni-villapianesi--2--new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\gianni-villapianesi--2--new.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/Villapianesi/Tabasciaja.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Tabasciaja.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/Villapianesi/Villapianesi_2.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Villapianesi_2.pdf
@@ -3914,7 +4334,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?c1c58a7c4f24b38a56c4449c3220996f
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?f533badfc7c1c0f81b1106e34ae38e3b
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4122,10 +4542,6 @@ Uri: http://192.168.229.128/possono-le-onde-elettromagnetiche-distruggere-il-cor
 File Name: C:\Downloaded Web Sites\192.168.229.128\possono-le-onde-elettromagnetiche-distruggere-il-coronavirus.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/primo-incontro-poesia-dialettale.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\primo-incontro-poesia-dialettale.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/progetto-villapiana-23-bellezza-e-solidarietà.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\progetto-villapiana-23-bellezza-e-solidarietà.html
 Content Type: text/html
@@ -4158,6 +4574,10 @@ Uri: http://192.168.229.128/storia.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\storia.html
 Content Type: text/html
 
+Uri: http://192.168.229.128/tabasciajà.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\tabasciajà.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/teatro.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\teatro.html
 Content Type: text/html
@@ -4182,13 +4602,41 @@ Uri: http://192.168.229.128/villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi.html
 Content Type: text/html
 
+Uri: http://fonts.googleapis.com/css?family=Biryani:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.128\css
+Content Type: text/css
+
 Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=Nunito Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css
-Content Type: text/css
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUoTOQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdfUoTOQ.ttf
+Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
@@ -4198,161 +4646,17 @@ Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UjK_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UjK_c.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xt1Ug.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXt1Ug.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Nunito+Sans:opsz@6..12&display=swap
+Uri: https://fonts.googleapis.com/css2?family=Biryani&family=DM+Serif+Display&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css2
 Content Type: text/css
 
-Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
-Content Type: text/css
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdTUw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdTUw.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL-U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL-U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL8U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL8U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL9U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL9U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLxU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLxU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLzU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CLzU9upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL_U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL_U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
-Content Type: font/ttf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Condiscendenza umana.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Condiscendenza umana.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Io ho molte credenze.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Io ho molte credenze.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Júpiter, el sol más grande.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Júpiter, el sol más grande.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Le vrai poids des choses.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Le vrai poids des choses.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Mercurio, io e tu.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Mercurio, io e tu.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Per che sempre.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Per che sempre.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Real justifications.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Real justifications.pdf
-Content Type: application/pdf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
