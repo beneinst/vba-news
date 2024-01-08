@@ -4602,3 +4602,51 @@ Uri: http://192.168.229.128/villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi.html
 Content Type: text/html
 
+Uri: http://fonts.googleapis.com/css?family=Biryani:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.128\css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTZYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUoTOQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdfUoTOQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+Content Type: font/ttf
+
+Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
+Content Type: application/pdf
+
