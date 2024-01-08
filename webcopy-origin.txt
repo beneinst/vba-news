@@ -4334,7 +4334,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?b2b8d90d6310c66353161f14e269e905
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?82271962d6745ef4c011c1b234a41fe0
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4644,18 +4644,6 @@ Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.googleapis.com/css2?family=Biryani&family=DM+Serif+Display&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css2
-Content Type: text/css
-
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdTUw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdTUw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 Content Type: font/ttf
 
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
