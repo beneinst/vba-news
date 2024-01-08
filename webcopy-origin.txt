@@ -4330,7 +4330,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?445c9930965f7edd57a50124863a595f
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?dfc06bd020b581c98919f07111432864
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
