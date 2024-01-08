@@ -55,7 +55,7 @@
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"721894c56f87c57f572a89a8fc770859"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.229.128\/","base":"","baseFull":"http:\/\/192.168.229.128\/"},"csrf.token":"a12184fde729db766f27c0238406d828"}</script>
 	<script src="media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2"></script>
 	<script src="media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule="" defer=""></script>
 	<script src="media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be" defer="" nomodule=""></script>
@@ -92,17 +92,35 @@
     font-style: normal;
   }
 
-  /* Applica i font ai titoli e a tutti gli h */
-  h1, h2, h3, h4, h5, h6 {
+  /* Applica i font ai titoli */
+  .sppb-addon-title h1,
+  .sppb-addon-title h2,
+  .sppb-addon-title h3,
+  .sppb-addon-title h4,
+  .sppb-addon-title h5,
+  .sppb-addon-title h6 {
     font-family: 'DM Serif Display', serif;
-    font-weight: 400; /* Sostituisci con il peso desiderato, ad esempio: 400, 500, 600, ecc. */
+    font-weight: 400;
   }
 
-  /* Applica il font al testo normale */
-body, p, span, div {
+  /* Applica i font al testo normale nelle zone di contenuto */
+  .sppb-addon-content p,
+  .sppb-addon-content span,
+  .sppb-addon-content div {
     font-family: 'Biryani', sans-serif;
-    font-size: 16px; /* Imposta la dimensione del carattere a 16px */
-    line-height: 1.88; /* Imposta l'altezza della riga a 1.88 */  }
+    font-size: 16px;
+    line-height: 1.88;
+  }
+
+  /* Altri stili generici */
+  body,
+  p,
+  span,
+  div {
+    font-family: 'Biryani', sans-serif;
+    font-size: 15px;
+    line-height: 1.88;
+  }
 </style>
 <style>
     .xxx {
