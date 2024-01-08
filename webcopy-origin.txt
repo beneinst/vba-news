@@ -4334,7 +4334,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?82271962d6745ef4c011c1b234a41fe0
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?30e403bbcc4fce4eceb0bdb08ad81fee
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4603,6 +4603,10 @@ File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi.html
 Content Type: text/html
 
 Uri: http://fonts.googleapis.com/css?family=Biryani:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Biryani:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css
 Content Type: text/css
 
@@ -4610,24 +4614,48 @@ Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,3
 File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
 Content Type: text/css
 
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTlYVw.ttf
+Content Type: font/ttf
+
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTlYVw.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTZYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTZYVw.ttf
 Content Type: font/ttf
 
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTlYVw.ttf
+Content Type: font/ttf
+
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTZYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTlYVw.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTZYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTZYVw.ttf
 Content Type: font/ttf
 
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTlYVw.ttf
+Content Type: font/ttf
+
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTZYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTZYVw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTlYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTlYVw.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTZYVw.ttf
@@ -4636,6 +4664,10 @@ Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUoTOQ.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdfUoTOQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUUTOQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdfUUTOQ.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
