@@ -50,7 +50,7 @@
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.229.128/","base":"","baseFull":"http://192.168.229.128/"},"csrf.token":"3f8cd5a7038c7e4b78b517ddd153f01a"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.229.128/","base":"","baseFull":"http://192.168.229.128/"},"csrf.token":"1cc4c8b51bdbdfb703af4abe7476603f"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -144,7 +144,7 @@
   }
 </style>
 	</head>
-	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-251 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
+	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-251 it-it ltr layout-fluid offcanvas-init offcanvs-position-left">
 
 		
 					<div class="sp-pre-loader">
@@ -153,7 +153,6 @@
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
 				
-	<div class="sticky-header-placeholder"></div>
 <header id="sp-header">
 	<div class="container">
 		<div class="container-inner">
@@ -189,7 +188,47 @@
 				
 	
 <div class="row">
-	<div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div>
+	<div id="sp-title" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom182" class="mod-custom custom">
+    <style>
+/* Stili della progress bar */
+#progress-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  background-color: #ccc;
+  z-index: 2000;
+}
+
+#progress-bar {
+  height: 100%;
+  background: #faaa89;
+  width: 0;
+  transition: width 0.3s ease;
+}
+</style>
+
+<script>
+// Codice JavaScript per la progress bar
+window.addEventListener('scroll', updateProgressBar);
+
+function updateProgressBar() {
+  var scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+  var scrolled = (window.scrollY / scrollHeight) * 100;
+  document.getElementById("progress-bar").style.width = scrolled + "%";
+}
+</script>
+
+<!-- Progress bar -->
+<div id="progress-container">
+  <div id="progress-bar"></div>
+</div>
+
+
+</div>
+</div></div></div></div></div>
 				
 </section>
 <section id="sp-main-body">
