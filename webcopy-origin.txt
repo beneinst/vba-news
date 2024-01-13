@@ -414,6 +414,46 @@ Uri: http://192.168.229.128/images/2024/01/07/manifesto-28052023-VBA.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\07\manifesto-28052023-VBA.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2024/01/13/1-r.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\1-r.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/2-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\2-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/3.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\3.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/4-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\4-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/5-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\5-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/6-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\6-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/7-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\7-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/8-.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\8-.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/13/dsc_0100-new1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\dsc_0100-new1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/13/tele-a1-n.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\tele-a1-n.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
 Content Type: image/png
@@ -440,10 +480,6 @@ Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/img-home/Carnival-Mask.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Carnival-Mask.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/componenti/img-home/DSC_0100.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\DSC_0100.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/img-home/Evento-20-Novembre-2022.jpg
@@ -500,10 +536,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/componenti/img-home/tele-a1.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\tele-a1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/tornaindietro.png
@@ -4342,7 +4374,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?1c4d80
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?799920
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
