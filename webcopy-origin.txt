@@ -146,10 +146,6 @@ Uri: http://192.168.229.128/francischi-i-vurpi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/galleria-centro-del-dialetto.html
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-centro-del-dialetto.html
-Content Type: text/html
-
 Uri: http://192.168.229.128/galleria-fotografica-di-maria-costa.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-fotografica-di-maria-costa.html
 Content Type: text/html
@@ -200,10 +196,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/10/c1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2023/12/10/c1_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\10\c1_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2023/12/11/1home_6a.jpg
@@ -290,10 +282,6 @@ Uri: http://192.168.229.128/images/2024/01/05/canale-youtube.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\canale-youtube.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/01/05/coron.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\coron.png
-Content Type: image/png
-
 Uri: http://192.168.229.128/images/2024/01/05/dsc-0020_edited1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\dsc-0020_edited1.jpg
 Content Type: image/jpeg
@@ -322,32 +310,12 @@ Uri: http://192.168.229.128/images/2024/01/05/Presentazione-Dati-di-Osservazione
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Presentazione-Dati-di-Osservazione_edited.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/01/06/05-targa-k.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\05-targa-k.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/06/05-targa-k_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\05-targa-k_thumbnail.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2024/01/06/c2.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\c2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/01/06/Eveneto-20-Novembre-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eveneto-20-Novembre-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/06/Eveneto-20-Novembre-20221.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eveneto-20-Novembre-20221.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/06/Eventoico.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eventoico.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/06/Eventoico_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\Eventoico_thumbnail.jpg
+Uri: http://192.168.229.128/images/2024/01/06/c2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\06\c2_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2024/01/06/francesco-storia1a.jpg
@@ -454,9 +422,33 @@ Uri: http://192.168.229.128/images/2024/01/13/tele-a1-n.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\tele-a1-n.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2024/01/14/05-targa-k.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\05-targa-k.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/14/05-targa-k_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\05-targa-k_thumbnail.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/2024/01/14/foto-1-k-radioscopie.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\foto-1-k-radioscopie.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/14/mostra-pane-17.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\mostra-pane-17.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/14/mostra-pane-17_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\mostra-pane-17_thumbnail.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/14/OIG-(2).png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\OIG-(2).png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/14/OIG3.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\OIG3.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
@@ -872,10 +864,6 @@ Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-25-giugno-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-25-giugno-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/Dialetto/Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Locandina-evento-15-ottobre-2022_dju4b06d-new.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/pane.pdf
@@ -1530,6 +1518,10 @@ Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Ima
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_017.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_018.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_018.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_019.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_019.jpg
 Content Type: image/jpeg
@@ -1928,6 +1920,14 @@ Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/phocafavicon/favico.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\phocafavicon\favico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/evento-20-novembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\evento-20-novembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/evento-20-novembre-2022_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\evento-20-novembre-2022_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/mostra-pane-01.jpg
@@ -3178,6 +3178,14 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/14-monsign
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\14-monsignore_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/locandina-evento-15-ottobre-2022-dju4b06d.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\locandina-evento-15-ottobre-2022-dju4b06d.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/2/images/locandina-evento-15-ottobre-2022-dju4b06d_thumb.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\2\images\locandina-evento-15-ottobre-2022-dju4b06d_thumb.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/01-valentina-bria.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\01-valentina-bria.jpg
 Content Type: image/jpeg
@@ -4370,7 +4378,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?f97580
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?ba5c53
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
