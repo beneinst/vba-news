@@ -454,6 +454,10 @@ Uri: http://192.168.229.128/images/2024/01/13/tele-a1-n.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\13\tele-a1-n.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2024/01/14/foto-1-k-radioscopie.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\foto-1-k-radioscopie.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
 Content Type: image/png
@@ -484,10 +488,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/img-home/Evento-20-Novembre-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Evento-20-Novembre-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/componenti/img-home/Foto-1-K-radioscopie.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\Foto-1-K-radioscopie.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/img-home/iniziativa-diodato-per-d-bellini.jpg
@@ -4374,8 +4374,8 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?799920
-File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?f97580
+File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.128/media/legacy/js/jquery-noconflict.min.js?504da4
@@ -4621,8 +4621,4 @@ Content Type: font/ttf
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 Content Type: font/ttf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
-Content Type: application/pdf
 
