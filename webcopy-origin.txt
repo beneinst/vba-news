@@ -550,6 +550,14 @@ Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/componenti/OIG 6.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 6.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/componenti/OIG 7.jpeg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 7.jpeg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/componenti/tornaindietro_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro_edited.jpg
 Content Type: image/jpeg
