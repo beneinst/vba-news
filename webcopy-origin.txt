@@ -2,6 +2,10 @@ Uri: http://192.168.229.128/
 File Name: C:\Downloaded Web Sites\192.168.229.128\index.htm
 Content Type: text/html
 
+Uri: http://192.168.229.128/“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
+Content Type: text/html
+
 Uri: http://192.168.229.128/alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\alcune-brevi-considerazioni-sui-soprannomi-dei-villapianesi.html
 Content Type: text/html
@@ -144,6 +148,10 @@ Content Type: text/html
 
 Uri: http://192.168.229.128/francischi-i-vurpi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/galleria-fotografica-di-maria-costa.html
@@ -450,6 +458,18 @@ Uri: http://192.168.229.128/images/2024/01/14/OIG3.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\14\OIG3.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/2024/01/15/018-mavi-11-12-21thrt_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\15\018-mavi-11-12-21thrt_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/15/ANGELO-VENTIMIGLIA-5_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\15\ANGELO-VENTIMIGLIA-5_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/01/15/je_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\15\je_edited.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
 Content Type: image/png
@@ -529,10 +549,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/componenti/tornaindietro.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro.png
-Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/tornaindietro_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\tornaindietro_edited.jpg
@@ -3570,6 +3586,134 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/23/images/dsc-0025-
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\23\images\dsc-0025-q080shtp_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/010-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\010-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/010-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\010-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/012-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\012-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/012-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\012-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/015-mavi-11-12-21-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\015-mavi-11-12-21-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/015-mavi-11-12-21-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\015-mavi-11-12-21-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/016-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\016-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/016-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\016-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/017-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\017-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/017-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\017-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/018-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\018-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/018-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\018-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/019-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\019-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/019-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\019-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/020-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\020-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/020-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\020-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/1-01-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\1-01-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/1-01-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\1-01-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/22a-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\22a-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/22a-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\22a-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/33-2-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\33-2-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/33-2-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\33-2-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/36-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\36-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/36-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\36-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/5-02.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\5-02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/5-02_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\5-02_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/hh.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\hh.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/hh_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\hh_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/je.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\je.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/je_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\je_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/w.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/w_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\w_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/31.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\31.jpg
 Content Type: image/jpeg
@@ -4378,7 +4522,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?ba5c53
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?967575
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
