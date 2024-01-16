@@ -566,8 +566,8 @@ Uri: http://192.168.229.128/images/2024/01/16/OIG1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\OIG1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/01/16/shome2x.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\shome2x.jpg
+Uri: http://192.168.229.128/images/2024/01/16/shome3x.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\shome3x.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
@@ -5106,7 +5106,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9e06e5
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?6dad17
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
