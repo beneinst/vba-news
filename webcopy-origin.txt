@@ -6,20 +6,8 @@ Uri: http://192.168.229.128/“dialoghi-contemporanei”-–-allestimento-perman
 File Name: C:\Downloaded Web Sites\192.168.229.128\“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.feed?view=category&id=24&type=atom
-File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.feed?view=category&id=24&type=rss
-File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
-Content Type: text/html
-
-Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html?view=category&id=24
-File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/a-tavola-nel-borgo.html
