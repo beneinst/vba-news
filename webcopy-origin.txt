@@ -50,20 +50,8 @@ Uri: http://192.168.229.128/cache/com_templates/templates/shaper_helixultimate/5
 File Name: C:\Downloaded Web Sites\192.168.229.128\cache\com_templates\templates\shaper_helixultimate\52e02b7e15860e95371ad08a847bdc1b.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/che-cos’è-l’ipertensione-arteriosa.feed?view=category&id=25&type=atom
-File Name: C:\Downloaded Web Sites\192.168.229.128\che-cos’è-l’ipertensione-arteriosa-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.229.128/che-cos’è-l’ipertensione-arteriosa.feed?view=category&id=25&type=rss
-File Name: C:\Downloaded Web Sites\192.168.229.128\che-cos’è-l’ipertensione-arteriosa.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.229.128/che-cos’è-l’ipertensione-arteriosa.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\che-cos’è-l’ipertensione-arteriosa.html
-Content Type: text/html
-
-Uri: http://192.168.229.128/che-cos’è-l’ipertensione-arteriosa.html?view=category&id=25
-File Name: C:\Downloaded Web Sites\192.168.229.128\che-cos’è-l’ipertensione-arteriosa-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/chi-siamo.html
@@ -218,20 +206,8 @@ Uri: http://192.168.229.128/i-riti-di-passaggio-nel-mondo-culturale-della-arberi
 File Name: C:\Downloaded Web Sites\192.168.229.128\i-riti-di-passaggio-nel-mondo-culturale-della-arberia.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/il-melanoma-cutaneo.feed?view=category&id=25&type=atom
-File Name: C:\Downloaded Web Sites\192.168.229.128\il-melanoma-cutaneo-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.229.128/il-melanoma-cutaneo.feed?view=category&id=25&type=rss
-File Name: C:\Downloaded Web Sites\192.168.229.128\il-melanoma-cutaneo.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.229.128/il-melanoma-cutaneo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\il-melanoma-cutaneo.html
-Content Type: text/html
-
-Uri: http://192.168.229.128/il-melanoma-cutaneo.html?view=category&id=25
-File Name: C:\Downloaded Web Sites\192.168.229.128\il-melanoma-cutaneo-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/il-pane-fatto-in-casa-sacralità-che-si-ripete.html
@@ -544,10 +520,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2024/01/16/OIG-(10).jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\OIG-(10).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/16/OIG-(10)_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\OIG-(10)_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2024/01/16/OIG1.jpg
