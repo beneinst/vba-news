@@ -166,20 +166,8 @@ Uri: http://192.168.229.128/galleria-foto-mostra-dialoghi-di,-nicola-barbati.htm
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/galleria-foto-premiazione-storia-dell-imprenditoria.feed?view=category&id=24&type=atom
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-premiazione-storia-dell-imprenditoria-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.229.128/galleria-foto-premiazione-storia-dell-imprenditoria.feed?view=category&id=24&type=rss
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-premiazione-storia-dell-imprenditoria.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.229.128/galleria-foto-premiazione-storia-dell-imprenditoria.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-premiazione-storia-dell-imprenditoria.html
-Content Type: text/html
-
-Uri: http://192.168.229.128/galleria-foto-premiazione-storia-dell-imprenditoria.html?view=category&id=24
-File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-premiazione-storia-dell-imprenditoria-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/galleria-fotografica-di-maria-costa.html
@@ -506,16 +494,8 @@ Uri: http://192.168.229.128/images/2024/01/16/02-unjvqjg61.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\02-unjvqjg61.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/01/16/02-unjvqjg61_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\02-unjvqjg61_thumbnail.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2024/01/16/Locandina-evento-230422.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\Locandina-evento-230422.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/2024/01/16/Locandina-evento-230422_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\Locandina-evento-230422_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2024/01/16/OIG-(10).jpg
@@ -5042,7 +5022,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?8c07df
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?95eed1
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
