@@ -626,12 +626,20 @@ Uri: http://192.168.229.128/images/facebo1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\facebo1.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/facebook.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\facebook.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/Image_002.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\Image_002.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/insta-removebg-preview-1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\insta-removebg-preview-1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/Instagram.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\Instagram.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/logon.png
@@ -661,22 +669,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/chi siamo/03-CDV_5pa4z5ig.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\03-CDV_5pa4z5ig.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/AVBA-Bilancio-2021.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\AVBA-Bilancio-2021.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/AVBA-Relazione-sulla-Gestione-2021.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\AVBA-Relazione-sulla-Gestione-2021.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/AVBA-Relazione-sulla-Gestione-2022.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\AVBA-Relazione-sulla-Gestione-2022.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/Bilancio-Associazione-2022.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Bilancio-Associazione-2022.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/CD-VBA.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\CD-VBA.jpg
@@ -802,21 +794,9 @@ Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/pagine/chi siamo/Report-Sito-Web-VBA-News-2023.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Report-Sito-Web-VBA-News-2023.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/Report-sul-Sito-Web-VBA.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Report-sul-Sito-Web-VBA.pdf
-Content Type: application/pdf
-
 Uri: http://192.168.229.128/images/pagine/chi siamo/Sede-VBA-05.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Sede-VBA-05.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/STATUTO-VillapianaBorgoAttivo.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\STATUTO-VillapianaBorgoAttivo.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Targa-MAVI.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Targa-MAVI.jpg
@@ -865,14 +845,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/cultura/Bellezza-e-Socialita.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Bellezza-e-Socialita.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/cultura/Bellezza-e-Solidarieta.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\Bellezza-e-Solidarieta.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/cultura/evento-airc-310722.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\evento-airc-310722.jpeg
@@ -5001,6 +4973,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/targa-vba.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\targa-vba.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/yout.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\yout.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/youtub1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\youtub1.png
