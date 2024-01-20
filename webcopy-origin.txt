@@ -6,8 +6,12 @@ Uri: http://192.168.229.128/“dialoghi-contemporanei”-–-allestimento-perman
 File Name: C:\Downloaded Web Sites\192.168.229.128\“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
+Uri: http://192.168.229.128/19-fuochi-vallje%2C-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/a-tavola-nel-borgo.html
@@ -510,6 +514,22 @@ Uri: http://192.168.229.128/images/2024/01/16/shome3x.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\shome3x.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2024/01/20/1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/20/1a.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\1a.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/20/1a1.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\1a1.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/01/20/2.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\2.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
 Content Type: image/png
@@ -646,16 +666,8 @@ Uri: http://192.168.229.128/images/pagine/chi siamo/02-Scopertura-Targa.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\02-Scopertura-Targa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/pagine/chi siamo/03-CDV_5pa4z5ig.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\03-CDV_5pa4z5ig.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/pagine/chi siamo/CD-VBA.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\CD-VBA.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/Centro-Radionica.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Centro-Radionica.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/00-Locandina-evento-15-ottobre-2022.jpg
@@ -776,10 +788,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Sede-VBA-05.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Sede-VBA-05.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/Targa-MAVI.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Targa-MAVI.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/chi siamo/Team_Vba/1-r.png
