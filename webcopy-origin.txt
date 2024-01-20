@@ -166,8 +166,12 @@ Uri: http://192.168.229.128/francischi-i-vurpi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\francischi-i-vurpi.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
+Uri: http://192.168.229.128/galleria-foto-mostra-dialoghi-di%2C-nicola-barbati.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
+File Name: C:\Downloaded Web Sites\192.168.229.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/galleria-foto-premiazione-storia-dell-imprenditoria.html
@@ -653,6 +657,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/arte-mavi/angelo-mavi.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\angelo-mavi.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/arte-mavi/Angelo-Ventimiglia-articolo.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\Angelo-Ventimiglia-articolo.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/ESantoro-Tutti-2012--2-.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\ESantoro-Tutti-2012--2-.jpg
@@ -1146,6 +1154,14 @@ Uri: http://192.168.229.128/images/pagine/medicina/2-removebg-preview-1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\2-removebg-preview-1.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/pagine/medicina/Il Melanoma Cutaneo.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\Il Melanoma Cutaneo.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.229.128/images/pagine/medicina/Ipertensionearteriosa.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\Ipertensionearteriosa.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.229.128/images/pagine/scienza/canale-youtube.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\canale-youtube.png
 Content Type: image/png
@@ -1437,6 +1453,10 @@ Content Type: application/pdf
 Uri: http://192.168.229.128/images/pagine/scienza/RELAZIONE-VILfirma-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\RELAZIONE-VILfirma-removebg-preview.png
 Content Type: image/png
+
+Uri: http://192.168.229.128/images/pagine/scienza/RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/sociale/antonio-socialek.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\antonio-socialek.png
@@ -1885,6 +1905,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/storia/Image_004a.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_004a.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/pagine/storia/La guerra tra Sibari e Crotone.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\La guerra tra Sibari e Crotone.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/storia/NOTIZIE-ECCLESIASTICHE-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\NOTIZIE-ECCLESIASTICHE-02.pdf
