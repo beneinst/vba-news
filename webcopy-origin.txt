@@ -62,15 +62,15 @@ Uri: http://192.168.229.128/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -78,7 +78,7 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -90,11 +90,11 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?fe1856783311ac8a9e59ee2b3928a57b
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -5054,7 +5054,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?95eed1
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?0a25ff
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
