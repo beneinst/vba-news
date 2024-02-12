@@ -534,6 +534,10 @@ Uri: http://192.168.229.128/images/2024/01/20/2.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\2.png
 Content Type: image/png
 
+Uri: http://192.168.229.128/images/2024/02/12/oig4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\02\12\oig4.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\channels4_profile-removebg-preview.png
 Content Type: image/png
@@ -4274,6 +4278,86 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/6_thumb.jp
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\6_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/01-francesco-bria.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\01-francesco-bria.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/01-francesco-bria_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\01-francesco-bria_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/02-presentazione-menu.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\02-presentazione-menu.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/02-presentazione-menu_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\02-presentazione-menu_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/03-amous.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\03-amous.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/03-amous_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\03-amous_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/04-baccala.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\04-baccala.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/04-baccala_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\04-baccala_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/05-tortellini.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\05-tortellini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/05-tortellini_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\05-tortellini_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/06-anatra.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\06-anatra.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/06-anatra_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\06-anatra_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/07-pera-helena.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\07-pera-helena.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/07-pera-helena_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\07-pera-helena_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/08-bronze-medal.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\08-bronze-medal.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/08-bronze-medal_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\08-bronze-medal_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/09-premio.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\09-premio.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/09-premio_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\09-premio_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/articolo-franco-maurella.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\articolo-franco-maurella.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/articolo-franco-maurella_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\30\images\articolo-franco-maurella_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/4/images/aaa.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\4\images\aaa.jpg
 Content Type: image/jpeg
@@ -4976,10 +5060,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/9/images/15_thumb.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\9\images\15_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/targa-mavi-02.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\targa-mavi-02.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/targa-vba.jpg
