@@ -554,10 +554,6 @@ Uri: http://192.168.229.128/images/componenti/contwe.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\contwe.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/componenti/fonts/Biryani-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\Biryani-Regular.ttf
-Content Type: font/ttf
-
 Uri: http://192.168.229.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
@@ -658,8 +654,8 @@ Uri: http://192.168.229.128/images/logonq2.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\logonq2.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/logoweb3.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\logoweb3.png
+Uri: http://192.168.229.128/images/logoweb4.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\logoweb4.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
@@ -5350,41 +5346,9 @@ Uri: http://192.168.229.128/villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\villapianesi.html
 Content Type: text/html
 
-Uri: http://fonts.googleapis.com/css?family=Biryani:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext&display=swap
+Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css
 Content Type: text/css
-
-Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
-Content Type: text/css
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTlYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTlYVw.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUUTOQ.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\biryani\v13\hv-WlzNxIFoO84YdfUUTOQ.ttf
-Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
@@ -5395,7 +5359,7 @@ File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM8
 Content Type: font/ttf
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
@@ -5421,32 +5385,4 @@ Content Type: font/ttf
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 Content Type: font/ttf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Condiscendenza umana.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Condiscendenza umana.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Io ho molte credenze.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Io ho molte credenze.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Júpiter, el sol más grande.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Júpiter, el sol más grande.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Le vrai poids des choses.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Le vrai poids des choses.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Mercurio, io e tu.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Mercurio, io e tu.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Per che sempre.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Per che sempre.pdf
-Content Type: application/pdf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v/Real justifications.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\ipfs\QmdTup3n7LgwrnYc8SXHN9ijiJoVGiPsMrpaZidR8Sq16v\Real justifications.pdf
-Content Type: application/pdf
 
