@@ -62,15 +62,15 @@ Uri: http://192.168.229.128/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -78,7 +78,7 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -90,11 +90,11 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -518,10 +518,6 @@ Uri: http://192.168.229.128/images/2024/01/16/shome3x.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\16\shome3x.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/01/20/1.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\1.png
-Content Type: image/png
-
 Uri: http://192.168.229.128/images/2024/01/20/1a.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\1a.png
 Content Type: image/png
@@ -536,6 +532,14 @@ Content Type: image/png
 
 Uri: http://192.168.229.128/images/2024/02/12/oig4.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\02\12\oig4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/03/08/logonq.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\08\logonq.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/08/logonuovo_vba.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\08\logonuovo_vba.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
@@ -650,8 +654,12 @@ Uri: http://192.168.229.128/images/Instagram.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\Instagram.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/logon.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\logon.png
+Uri: http://192.168.229.128/images/logonq2.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\logonq2.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/logoweb3.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\logoweb3.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
@@ -5134,7 +5142,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?447a23
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?84ff58
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
