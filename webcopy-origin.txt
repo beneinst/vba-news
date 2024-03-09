@@ -5098,8 +5098,12 @@ Uri: http://192.168.229.128/incanto-nel-borgo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\incanto-nel-borgo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/index.php?option=com_sppagebuilder&view=page&id=13
+Uri: http://192.168.229.128/index.php
 File Name: C:\Downloaded Web Sites\192.168.229.128\index.php.html
+Content Type: text/html
+
+Uri: http://192.168.229.128/index.php?option=com_sppagebuilder&view=page&id=13
+File Name: C:\Downloaded Web Sites\192.168.229.128\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.229.128/k-radioscopia-in-microonde-hertziane-osservatorio-di-villapiana.html
@@ -5142,7 +5146,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?84ff58
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9683bf
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
