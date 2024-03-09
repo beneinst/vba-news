@@ -558,6 +558,10 @@ Uri: http://192.168.229.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.229.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.229.128/images/componenti/img-home/3_1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\3_1.png
 Content Type: image/png
@@ -654,8 +658,8 @@ Uri: http://192.168.229.128/images/logonq2.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\logonq2.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/logoweb4.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\logoweb4.png
+Uri: http://192.168.229.128/images/logoweb2.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\logoweb2.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
@@ -5350,6 +5354,10 @@ Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,3
 File Name: C:\Downloaded Web Sites\192.168.229.128\css
 Content Type: text/css
 
+Uri: http://fonts.googleapis.com/css?family=Noto Sans Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
+Content Type: text/css
+
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
 Content Type: font/ttf
@@ -5358,8 +5366,80 @@ Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2G
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
 Content Type: font/ttf
 
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNZTKa3g.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNZTKa3g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Kq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Kq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Kq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Kq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wq3Qnq.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wq3Qnq.ttf
+Content Type: font/ttf
+
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
+File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf

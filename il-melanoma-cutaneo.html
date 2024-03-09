@@ -12,6 +12,7 @@
 	<link href="images/phocafavicon/favico.jpg" rel="icon" type="image/vnd.microsoft.icon">
 <link href="media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet">
 	<link href="css?family=DM Serif Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
+	<link href="css-1?family=Noto Sans Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=cyrillic&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
 	<link href="cache/com_templates/templates/shaper_helixultimate/21f9472012de8fb7e771a274b24c8b8d.css" rel="stylesheet">
 	<style>#mod-speasyimagegallery-155 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-155 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-155 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-155 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-155 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-155 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 	<style>.xxx {
@@ -43,13 +44,17 @@
 </style>
 	<style>h6{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
 </style>
+	<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 16px;font-weight: 500;text-decoration: none;}
+</style>
+	<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 16px;font-weight: 500;text-decoration: none;}
+</style>
 	<style>.logo-image {height:46px;}.logo-image-phone {height:46px;}</style>
 	<style>@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.229.128/","base":"","baseFull":"http://192.168.229.128/"},"csrf.token":"2574e1f16e1f44013ba69c37cfdef3b7"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.229.128/","base":"","baseFull":"http://192.168.229.128/"},"csrf.token":"23e7a294b2e65876a42cc04483f26777"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -76,10 +81,10 @@
     font-style: normal;
   }
 
-  /* Asap-Regular per il testo normale */
+  /* NotoSansDisplay-Medium per il testo normale */
   @font-face {
-    font-family: 'Asap-Regular';
-    src: url('/images/Componenti/fonts/Asap-Regular.ttf') format('truetype');
+    font-family: 'NotoSansDisplay-Medium';
+    src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
@@ -103,9 +108,9 @@
   span,
   div,
   .fs12lh1-5 {
-    font-family: 'Asap-Regular', sans-serif;
+    font-family: 'NotoSansDisplay-Medium', sans-serif;
     font-size: 16px;
-    line-height: 1.92;
+    line-height: 1.90;
   }
 
   /* Media query per schermi di smartphone */
@@ -176,7 +181,7 @@
 				<div id="sp-logo" class="col-auto">
 					<div class="sp-column">
 						<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="index.htm">
-				<img class='logo-image ' srcset='images/logoweb4.png 1x' src='images/logoweb4.png' height='46px' alt='VBA News'>
+				<img class='logo-image ' srcset='images/logoweb2.png 1x' src='images/logoweb2.png' height='46px' alt='VBA News'>
 				</a></div>						
 					</div>
 				</div>
@@ -463,23 +468,64 @@ function updateProgressBar() {
 <div class="row">
 	<div id="sp-bottom1" class="col-lg-2 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom130" class="mod-custom custom">
-    <p><span style="font-family: terminal, monaco, monospace;">Esplora:</span></p>
-<p><a href="cultura.html">Cultura</a></p>
-<p><a href="arte-mavi.html">Arte Mavi</a></p>
-<p><a href="fotografia.html">Fotografia</a></p>
-<p><a href="sociale.html">Sociale</a></p>
-<p><a href="scienza.html">Scienza</a></p>
-<p> </p></div>
+    <p style="font-size: 15px;">
+ <span style="font-family: terminal, monaco, monospace;">
+  Esplora:
+ </span>
+</p>
+<p style="font-size: 15px;">
+ <a href="cultura.html">
+  Cultura
+ </a>
+</p>
+<p style="font-size: 15px;">
+ <a href="arte-mavi.html">
+  Arte Mavi
+ </a>
+</p>
+<p style="font-size: 15px;">
+ <a href="fotografia.html">
+  Fotografia
+ </a>
+</p>
+<p style="font-size: 15px;">
+ <a href="sociale.html">
+  Sociale
+ </a>
+</p>
+<p style="font-size: 15px;">
+ <a href="scienza.html">
+  Scienza
+ </a>
+</p>
+<p style="font-size: 15px;">
+</p>
+</div>
 </div></div></div></div><div id="sp-bottom2" class="col-sm-col-sm-6 col-lg-5 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom129" class="mod-custom custom">
-    <p><span style="font-family: terminal, monaco, monospace;">Articoli Recenti:</span></p>
-<p>27/10/23<br>Medicina: Il Melanoma Cutaneo. <a href="il-melanoma-cutaneo.html">Leggi tutto ...</a></p>
-<p>21/03/23<br>Imprenditoria: 19 Fuochi &amp; Vallje. <a href="19-fuochi-vallje%2C-eventi-dedicati-all%E2%80%99identit%C3%A0-e-all%E2%80%99iniziativa-imprenditoriale-arb%C3%ABresh%C3%AB.html">Leggi tutto ...</a></p>
-<p>12/08/23<br>Volti e Luoghi di A. Bria. <a href="galleria-fotografica-mostra-volti-e-luoghi.html">Leggi tutto ...</a></p>
-<p> </p></div>
+    <p style="font-size: 15px;">
+ <span style="font-family: terminal, monaco, monospace;">
+  Articoli Recenti:
+ </span>
+</p>
+<p style="font-size: 15px;">
+ 27/10/23<br>
+ Medicina: Il Melanoma Cutaneo. <a href="il-melanoma-cutaneo.html">Leggi tutto ...</a>
+</p>
+<p style="font-size: 15px;">
+ 21/03/23<br>
+ Imprenditoria: 19 Fuochi & Vallje. <a href="19-fuochi-vallje%2C-eventi-dedicati-all%E2%80%99identit%C3%A0-e-all%E2%80%99iniziativa-imprenditoriale-arb%C3%ABresh%C3%AB.html">Leggi tutto ...</a>
+</p>
+<p style="font-size: 15px;">
+ 12/08/23<br>
+ Volti e Luoghi di A. Bria. <a href="galleria-fotografica-mostra-volti-e-luoghi.html">Leggi tutto ...</a>
+</p>
+<p style="font-size: 15px;">
+</p>
+</div>
 </div></div></div></div><div id="sp-bottom4" class="col-lg-5 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom131" class="mod-custom custom">
-    <p><span style="font-family: terminal, monaco, monospace;">Sostenitori e Collaboratori:</span></p></div>
+    <p style="font-size: 15px;"><span style="font-family: terminal, monaco, monospace;">Sostenitori e Collaboratori:</span></p></div>
 </div></div><div class="sp-module "><div class="sp-module-content">
 <div class="mod-speasyimagegallery" id="mod-speasyimagegallery-132">
       <div class="speasyimagegallery-gallery clearfix" data-showtitle="1" data-showdescription="1" data-showcounter="1">
@@ -577,7 +623,7 @@ function updateProgressBar() {
 					<div class="offcanvas-menu border-menu">
 	<div class="d-flex align-items-center p-3 pt-4">
 		<div class="logo"><a href="index.htm">
-				<img class='logo-image ' srcset='images/logoweb4.png 1x' src='images/logoweb4.png' height='46px' alt='VBA News'>
+				<img class='logo-image ' srcset='images/logoweb2.png 1x' src='images/logoweb2.png' height='46px' alt='VBA News'>
 				</a></div>		<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
 			<div class="burger-icon">
 				<span></span>
