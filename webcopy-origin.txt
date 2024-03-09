@@ -5366,16 +5366,16 @@ Uri: http://fonts.googleapis.com/css?family=DM Serif Display:100,100i,200,200i,3
 File Name: C:\Downloaded Web Sites\192.168.229.128\css-2
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=DM+Serif+Display:400
-File Name: C:\Downloaded Web Sites\192.168.229.128\css
-Content Type: text/css
-
 Uri: http://fonts.googleapis.com/css?family=Noto Sans Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.128\css-3
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=Noto+Sans+Display:400
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:500
 File Name: C:\Downloaded Web Sites\192.168.229.128\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:600
+File Name: C:\Downloaded Web Sites\192.168.229.128\css
 Content Type: text/css
 
 Uri: http://fonts.gstatic.com/s/dmserifdisplay/v15/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PDz.ttf
@@ -5388,10 +5388,6 @@ Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKZTKa3g.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKZTKa3g.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTaa3g.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTaa3g.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTKa3g.ttf
@@ -5460,6 +5456,14 @@ Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wq3Qnq.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\s\notosansdisplay\v26\RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wq3Qnq.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.128\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
 Content Type: font/ttf
 
 Uri: http://use.fontawesome.com/releases/v5.1.0/css/all.css
