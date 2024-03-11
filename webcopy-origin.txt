@@ -2022,6 +2022,10 @@ Uri: http://192.168.229.128/images/phocafavicon/favico.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\phocafavicon\favico.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/sfondofootervba19.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\sfondofootervba19.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/1/images/evento-20-novembre-2022.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\1\images\evento-20-novembre-2022.jpg
 Content Type: image/jpeg
