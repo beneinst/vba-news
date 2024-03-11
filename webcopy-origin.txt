@@ -574,6 +574,10 @@ Uri: http://192.168.229.128/images/componenti/OIG 7.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 7.jpeg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/componenti/reply-all.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\reply-all.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/facebo1.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\facebo1.png
 Content Type: image/png
@@ -594,8 +598,8 @@ Uri: http://192.168.229.128/images/Instagram.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\Instagram.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/larte-e-dentro-di-te6.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\larte-e-dentro-di-te6.jpg
+Uri: http://192.168.229.128/images/larte-e-dentro-di-te23.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\larte-e-dentro-di-te23.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/logonq2.png
@@ -1233,10 +1237,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda-img/Fotone-Onda6.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda-img\Fotone-Onda6.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/scienza/Fotone-Onda.pdf
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Fotone-Onda.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.229.128/images/pagine/scienza/La-fenomenologia-radionica-e-la-litosfera-della-Calabria.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\La-fenomenologia-radionica-e-la-litosfera-della-Calabria.pdf
@@ -5158,7 +5158,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9d069b
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?85aecb
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
