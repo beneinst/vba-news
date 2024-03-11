@@ -3,8 +3,8 @@
 
 # Dichiarare esplicitamente i file di testo che si desidera siano sempre normalizzati e convertiti
 # in caratteri di fine riga nativi al checkout.
-*.c text
-*.h text
+*.c text eol=lf
+*.h text eol=lf
 
 # Dichiarare i file che avranno sempre i caratteri di fine riga CRLF al checkout.
 *.sln text eol=crlf
