@@ -530,6 +530,10 @@ Uri: http://192.168.229.128/images/2024/03/08/logonuovo_vba.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\08\logonuovo_vba.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/2024/03/12/sfondo34.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondo34.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/2024/03/12/sfondohom.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondohom.jpg
 Content Type: image/jpeg
