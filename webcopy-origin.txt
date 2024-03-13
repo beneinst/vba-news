@@ -530,12 +530,12 @@ Uri: http://192.168.229.128/images/2024/03/08/logonuovo_vba.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\08\logonuovo_vba.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/03/12/sfondo34.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondo34.jpg
+Uri: http://192.168.229.128/images/2024/03/12/sfondo1home.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondo1home.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/03/12/sfondohom.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondohom.jpg
+Uri: http://192.168.229.128/images/2024/03/12/sfondo34.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondo34.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/beneinstlo.png
@@ -5158,7 +5158,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?85aecb
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?295bd7
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
