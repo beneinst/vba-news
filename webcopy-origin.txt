@@ -562,6 +562,42 @@ Uri: http://192.168.229.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.229.128/images/componenti/icone_home/image002.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image002.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image004.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image004.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image006.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image006.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image010.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image010.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image012.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image012.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image014.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image014.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image016.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image016.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image018.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image018.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_home/image020.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image020.png
+Content Type: image/png
+
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
 Content Type: image/jpeg
@@ -608,10 +644,6 @@ Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\011_mavi-11-12-21.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/arte-mavi/angelo-mavi.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\arte-mavi\angelo-mavi.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/arte-mavi/Angelo-Ventimiglia-articolo.pdf
@@ -846,10 +878,6 @@ Uri: http://192.168.229.128/images/pagine/cultura/la-forma-della-voce.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\la-forma-della-voce.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/pagine/cultura/mariagrazia-cultura.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mariagrazia-cultura.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/pagine/cultura/mgqwba7xkuqff0gbs3l5ltnxfnt.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\mgqwba7xkuqff0gbs3l5ltnxfnt.jpg
 Content Type: image/jpeg
@@ -857,10 +885,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/Dialetto/Curuemm.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\Curuemm.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/Dialetto/federico-dialetto--2--new.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\federico-dialetto--2--new.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/LaLeggendadeiTagliolini.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\LaLeggendadeiTagliolini.pdf
@@ -884,10 +908,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Dialetto/t3.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Dialetto\t3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/fotografia/acquedotto-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\fotografia\acquedotto-01.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/fotografia/autunno-inverno-lauretta-ugolini.jpg
@@ -1168,10 +1188,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/imprenditoria/19Fuochi/DSC_0289.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\19Fuochi\DSC_0289.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/imprenditoria/impresecom-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\impresecom-new.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/imprenditoria/plataci-16-settembre.jpg
@@ -1481,10 +1497,6 @@ Content Type: image/png
 Uri: http://192.168.229.128/images/pagine/scienza/RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/sociale/antonio-socialek.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\antonio-socialek.png
-Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/sociale/Due-Fotografie-rev-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\sociale\Due-Fotografie-rev-02.pdf
@@ -1902,10 +1914,6 @@ Uri: http://192.168.229.128/images/pagine/storia/delibera-e-decreto-regio-testo.
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\delibera-e-decreto-regio-testo.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.229.128/images/pagine/storia/francesco-storia1a.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\francesco-storia1a.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/pagine/storia/Image_001.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Image_001.jpg
 Content Type: image/jpeg
@@ -1949,10 +1957,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/storia/Villapiana-e-dintorni-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\storia\Villapiana-e-dintorni-02.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/teatro/pino-teatro--2-.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\pino-teatro--2-.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/teatro/Presepe 2018/Borgo-01.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\teatro\Presepe 2018\Borgo-01.jpg
@@ -2009,10 +2013,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/Villapianesi/1_villapianesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\1_villapianesi.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.229.128/images/pagine/Villapianesi/gianni-villapianesi--2--new.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\gianni-villapianesi--2--new.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/Villapianesi/Tabasciaja.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\Villapianesi\Tabasciaja.pdf
