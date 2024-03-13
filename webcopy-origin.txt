@@ -334,10 +334,6 @@ Uri: http://192.168.229.128/images/2024/01/05/OIG-(2).jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\OIG-(2).jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/01/05/oig-4.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\oig-4.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2024/01/05/Presentazione-Dati-di-Osservazione_edited.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\05\Presentazione-Dati-di-Osservazione_edited.png
 Content Type: image/png
@@ -514,10 +510,6 @@ Uri: http://192.168.229.128/images/2024/01/20/2.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\01\20\2.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/02/12/oig4.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\02\12\oig4.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2024/03/08/logonq.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\08\logonq.png
 Content Type: image/png
@@ -536,6 +528,22 @@ Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/2024/03/13/image001.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image001.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/13/image002.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image002.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/13/image006.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image006.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/13/image008.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image008.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/13/image010.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image010.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/beneinstlo.png
@@ -1209,10 +1217,6 @@ Content Type: application/pdf
 Uri: http://192.168.229.128/images/pagine/scienza/canale-youtube.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\canale-youtube.png
 Content Type: image/png
-
-Uri: http://192.168.229.128/images/pagine/scienza/centro-radionica-03_1s7vv4cq.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\centro-radionica-03_1s7vv4cq.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/scienza/Comunicato-Stampa-15-magg-22-def.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\scienza\Comunicato-Stampa-15-magg-22-def.pdf
