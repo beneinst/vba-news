@@ -226,10 +226,6 @@ Uri: http://192.168.229.128/images/2023/12/06/1home_5-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\1home_5-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2023/12/06/cropped-07-castello-panoramica-1.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\cropped-07-castello-panoramica-1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/2023/12/06/la-piuchella-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2023\12\06\la-piuchella-new.jpg
 Content Type: image/jpeg
@@ -537,6 +533,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/2024/03/12/sfondo34.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\12\sfondo34.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/03/13/image001.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image001.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\beneinstlo.png
@@ -5158,7 +5158,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?295bd7
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?7961c8
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
