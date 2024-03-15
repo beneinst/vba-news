@@ -70,15 +70,15 @@ Uri: http://192.168.229.128/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\chi-siamo.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/animate.min.css?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -86,9 +86,13 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
+
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/addons/text_block.js
+File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\addons\text_block.js
+Content Type: application/javascript
 
 Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\common.js
@@ -98,11 +102,11 @@ Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
+Uri: http://192.168.229.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?f78d35ecef07294e4790d093f7711798
 File Name: C:\Downloaded Web Sites\192.168.229.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -530,21 +534,69 @@ Uri: http://192.168.229.128/images/2024/03/13/image001.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image001.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/03/13/image002.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image002.png
+Uri: http://192.168.229.128/images/2024/03/15/image002c.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image002c.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/03/15/image002m.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image002m.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/03/13/image006.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image006.png
+Uri: http://192.168.229.128/images/2024/03/15/image005.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image005.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/03/13/image008.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image008.png
+Uri: http://192.168.229.128/images/2024/03/15/image007.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image007.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/03/13/image010.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image010.png
+Uri: http://192.168.229.128/images/2024/03/15/image009.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image009.png
 Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image011.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image011.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image013.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image013.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image017.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image017.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image019.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image019.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image021.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image021.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image023.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image023.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image025.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image025.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/image027.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image027.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/medici.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\medici.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/03/15/sede-vba-052gt.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\sede-vba-052gt.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/03/15/vecchio-municipio-063.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\vecchio-municipio-063.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\beneinstlo.png
@@ -569,42 +621,6 @@ Content Type: font/ttf
 Uri: http://192.168.229.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
 Content Type: font/ttf
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image002.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image002.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image004.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image004.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image006.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image006.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image010.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image010.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image012.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image012.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image014.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image014.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image016.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image016.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image018.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image018.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_home/image020.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_home\image020.png
-Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
@@ -762,10 +778,6 @@ Uri: http://192.168.229.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/pagine/chi siamo/Sede-VBA-05.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Sede-VBA-05.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/pagine/chi siamo/Team_Vba/1-r.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Team_Vba\1-r.png
 Content Type: image/png
@@ -801,10 +813,6 @@ Content Type: image/png
 Uri: http://192.168.229.128/images/pagine/chi siamo/Team_Vba/8-.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Team_Vba\8-.png
 Content Type: image/png
-
-Uri: http://192.168.229.128/images/pagine/chi siamo/Vecchio-Municipio-06.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\chi siamo\Vecchio-Municipio-06.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
@@ -1173,10 +1181,6 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/pagine/imprenditoria/plataci-16-settembre.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\imprenditoria\plataci-16-settembre.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/pagine/medicina/2-removebg-preview-1.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\2-removebg-preview-1.png
-Content Type: image/png
 
 Uri: http://192.168.229.128/images/pagine/medicina/Il Melanoma Cutaneo.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\pagine\medicina\Il Melanoma Cutaneo.pdf
@@ -5134,7 +5138,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?7961c8
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?9bdad9
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
