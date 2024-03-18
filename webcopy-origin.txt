@@ -2334,14 +2334,6 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5015r
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5015rdesiderio-di-pace-040622_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5017rdesiderio-di-pace-040622.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5017rdesiderio-di-pace-040622.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5017rdesiderio-di-pace-040622_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5017rdesiderio-di-pace-040622_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/11/images/dsc-5028rdesiderio-di-pace-040622.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\11\images\dsc-5028rdesiderio-di-pace-040622.jpg
 Content Type: image/jpeg
@@ -2430,92 +2422,92 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/12/images/locandina
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\12\images\locandina-mavi-2_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img-4965-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img-4965-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img-4965-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img-4965-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img-4923-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img-4923-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10-d-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10-d-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img-4923-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img-4923-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/2-17072022-dji-0061-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\2-17072022-dji-0061-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/10c-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\10c-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/2-17072022-dji-0061-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\2-17072022-dji-0061-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/1_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\1_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa2-3391-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa2-3391-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa2-3391-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa2-3391-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/31-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\31-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4-17072022-dji-0054-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4-17072022-dji-0054-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4-17072022-dji-0054-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4-17072022-dji-0054-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4b.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4b.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4a-17072022-dji-0049-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4a-17072022-dji-0049-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4b_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4b_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4a-17072022-dji-0049-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4a-17072022-dji-0049-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/4_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\4_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa3-3392-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa3-3392-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa3-3392-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa3-3392-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/7-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\7-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4897-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4897-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/8-a-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\8-a-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4897-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4897-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/8-a-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\8-a-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4929-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4929-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9d-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9d-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4929-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4929-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9d-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9d-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4953-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4953-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9g-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9g-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4953-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4953-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9g-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9g-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4971-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4971-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9v-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9v-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/img-4971-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\img-4971-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/9v-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\9v-img_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/torr-1235.jpg
@@ -2526,244 +2518,244 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/13/images/torr-1235
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\13\images\torr-1235_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1-17072022-dji-0053-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1-17072022-dji-0053-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1-17072022-dji-0053-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1-17072022-dji-0053-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-12.53.51.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-12.53.51.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-07-12.53.51_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-07-12.53.51_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53.21-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53.21-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-23-01.53.21-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-23-01.53.21-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img-4965-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img-4965-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-d-img-4965-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-d-img-4965-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img-4924-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img-4924-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10-img-4924-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10-img-4924-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img-4907-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img-4907-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10a-img-4907-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10a-img-4907-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img-4921-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img-4921-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10b-img-4921-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10b-img-4921-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img-4923-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img-4923-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/10c-img-4923-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\10c-img-4923-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/1_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\1_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2-17072022-dji-0061-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2-17072022-dji-0061-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2-17072022-dji-0061-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2-17072022-dji-0061-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/2_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\2_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3-17072022-dji-0057-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3-17072022-dji-0057-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3-17072022-dji-0057-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3-17072022-dji-0057-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa2-3391-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa2-3391-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31-chiesa2-3391-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31-chiesa2-3391-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-20210911-104359-02-02.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-20210911-104359-02-02.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/31a-20210911-104359-02-02_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\31a-20210911-104359-02-02_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/3_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\3_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4-17072022-dji-0054-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4-17072022-dji-0054-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4-17072022-dji-0054-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4-17072022-dji-0054-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4a-17072022-dji-0049-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4a-17072022-dji-0049-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4a-17072022-dji-0049-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4a-17072022-dji-0049-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b-17072022-dji-0062-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b-17072022-dji-0062-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/4b-17072022-dji-0062-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\4b-17072022-dji-0062-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5a.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5-11-01-02.50.55.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5-11-01-02.50.55.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5a_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5a_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5-11-01-02.50.55_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5-11-01-02.50.55_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/5_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\5_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa3-3392-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa3-3392-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa3-3392-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa3-3392-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa4-3393-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa4-3393-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa4-3393-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa4-3393-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7a-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7a-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa5-3394-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa5-3394-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa5-3394-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa5-3394-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/7b-chiesa_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\7b-chiesa_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img-4897-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img-4897-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img-4897-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img-4897-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8-a-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8-a-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img-4904-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img-4904-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img-4904-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img-4904-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/8b-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\8b-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img-4891-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img-4891-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img-4891-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img-4891-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img-4905-2-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img-4905-2-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img-4905-2-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img-4905-2-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9a-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9a-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img-4906-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img-4906-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img-4906-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img-4906-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9b-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9b-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img-4920-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img-4920-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img-4920-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img-4920-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9c-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9c-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img-4953-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img-4953-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img-4953-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img-4953-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9d-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9d-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img-4929-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img-4929-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img-4929-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img-4929-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9g-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9g-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img-4944-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img-4944-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img-4944-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img-4944-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9h-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9h-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img-4960-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img-4960-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img-4960-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img-4960-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9j-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9j-img_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img-4971-1-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img-4971-1-01.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img-4971-1-01_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img-4971-1-01_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/9v-img_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\14\images\9v-img_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/14/images/torr-1235.jpg
@@ -3350,37 +3342,37 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/20/images/10-emilio
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\20\images\10-emilio-pace-chiesa-madre_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione_thumb.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione_thumb.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-e-stadiazione_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-e-stadiazione_thumb.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma_thumb.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma_thumb.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/classificazione-melanoma_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\classificazione-melanoma_thumb.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319_thumb.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319_thumb.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7319_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7319_thumb.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-_thumb.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-_thumb.png
-Content Type: image/png
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/21/images/img-7320-1-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\21\images\img-7320-1-_thumb.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/22/images/dsc-0005-4li0ozro.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\22\images\dsc-0005-4li0ozro.jpg
@@ -3654,6 +3646,78 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/23/images/dsc-0025-
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\23\images\dsc-0025-q080shtp_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/001-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\001-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/001-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\001-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/002-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\002-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/002-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\002-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/003-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\003-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/003-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\003-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/004-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\004-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/004-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\004-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/005-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\005-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/005-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\005-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/006-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\006-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/006-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\006-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/007-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\007-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/007-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\007-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/008-mavi-11-12-21-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\008-mavi-11-12-21-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/008-mavi-11-12-21-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\008-mavi-11-12-21-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/009-mavi-11-12-21-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\009-mavi-11-12-21-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/009-mavi-11-12-21-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\009-mavi-11-12-21-2-_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/010-mavi-11-12-21.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\010-mavi-11-12-21.jpg
 Content Type: image/jpeg
@@ -3662,12 +3726,36 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/010-mavi-
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\010-mavi-11-12-21_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/011-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\011-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/011-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\011-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/012-mavi-11-12-21.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\012-mavi-11-12-21.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/012-mavi-11-12-21_thumb.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\012-mavi-11-12-21_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/013-mavi-11-12-21-2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\013-mavi-11-12-21-2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/013-mavi-11-12-21-2-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\013-mavi-11-12-21-2-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/014-mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\014-mavi-11-12-21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/014-mavi-11-12-21_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\24\images\014-mavi-11-12-21_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/24/images/015-mavi-11-12-21-2-.jpg
@@ -3726,12 +3814,36 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/1-01-01_t
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\1-01-01_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/20220509-205757-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\20220509-205757-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/20220509-205757-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\20220509-205757-01_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/22a-01.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\22a-01.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/22a-01_thumb.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\22a-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/23-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\23-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/23-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\23-01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/32-01.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\32-01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/32-01_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\32-01_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/33-2-01.jpg
@@ -3766,6 +3878,14 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/hh_thumb.
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\hh_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/hw.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\hw.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/hw_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\hw_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/je.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\je.jpg
 Content Type: image/jpeg
@@ -3774,12 +3894,12 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/je_thumb.
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\je_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/w.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\w.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/ke.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\ke.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/w_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\w_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/25/images/ke_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\25\images\ke_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/dame.jpg
@@ -3798,12 +3918,12 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/gigetto-b
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\26\images\gigetto-buontempo_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/oreste.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\26\images\oreste.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/piatto-230422.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\26\images\piatto-230422.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/oreste_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\26\images\oreste_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/piatto-230422_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\26\images\piatto-230422_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/26/images/targhe-hotel-corallo.jpg
@@ -5134,7 +5254,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?e2c32b
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?7dd785
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
