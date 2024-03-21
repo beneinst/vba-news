@@ -634,6 +634,10 @@ Uri: http://192.168.229.128/images/componenti/OIG 7.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 7.jpeg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.128/images/componenti/qwe1e.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\qwe1e.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.128/images/componenti/reply-all.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\reply-all.jpg
 Content Type: image/jpeg
@@ -5254,7 +5258,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?7dd785
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?21d58a
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
