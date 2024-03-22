@@ -598,8 +598,8 @@ Uri: http://192.168.229.128/images/2024/03/16/image003mj.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\16\image003mj.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/beneinstlo.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\beneinstlo.png
+Uri: http://192.168.229.128/images/beneinstlo4.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\beneinstlo4.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/channels4_profile-removebg-preview.png
@@ -634,8 +634,8 @@ Uri: http://192.168.229.128/images/componenti/OIG 7.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 7.jpeg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/componenti/qwe1e.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\qwe1e.jpg
+Uri: http://192.168.229.128/images/componenti/qwe1y.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\qwe1y.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/componenti/reply-all.jpg
@@ -4370,36 +4370,36 @@ Uri: http://192.168.229.128/images/speasyimagegallery/albums/28/images/dsc-0289_
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\28\images\dsc-0289_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/31.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\31.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/23.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\23.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/31_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\31_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/23_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\23_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/4.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\4.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/24.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\24.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/4_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\4_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/24_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\24_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/5.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\5.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/25.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\25.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/5_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\5_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/25_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\25_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/6.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\6.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/26.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\26.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/6_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\6_thumb.jpg
+Uri: http://192.168.229.128/images/speasyimagegallery/albums/3/images/26_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\speasyimagegallery\albums\3\images\26_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.128/images/speasyimagegallery/albums/30/images/01-francesco-bria.jpg
@@ -5258,7 +5258,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?21d58a
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?5a9a06
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
