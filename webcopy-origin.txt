@@ -634,10 +634,6 @@ Uri: http://192.168.229.128/images/componenti/OIG 7.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\OIG 7.jpeg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/componenti/qwe1y.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\qwe1y.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.128/images/componenti/reply-all.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\reply-all.jpg
 Content Type: image/jpeg
