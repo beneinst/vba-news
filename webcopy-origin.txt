@@ -534,56 +534,8 @@ Uri: http://192.168.229.128/images/2024/03/13/image001.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\13\image001.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/03/15/image001.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image001.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image0051.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0051.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image0071.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0071.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image0091.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0091.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image011.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image011.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image0111.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0111.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image013.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image013.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image015.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image015.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image019.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image019.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image0211.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0211.png
-Content Type: image/png
-
 Uri: http://192.168.229.128/images/2024/03/15/image0231.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image0231.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image023s.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image023s.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/2024/03/15/image023s2.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\image023s2.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/2024/03/15/sede-vba-052gt.jpg
@@ -594,8 +546,8 @@ Uri: http://192.168.229.128/images/2024/03/15/vecchio-municipio-063.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\15\vecchio-municipio-063.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/03/16/image003mj.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\03\16\image003mj.png
+Uri: http://192.168.229.128/images/2024/04/03/image004.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\03\image004.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/beneinstlo.png
@@ -621,6 +573,46 @@ Content Type: font/ttf
 Uri: http://192.168.229.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
 Content Type: font/ttf
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/antonio-socialek-new.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\antonio-socialek-new.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/dialetto.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\dialetto.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/gianni-villapianesi--2--new.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\gianni-villapianesi--2--new.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image003y.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image003y.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image005.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image005.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image005j.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image005j.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image007.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image007.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image007y.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image007y.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/image013.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image013.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/componenti/icone_pagine/impresecom-new-new.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\impresecom-new-new.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\img-home\stregone.jpg
@@ -5258,7 +5250,7 @@ Uri: http://192.168.229.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.229.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?2a18f0
+Uri: http://192.168.229.128/media/com_wrapper/js/iframe-height.min.js?67a3ce
 File Name: C:\Downloaded Web Sites\192.168.229.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
