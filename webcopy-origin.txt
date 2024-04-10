@@ -586,8 +586,12 @@ Uri: http://192.168.229.128/images/2024/04/06/pino-teatro--2--new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\06\pino-teatro--2--new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.128/images/2024/04/10/oig1-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\10\oig1-removebg-preview.png
+Uri: http://192.168.229.128/images/2024/04/10/image005jh.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\10\image005jh.png
+Content Type: image/png
+
+Uri: http://192.168.229.128/images/2024/04/10/oig1-remov6ebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\10\oig1-remov6ebg-preview.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/beneinstlo.png
@@ -616,10 +620,6 @@ Content Type: font/ttf
 
 Uri: http://192.168.229.128/images/componenti/icone_pagine/image003y.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image003y.png
-Content Type: image/png
-
-Uri: http://192.168.229.128/images/componenti/icone_pagine/image005j.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\componenti\icone_pagine\image005j.png
 Content Type: image/png
 
 Uri: http://192.168.229.128/images/componenti/img-home/stregone.jpg
