@@ -570,10 +570,6 @@ Uri: http://192.168.229.128/images/2024/04/06/oig3-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\06\oig3-removebg-preview.png
 Content Type: image/png
 
-Uri: http://192.168.229.128/images/2024/04/06/oig3.do.ibg04-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\06\oig3.do.ibg04-removebg-preview.png
-Content Type: image/png
-
 Uri: http://192.168.229.128/images/2024/04/06/oig4-1.jpeg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\06\oig4-1.jpeg
 Content Type: image/jpeg
@@ -589,6 +585,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.128/images/2024/04/06/pino-teatro--2--new.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\06\pino-teatro--2--new.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.128/images/2024/04/10/oig1-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.229.128\images\2024\04\10\oig1-removebg-preview.png
+Content Type: image/png
 
 Uri: http://192.168.229.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.229.128\images\beneinstlo.png
