@@ -590,8 +590,8 @@ Uri: http://192.168.80.130/images/2024/04/10/oig1-remov6ebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\04\10\oig1-remov6ebg-preview.png
 Content Type: image/png
 
-Uri: http://192.168.80.130/images/2024/04/25/panoramaj_5.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\04\25\panoramaj_5.jpg
+Uri: http://192.168.80.130/images/2024/04/25/panoramaj_5a.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\04\25\panoramaj_5a.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.130/images/2024/04/25/pino-teatro--2--new2.jpg
