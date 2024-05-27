@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it-it">
+	<title type="text">Nicola Barbati - Profumi di Primavera</title>
+	<subtitle type="text">Villapiana Borgo Attivo</subtitle>
+	<link rel="alternate" type="text/html" href="http://192.168.80.130"/>
+	<id>http://192.168.80.130/nicola-barbati-profumi-di-primavera.feed</id>
+	<updated>2024-05-27T19:19:39+00:00</updated>
+	<author>
+		<name>My site</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://192.168.80.130/nicola-barbati-profumi-di-primavera.feed?view=category&amp;id=15&amp;type=atom"/>
+	<entry>
+		<title>Galleria fotografica di Maria Costa</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/galleria-fotografica-di-maria-costa.html"/>
+		<published>2023-12-15T12:49:03+00:00</published>
+		<updated>2023-12-15T12:49:03+00:00</updated>
+		<id>http://192.168.80.130/galleria-fotografica-di-maria-costa.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 151}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 151}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Immagini Territorio e Borgo</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/territorio-e-borgo.html"/>
+		<published>2023-12-15T12:49:45+00:00</published>
+		<updated>2023-12-15T12:49:45+00:00</updated>
+		<id>http://192.168.80.130/territorio-e-borgo.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 148}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 148}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Galleria Fotografica di Nicola Barbati</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/galleria-fotografica-di-nicola-barbati.html"/>
+		<published>2023-12-15T12:50:36+00:00</published>
+		<updated>2023-12-15T12:50:36+00:00</updated>
+		<id>http://192.168.80.130/galleria-fotografica-di-nicola-barbati.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 153}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 153}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Piccola Mostra Fotografica Sale, Arte &amp; Tabacchi</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/piccola-mostra-fotografica-sale,-arte-tabacchi.html"/>
+		<published>2023-12-15T05:06:12+00:00</published>
+		<updated>2023-12-15T05:06:12+00:00</updated>
+		<id>http://192.168.80.130/piccola-mostra-fotografica-sale,-arte-tabacchi.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;In questa pagina, presentiamo una galleria di fotografie selezionate. Di seguito sono fornite brevi informazioni sui fotografi e le loro opere, insieme ai rispettivi indirizzi email per chi desidera contattarli direttamente.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Valentina Bria &lt;/strong&gt;(vaxgilmar@gmail.com): Sila, Lago Cecita; Sila, Chiesetta di San Lorenzo&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, lavora a Cosenza in una start-up produttrice di software informatico. Sin da ragazza ha l’hobby della fotografia. Predilige l’uso della pellicola – in questo caso una Fomapan 100 - utilizzando una Yashika F-X3 2000.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Maria Costa &lt;/strong&gt;(costamaria960@gmail.com): Alba Villapiana Lido; Torre Castello&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, appassionata da sempre di fotografia, negli ultimi anni si è specializzata come fotografa di famiglia e di eventi. La Torre del Castello e stata fatta tempo fa, con una bridge Fujifilm, mentre di recente (Alba a Villapiana Lido) è passata ad usare una reflex Nikon con sensore apcs.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Giuseppe D’Alba &lt;/strong&gt;(giuseppe.d.alba@libero.it): Chiesa Madre; Palazzo dell’Americano&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Trebisacce, sin dal 1974 ha un hobby preferito: la fotografia. Ha iniziato da autodidatta, preferendo il bianco e nero con soggetti vari, dai paesaggi ai vicoli di strade alle persone. La sua ultima macchina fotografica è una Oympus mark III digitale. Nel tempo ha curato mostre fotografiche personali, che hanno avuto un relativo successo.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Vincenzo Diodati &lt;/strong&gt;(vdiodati1@gmail.com): Torre Saracena; Convento dei Paolotti&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Villapianese, musicista e didatta, opera nel suo campo con la docenza nella Scuola Secondaria di primo grado e l’attività artistica. È un appassionato ricercatore di linguistica e cultore delle tradizioni popolari locali con un particolare interesse nel campo della ricerca storica del territorio di Villapiana. Le fotografie, certamente amatoriali, sono tuttavia frutto di un estro personale ricercato, utilizzando uno smartphone.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Emilio Pace &lt;/strong&gt;(a691373@gmail.com): Porta dei Santi; Chiesa Madre&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, ex dipendente Enel in pensione con hobby della fotografia con particolare interesse alla natura e al territorio villapianese. Per le fotografie è stato utilizzato uno Smartphone Redmi note 7.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt; &lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 154}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;In questa pagina, presentiamo una galleria di fotografie selezionate. Di seguito sono fornite brevi informazioni sui fotografi e le loro opere, insieme ai rispettivi indirizzi email per chi desidera contattarli direttamente.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Valentina Bria &lt;/strong&gt;(vaxgilmar@gmail.com): Sila, Lago Cecita; Sila, Chiesetta di San Lorenzo&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, lavora a Cosenza in una start-up produttrice di software informatico. Sin da ragazza ha l’hobby della fotografia. Predilige l’uso della pellicola – in questo caso una Fomapan 100 - utilizzando una Yashika F-X3 2000.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Maria Costa &lt;/strong&gt;(costamaria960@gmail.com): Alba Villapiana Lido; Torre Castello&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, appassionata da sempre di fotografia, negli ultimi anni si è specializzata come fotografa di famiglia e di eventi. La Torre del Castello e stata fatta tempo fa, con una bridge Fujifilm, mentre di recente (Alba a Villapiana Lido) è passata ad usare una reflex Nikon con sensore apcs.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Giuseppe D’Alba &lt;/strong&gt;(giuseppe.d.alba@libero.it): Chiesa Madre; Palazzo dell’Americano&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Trebisacce, sin dal 1974 ha un hobby preferito: la fotografia. Ha iniziato da autodidatta, preferendo il bianco e nero con soggetti vari, dai paesaggi ai vicoli di strade alle persone. La sua ultima macchina fotografica è una Oympus mark III digitale. Nel tempo ha curato mostre fotografiche personali, che hanno avuto un relativo successo.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Vincenzo Diodati &lt;/strong&gt;(vdiodati1@gmail.com): Torre Saracena; Convento dei Paolotti&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Villapianese, musicista e didatta, opera nel suo campo con la docenza nella Scuola Secondaria di primo grado e l’attività artistica. È un appassionato ricercatore di linguistica e cultore delle tradizioni popolari locali con un particolare interesse nel campo della ricerca storica del territorio di Villapiana. Le fotografie, certamente amatoriali, sono tuttavia frutto di un estro personale ricercato, utilizzando uno smartphone.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Emilio Pace &lt;/strong&gt;(a691373@gmail.com): Porta dei Santi; Chiesa Madre&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, ex dipendente Enel in pensione con hobby della fotografia con particolare interesse alla natura e al territorio villapianese. Per le fotografie è stato utilizzato uno Smartphone Redmi note 7.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt; &lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 154}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Lauretta Ugolini</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/lauretta-ugolini.html"/>
+		<published>2023-12-15T12:47:11+00:00</published>
+		<updated>2023-12-15T12:47:11+00:00</updated>
+		<id>http://192.168.80.130/lauretta-ugolini.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Mostra fotografica Restanza e Resilienza</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/mostra-fotografica-restanza-e-resilienza.html"/>
+		<published>2023-12-15T12:45:44+00:00</published>
+		<updated>2023-12-15T12:45:44+00:00</updated>
+		<id>http://192.168.80.130/mostra-fotografica-restanza-e-resilienza.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Nicola Barbati</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/nicola-barbati.html"/>
+		<published>2023-12-15T12:48:24+00:00</published>
+		<updated>2023-12-15T12:48:24+00:00</updated>
+		<id>http://192.168.80.130/nicola-barbati.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+	<entry>
+		<title>Nicola Barbati - Profumi di Primavera</title>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/nicola-barbati-profumi-di-primavera.html"/>
+		<published>2023-12-15T12:50:36+00:00</published>
+		<updated>2023-12-15T12:50:36+00:00</updated>
+		<id>http://192.168.80.130/nicola-barbati-profumi-di-primavera.html</id>
+		<author>
+			<name>Antonio Bria</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;22 Maggio 2024&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;PICCOLA MOSTRA FOTOGRAFICA&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em class=&quot;fs12lh1-5&quot;&gt;Sale, Arte &amp;amp; Tabacchi&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt; &lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;è n&lt;/span&gt;el Centro Storico di Villapiana&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;Rivendita di Dina Staffa&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt; &lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;e su&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;www.villapiana.tv&lt;/span&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;22 Maggio 2024&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;PICCOLA MOSTRA FOTOGRAFICA&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em class=&quot;fs12lh1-5&quot;&gt;Sale, Arte &amp;amp; Tabacchi&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt; &lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;è n&lt;/span&gt;el Centro Storico di Villapiana&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;Rivendita di Dina Staffa&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt; &lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;e su&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;fs12lh1-5&quot;&gt;www.villapiana.tv&lt;/span&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.130/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.130/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Fotografia" />
+	</entry>
+</feed>

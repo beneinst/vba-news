@@ -70,15 +70,15 @@ Uri: http://192.168.80.130/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\chi-siamo.html
 Content Type: text/html
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/animate.min.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/animate.min.css?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -86,7 +86,7 @@ Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -102,11 +102,11 @@ Uri: http://192.168.80.130/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?e55bde7d6e36ebf17ba0b8c1e80e4065
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -266,12 +266,24 @@ Uri: http://192.168.80.130/images/2023/12/15/17072022-dji-0054-01.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\17072022-dji-0054-01.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.130/images/2023/12/15/17072022-dji-0054-01_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\17072022-dji-0054-01_thumbnail.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.130/images/2023/12/15/autunno-inverno-lauretta-ugolini1.png
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\autunno-inverno-lauretta-ugolini1.png
 Content Type: image/png
 
+Uri: http://192.168.80.130/images/2023/12/15/autunno-inverno-lauretta-ugolini1_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\autunno-inverno-lauretta-ugolini1_thumbnail.png
+Content Type: image/png
+
 Uri: http://192.168.80.130/images/2023/12/15/manifesto-Mostra-Sale-Arte---Tabacchi1.png
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\manifesto-Mostra-Sale-Arte---Tabacchi1.png
+Content Type: image/png
+
+Uri: http://192.168.80.130/images/2023/12/15/manifesto-Mostra-Sale-Arte---Tabacchi1_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\manifesto-Mostra-Sale-Arte---Tabacchi1_thumbnail.png
 Content Type: image/png
 
 Uri: http://192.168.80.130/images/2023/12/15/Nicola-Barbati---Villapiana-High.png
@@ -280,6 +292,10 @@ Content Type: image/png
 
 Uri: http://192.168.80.130/images/2023/12/15/porta-dei-santi.png
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\porta-dei-santi.png
+Content Type: image/png
+
+Uri: http://192.168.80.130/images/2023/12/15/porta-dei-santi_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2023\12\15\porta-dei-santi_thumbnail.png
 Content Type: image/png
 
 Uri: http://192.168.80.130/images/2023/12/17/HY1_3.jpg
@@ -596,6 +612,22 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.130/images/2024/04/25/pino-teatro--2--new2.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\04\25\pino-teatro--2--new2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/2024/05/27/44.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\05\27\44.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/2024/05/27/oicok.png
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\05\27\oicok.png
+Content Type: image/png
+
+Uri: http://192.168.80.130/images/2024/05/27/oig3-2.jpeg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\05\27\oig3-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/2024/05/27/profumi-di-primavera---nicola-barbati_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\2024\05\27\profumi-di-primavera---nicola-barbati_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.130/images/beneinstlo.png
@@ -4502,6 +4534,86 @@ Uri: http://192.168.80.130/images/speasyimagegallery/albums/30/images/articolo-f
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\30\images\articolo-franco-maurella_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/01-y95jdeto.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\01-y95jdeto.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/01-y95jdeto_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\01-y95jdeto_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/02-ihfxmxn6.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\02-ihfxmxn6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/02-ihfxmxn6_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\02-ihfxmxn6_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/03-x5hjq7nt.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\03-x5hjq7nt.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/03-x5hjq7nt_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\03-x5hjq7nt_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/04-gibqgbe5.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\04-gibqgbe5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/04-gibqgbe5_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\04-gibqgbe5_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/05-lz6lrnim.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\05-lz6lrnim.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/05-lz6lrnim_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\05-lz6lrnim_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/06-hgfjc2lt.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\06-hgfjc2lt.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/06-hgfjc2lt_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\06-hgfjc2lt_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/07-9idrgu0r.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\07-9idrgu0r.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/07-9idrgu0r_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\07-9idrgu0r_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/08-mb3v3287.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\08-mb3v3287.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/08-mb3v3287_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\08-mb3v3287_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/09-3abmr1ea.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\09-3abmr1ea.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/09-3abmr1ea_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\09-3abmr1ea_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/10-nv19r3ge.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\10-nv19r3ge.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.130/images/speasyimagegallery/albums/31/images/10-nv19r3ge_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\31\images\10-nv19r3ge_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.130/images/speasyimagegallery/albums/4/images/aaa.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\4\images\aaa.jpg
 Content Type: image/jpeg
@@ -5206,10 +5318,6 @@ Uri: http://192.168.80.130/images/speasyimagegallery/albums/9/images/15_thumb.jp
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\speasyimagegallery\albums\9\images\15_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.130/images/targa-vba.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.130\images\targa-vba.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.130/images/yout.png
 File Name: C:\Downloaded Web Sites\192.168.80.130\images\yout.png
 Content Type: image/png
@@ -5278,7 +5386,7 @@ Uri: http://192.168.80.130/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.130/media/com_wrapper/js/iframe-height.min.js?5ed0a0
+Uri: http://192.168.80.130/media/com_wrapper/js/iframe-height.min.js?ceb158
 File Name: C:\Downloaded Web Sites\192.168.80.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -5400,6 +5508,22 @@ Content Type: text/html
 
 Uri: http://192.168.80.130/mostra-fotografica-sul-pane-fatto-in-casa.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\mostra-fotografica-sul-pane-fatto-in-casa.html
+Content Type: text/html
+
+Uri: http://192.168.80.130/nicola-barbati-profumi-di-primavera.feed?view=category&id=15&type=atom
+File Name: C:\Downloaded Web Sites\192.168.80.130\nicola-barbati-profumi-di-primavera-1.feed
+Content Type: application/atom+xml
+
+Uri: http://192.168.80.130/nicola-barbati-profumi-di-primavera.feed?view=category&id=15&type=rss
+File Name: C:\Downloaded Web Sites\192.168.80.130\nicola-barbati-profumi-di-primavera.feed
+Content Type: application/rss+xml
+
+Uri: http://192.168.80.130/nicola-barbati-profumi-di-primavera.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\nicola-barbati-profumi-di-primavera.html
+Content Type: text/html
+
+Uri: http://192.168.80.130/nicola-barbati-profumi-di-primavera.html?view=category&id=15
+File Name: C:\Downloaded Web Sites\192.168.80.130\nicola-barbati-profumi-di-primavera-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/nicola-barbati.html
