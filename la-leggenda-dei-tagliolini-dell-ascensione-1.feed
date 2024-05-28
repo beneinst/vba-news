@@ -5,7 +5,7 @@
 	<subtitle type="text">Villapiana Borgo Attivo</subtitle>
 	<link rel="alternate" type="text/html" href="http://192.168.80.130"/>
 	<id>http://192.168.80.130/la-leggenda-dei-tagliolini-dell-ascensione.feed</id>
-	<updated>2024-05-27T19:19:39+00:00</updated>
+	<updated>2024-05-28T11:15:32+00:00</updated>
 	<author>
 		<name>My site</name>
 	</author>
@@ -264,10 +264,10 @@
 	</entry>
 	<entry>
 		<title>&quot;U carrüšl'&quot; - la trottola</title>
-		<link rel="alternate" type="text/html" href="http://192.168.80.130/u-carr%C3%BC%C5%A1l-la-trottola.html"/>
+		<link rel="alternate" type="text/html" href="http://192.168.80.130/la-trottola.html"/>
 		<published>2023-12-10T05:40:39+00:00</published>
 		<updated>2023-12-10T05:40:39+00:00</updated>
-		<id>http://192.168.80.130/u-carr%C3%BC%C5%A1l-la-trottola.html</id>
+		<id>http://192.168.80.130/la-trottola.html</id>
 		<author>
 			<name>Federico De Marco</name>
 		</author>

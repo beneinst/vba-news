@@ -2,16 +2,8 @@ Uri: http://192.168.80.130/
 File Name: C:\Downloaded Web Sites\192.168.80.130\index.htm
 Content Type: text/html
 
-Uri: http://192.168.80.130/“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\“dialoghi-contemporanei”-–-allestimento-permanente-sale-del-mavi-per-la-giornata-del-contemporaneo.html
-Content Type: text/html
-
-Uri: http://192.168.80.130/19-fuochi-vallje%2C-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
-Content Type: text/html
-
-Uri: http://192.168.80.130/19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\19-fuochi-vallje,-eventi-dedicati-all’identità-e-all’iniziativa-imprenditoriale-arbëreshë-1.html
+Uri: http://192.168.80.130/19-fuochi-vallje.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\19-fuochi-vallje.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/a-tavola-nel-borgo.html
@@ -30,8 +22,8 @@ Uri: http://192.168.80.130/arte-mavi.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\arte-mavi.html
 Content Type: text/html
 
-Uri: http://192.168.80.130/bellezza-e-guerra-le-due-facce-dell’homo-sapiens.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\bellezza-e-guerra-le-due-facce-dell’homo-sapiens.html
+Uri: http://192.168.80.130/bellezza-e-guerra-le-due-facce-dell-homo-sapiens.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\bellezza-e-guerra-le-due-facce-dell-homo-sapiens.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/bellezza-e-socialità.html
@@ -62,8 +54,8 @@ Uri: http://192.168.80.130/cache/com_templates/templates/shaper_helixultimate/e3
 File Name: C:\Downloaded Web Sites\192.168.80.130\cache\com_templates\templates\shaper_helixultimate\e34c43fafab945fa8002b18d57b4a238.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.130/che-cos’è-l’ipertensione-arteriosa.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\che-cos’è-l’ipertensione-arteriosa.html
+Uri: http://192.168.80.130/che-cose-lipertensione-arteriosa.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\che-cose-lipertensione-arteriosa.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/chi-siamo.html
@@ -134,8 +126,8 @@ Uri: http://192.168.80.130/components/com_sppagebuilder/assets/webfonts/fa-solid
 File Name: C:\Downloaded Web Sites\192.168.80.130\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
-Uri: http://192.168.80.130/comunicato-stampa-3°-esperimento-di-villapiana.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\comunicato-stampa-3°-esperimento-di-villapiana.html
+Uri: http://192.168.80.130/comunicato-stampa-3-esperimento-di-villapiana.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\comunicato-stampa-3-esperimento-di-villapiana.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/contatti.html
@@ -156,6 +148,10 @@ Content Type: text/html
 
 Uri: http://192.168.80.130/dialetto.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\dialetto.html
+Content Type: text/html
+
+Uri: http://192.168.80.130/dialoghi-contemporanei.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\dialoghi-contemporanei.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/due-fotografie-commentate-da-ab.html
@@ -5370,6 +5366,10 @@ Uri: http://192.168.80.130/la-leggenda-dei-tagliolini-dell-ascensione.html?view=
 File Name: C:\Downloaded Web Sites\192.168.80.130\la-leggenda-dei-tagliolini-dell-ascensione-1.html
 Content Type: text/html
 
+Uri: http://192.168.80.130/la-trottola.html
+File Name: C:\Downloaded Web Sites\192.168.80.130\la-trottola.html
+Content Type: text/html
+
 Uri: http://192.168.80.130/lauretta-ugolini.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\lauretta-ugolini.html
 Content Type: text/html
@@ -5596,10 +5596,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.130/territorio-e-borgo.html
 File Name: C:\Downloaded Web Sites\192.168.80.130\territorio-e-borgo.html
-Content Type: text/html
-
-Uri: http://192.168.80.130/u-carrüšl-la-trottola.html
-File Name: C:\Downloaded Web Sites\192.168.80.130\u-carrüšl-la-trottola.html
 Content Type: text/html
 
 Uri: http://192.168.80.130/villapiana-e-dintorni.html
