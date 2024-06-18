@@ -602,10 +602,6 @@ Uri: http://192.168.80.128/images/2024/04/10/image005jh.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\10\image005jh.png
 Content Type: image/png
 
-Uri: http://192.168.80.128/images/2024/04/10/oig1-remov6ebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\10\oig1-remov6ebg-preview.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/04/25/panoramaj_5a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\25\panoramaj_5a.jpg
 Content Type: image/jpeg
@@ -628,6 +624,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/06/18/th__2_-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__2_-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/06/18/th__4_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__4_-removebg-preview.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/beneinstlo.png
