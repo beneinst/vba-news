@@ -618,10 +618,6 @@ Uri: http://192.168.80.128/images/2024/05/27/44.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\05\27\44.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/05/27/oicok.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\05\27\oicok.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/05/27/oig3-2.jpeg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\05\27\oig3-2.jpeg
 Content Type: image/jpeg
@@ -629,6 +625,10 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/2024/05/27/profumi-di-primavera---nicola-barbati_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\05\27\profumi-di-primavera---nicola-barbati_edited.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/06/18/th__2_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__2_-removebg-preview.png
+Content Type: image/png
 
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
@@ -5390,6 +5390,10 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?158a9b
+File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min-1.js
+Content Type: text/javascript
+
 Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?85f7a1
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
@@ -5833,4 +5837,8 @@ Content Type: font/ttf
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 Content Type: font/ttf
+
+Uri: https://www.iubenda.com/privacy-policy/46601671.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\privacy-policy\privacy-policy-46601671.pdf
+Content Type: application/pdf
 
