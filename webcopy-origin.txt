@@ -242,14 +242,6 @@ Uri: http://192.168.80.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\11\1home_6a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2023/12/14/photo_2023-12-14_11-04-40.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\14\photo_2023-12-14_11-04-40.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2023/12/14/photo_2023-12dd.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\14\photo_2023-12dd.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2023/12/14/scena6-cutro.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\14\scena6-cutro.jpg
 Content Type: image/jpeg
@@ -629,6 +621,14 @@ Content Type: image/png
 Uri: http://192.168.80.128/images/2024/06/18/th__4_-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__4_-removebg-preview.png
 Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/06/22/donnap1e.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\22\donnap1e.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/06/22/taaz2.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\22\taaz2.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
