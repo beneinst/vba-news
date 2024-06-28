@@ -5,7 +5,7 @@
 	<subtitle type="text">Villapiana Borgo Attivo</subtitle>
 	<link rel="alternate" type="text/html" href="http://192.168.80.128"/>
 	<id>http://192.168.80.128/nicola-barbati-profumi-di-primavera.feed</id>
-	<updated>2024-06-28T08:51:27+00:00</updated>
+	<updated>2024-06-28T11:40:36+00:00</updated>
 	<author>
 		<name>My site</name>
 	</author>
@@ -92,7 +92,7 @@
 &lt;p style=&quot;text-align: justify;&quot;&gt;Villapianese, musicista e didatta, opera nel suo campo con la docenza nella Scuola Secondaria di primo grado e l’attività artistica. È un appassionato ricercatore di linguistica e cultore delle tradizioni popolari locali con un particolare interesse nel campo della ricerca storica del territorio di Villapiana. Le fotografie, certamente amatoriali, sono tuttavia frutto di un estro personale ricercato, utilizzando uno smartphone.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Emilio Pace &lt;/strong&gt;(a691373@gmail.com): Porta dei Santi; Chiesa Madre&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, ex dipendente Enel in pensione con hobby della fotografia con particolare interesse alla natura e al territorio villapianese. Per le fotografie è stato utilizzato uno Smartphone Redmi note 7.&lt;/p&gt;
 &lt;hr class=&quot;dashed-hr&quot;&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 154}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
@@ -106,7 +106,7 @@
 &lt;p style=&quot;text-align: justify;&quot;&gt;Villapianese, musicista e didatta, opera nel suo campo con la docenza nella Scuola Secondaria di primo grado e l’attività artistica. È un appassionato ricercatore di linguistica e cultore delle tradizioni popolari locali con un particolare interesse nel campo della ricerca storica del territorio di Villapiana. Le fotografie, certamente amatoriali, sono tuttavia frutto di un estro personale ricercato, utilizzando uno smartphone.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Emilio Pace &lt;/strong&gt;(a691373@gmail.com): Porta dei Santi; Chiesa Madre&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, ex dipendente Enel in pensione con hobby della fotografia con particolare interesse alla natura e al territorio villapianese. Per le fotografie è stato utilizzato uno Smartphone Redmi note 7.&lt;/p&gt;
 &lt;hr class=&quot;dashed-hr&quot;&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 154}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
@@ -122,13 +122,11 @@
 		<author>
 			<name>Antonio Bria</name>
 		</author>
-		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
+		<summary type="html">&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</summary>
-		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
+		<content type="html">&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</content>
@@ -143,13 +141,11 @@
 		<author>
 			<name>Antonio Bria</name>
 		</author>
-		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
+		<summary type="html">&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</summary>
-		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
+		<content type="html">&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</content>
@@ -164,13 +160,11 @@
 		<author>
 			<name>Antonio Bria</name>
 		</author>
-		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
+		<summary type="html">&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</summary>
-		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
-&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
+		<content type="html">&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</content>
@@ -193,7 +187,7 @@
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;Rivendita di &lt;em&gt;Dina Staffa&lt;/em&gt;&lt;/div&gt;
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;e su &lt;a href=&quot;https://www.villapiana.tv&quot;&gt;www.villapiana.tv&lt;/a&gt;&lt;/div&gt;
 &lt;hr class=&quot;dashed-hr&quot;&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
@@ -206,7 +200,7 @@
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;Rivendita di &lt;em&gt;Dina Staffa&lt;/em&gt;&lt;/div&gt;
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;e su &lt;a href=&quot;https://www.villapiana.tv&quot;&gt;www.villapiana.tv&lt;/a&gt;&lt;/div&gt;
 &lt;hr class=&quot;dashed-hr&quot;&gt;
-&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Foto:&lt;/h4&gt;
+&lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;

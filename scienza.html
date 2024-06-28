@@ -30,7 +30,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
     padding: 10px; /* Aggiunge spazio interno al blocco note */
 }</style>
-	<style>h1{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
+	<style>h1{font-family: 'DM Serif Display', sans-serif;font-weight: 400;text-decoration: none;}
 </style>
 	<style>h2{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
 </style>
@@ -54,7 +54,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#sp-bottom{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#sp-footer{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"7271cee07c4f3b59eea9470d89620f19"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"99da4d1eb7835f537355e519684f79f0"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -137,79 +137,99 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="VBA News">
 <style>
-  /* DM Serif Display per i titoli */
-  @font-face {
+    /* DM Serif Display per i titoli */
+@font-face {
     font-family: 'DM Serif Display';
     src: url('images/componenti/fonts/DMSerifDisplay-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-  }
+}
 
-  /* NotoSansDisplay-Medium per il testo normale */
-  @font-face {
+/* Applica i font ai titoli */
+.sppb-addon-title h1,
+.sppb-addon-title h2,
+.sppb-addon-title h3,
+.sppb-addon-title h4,
+.sppb-addon-title h5,
+.sppb-addon-title h6 {
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+}
+
+/* Stile personalizzato per article-header */
+.article-header {
+    font-family: 'DM Serif Display', serif; /* Font personalizzato */
+    line-height: 1.5; /* Altezza della linea personalizzata */
+    height: 100px; /* Altezza specifica per il div, regolabile */
+}
+
+.article-header h1 {
+    margin: 0; /* Rimuove il margine predefinito */
+    line-height: 1.2; /* Altezza della linea personalizzata per h1 */
+    font-size: 32px !important; /* Imposta la dimensione del font a 32px */
+}
+
+/* Media query per schermi di smartphone */
+@media only screen and (max-width: 600px) {
+    .sppb-addon-title h1,
+    .sppb-addon-title h2,
+    .sppb-addon-title h3,
+    .sppb-addon-title h4,
+    .sppb-addon-title h5,
+    .sppb-addon-title h6,
+    .article-header h1 {
+        font-size: 28px; /* Aumenta la dimensione del testo per i titoli su schermi di smartphone */
+    }
+}
+
+/* NotoSansDisplay-Medium per il testo normale */
+@font-face {
     font-family: 'NotoSansDisplay-Medium';
     src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-  }
+}
 
-  /* Applica i font ai titoli */
-  .sppb-addon-title h1,
-  .sppb-addon-title h2,
-  .sppb-addon-title h3,
-  .sppb-addon-title h4,
-  .sppb-addon-title h5,
-  .sppb-addon-title h6 {
-    font-family: 'DM Serif Display', serif;
-    font-weight: 400;
-  }
-
-  /* Applica i font al testo normale nelle zone di contenuto */
-  .sppb-addon-content,
+/* Applica i font al testo normale nelle zone di contenuto */
+.sppb-addon-content,
 .sp-module-content,
-  body,
-  p,
-  span,
-  div,
-  .fs12lh1-5 {
+body,
+p,
+span,
+div,
+.fs12lh1-5 {
     font-family: 'NotoSansDisplay-Medium', sans-serif;
     font-size: 16px;
     line-height: 1.92;
-  }
+}
 
-  /* Media query per schermi di smartphone */
-  @media only screen and (max-width: 600px) {
-    .sppb-addon-title, h4 {
-      font-size: 28px; /* Aumenta la dimensione del testo per i titoli su schermi di smartphone */
-    }
-
+/* Media query per schermi di smartphone */
+@media only screen and (max-width: 600px) {
     .sppb-addon-content,
-.sp-module-content,
+    .sp-module-content,
     body,
     p,
     span,
     text,
     div,
     .fs12lh1-5 {
-      font-size: 22px; /* Aumenta la dimensione del testo per il contenuto su schermi di smartphone */
+        font-size: 22px; /* Aumenta la dimensione del testo per il contenuto su schermi di smartphone */
     }
-@media only screen and (max-width: 600px) {
-  /* Al diminuire della larghezza dello schermo, riduci la dimensione del carattere di 4px */
-  .sppb-addon-content,
-  body,
-  p,
-  span,
-  text,
-  div,
-  .fs12lh1-5 {
-    font-size: calc(18px - 2px); /* Riduci la dimensione del carattere di 2px */
-  }
+    
+    /* Riduzione della dimensione del carattere */
+    .sppb-addon-content,
+    body,
+    p,
+    span,
+    text,
+    div,
+    .fs12lh1-5 {
+        font-size: calc(18px - 2px); /* Riduci la dimensione del carattere di 2px */
+    }
 }
 
-  }
-
-  /* Stili del pulsante */
-  .xxx {
+/* Stili del pulsante */
+.xxx {
     background-color: #BBDEFB;
     color: black;
     border: none;
@@ -220,58 +240,48 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     font-size: 16px;
     border-radius: 8px;
     transition: background-color 0.3s ease;
-  }
+}
 
+.xxx:hover {
+    background-color: #1976D2;
+    color: white;
+}
+
+/* Stile per l'elemento hr con linea tratteggiata */
 .dashed-hr {
     border: 0;
     border-top: 1px dashed #000;
     margin: 20px 0;
 }
 
-  .xxx:hover {
-    background-color: #1976D2;
-    color: white;
-  }
-</style>
-<style>
-    /* Stile di base per l'immagine JPEG */
+/* Stile di base per l'immagine JPEG */
 .image {
-  width: 37px;
-  height: 37px;
-  transition: transform 0.3s ease; /* Aggiungi un'animazione di transizione */
-}
-.tre {
-    border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
-    background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
-    padding: 10px; /* Aggiunge spazio interno al blocco note */
-}
-.tre {
-    border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
-    background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
-    padding: 10px; /* Aggiunge spazio interno al blocco note */
+    width: 37px;
+    height: 37px;
+    transition: transform 0.3s ease; /* Aggiungi un'animazione di transizione */
 }
 
 /* Stile hover per l'immagine JPEG */
 .image-link:hover .image {
-  transform: scale(1.2); /* Cambia la scala quando il mouse e sopra l'immagine */
+    transform: scale(1.2); /* Cambia la scala quando il mouse &egrave; sopra l'immagine */
 }
 
 /* Stile per l'immagine di sfondo della barra del menu */
 #sp-header {
     background-image: url('/images/componenti/qwe1t.jpg');
-    
- background-size: auto cover;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
 }
+
+/* Stile per il blocco note */
 .tre {
     border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
     background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
     padding: 10px; /* Aggiunge spazio interno al blocco note */
 }
-
-</style>
+    </style>
 			</head>
 	<body class="site helix-ultimate hu com_sppagebuilder com-sppagebuilder view-page layout-default task-none itemid-124 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
