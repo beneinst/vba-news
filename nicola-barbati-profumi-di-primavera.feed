@@ -5,7 +5,7 @@
 		<title>Nicola Barbati - Profumi di Primavera</title>
 		<description><![CDATA[Villapiana Borgo Attivo]]></description>
 		<link>http://192.168.80.128/nicola-barbati-profumi-di-primavera.html?view=category&amp;id=15</link>
-		<lastBuildDate>Thu, 27 Jun 2024 22:06:13 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jun 2024 08:51:27 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://192.168.80.128/nicola-barbati-profumi-di-primavera.feed?view=category&amp;id=15&amp;type=rss"/>
 		<language>it-it</language>
@@ -15,8 +15,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/galleria-fotografica-di-maria-costa.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 151}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:49:03 +0000</pubDate>
 		</item>
@@ -26,8 +27,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/territorio-e-borgo.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 148}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:49:45 +0000</pubDate>
 		</item>
@@ -37,8 +39,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/galleria-fotografica-di-nicola-barbati.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 153}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:50:36 +0000</pubDate>
 		</item>
@@ -46,21 +49,20 @@
 			<title>Piccola Mostra Fotografica Sale, Arte &amp; Tabacchi</title>
 			<link>http://192.168.80.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html</guid>
-			<description><![CDATA[<p style="text-align: justify;">In questa pagina, presentiamo una galleria di fotografie selezionate. Di seguito sono fornite brevi informazioni sui fotografi e le loro opere, insieme ai rispettivi indirizzi email per chi desidera contattarli direttamente.</p>
-<p style="text-align: justify;"> </p>
-<p style="text-align: justify;"><strong>Valentina Bria </strong>(vaxgilmar@gmail.com): Sila, Lago Cecita; Sila, Chiesetta di San Lorenzo</p>
+			<description><![CDATA[<p style="text-align: center;">In questa pagina, presentiamo una galleria di fotografie selezionate. Di seguito sono fornite brevi informazioni sui fotografi e le loro opere, insieme ai rispettivi indirizzi email per chi desidera contattarli direttamente.</p>
+<p style="text-align: justify;"><strong>Valentina Bria </strong>(vaxgilmar@gmail.com): Sila, Lago Cecita; Sila, Chiesetta di San Lorenzo</p>
 <p style="text-align: justify;">Di Villapiana, lavora a Cosenza in una start-up produttrice di software informatico. Sin da ragazza ha l’hobby della fotografia. Predilige l’uso della pellicola – in questo caso una Fomapan 100 - utilizzando una Yashika F-X3 2000.</p>
 <p style="text-align: justify;"><strong>Maria Costa </strong>(costamaria960@gmail.com): Alba Villapiana Lido; Torre Castello</p>
 <p style="text-align: justify;">Di Villapiana, appassionata da sempre di fotografia, negli ultimi anni si è specializzata come fotografa di famiglia e di eventi. La Torre del Castello e stata fatta tempo fa, con una bridge Fujifilm, mentre di recente (Alba a Villapiana Lido) è passata ad usare una reflex Nikon con sensore apcs.<br><br><strong>Giuseppe D’Alba </strong>(giuseppe.d.alba@libero.it): Chiesa Madre; Palazzo dell’Americano</p>
 <p style="text-align: justify;">Di Trebisacce, sin dal 1974 ha un hobby preferito: la fotografia. Ha iniziato da autodidatta, preferendo il bianco e nero con soggetti vari, dai paesaggi ai vicoli di strade alle persone. La sua ultima macchina fotografica è una Oympus mark III digitale. Nel tempo ha curato mostre fotografiche personali, che hanno avuto un relativo successo.<br><br><strong>Vincenzo Diodati </strong>(vdiodati1@gmail.com): Torre Saracena; Convento dei Paolotti</p>
 <p style="text-align: justify;">Villapianese, musicista e didatta, opera nel suo campo con la docenza nella Scuola Secondaria di primo grado e l’attività artistica. È un appassionato ricercatore di linguistica e cultore delle tradizioni popolari locali con un particolare interesse nel campo della ricerca storica del territorio di Villapiana. Le fotografie, certamente amatoriali, sono tuttavia frutto di un estro personale ricercato, utilizzando uno smartphone.<br><br><strong>Emilio Pace </strong>(a691373@gmail.com): Porta dei Santi; Chiesa Madre</p>
 <p style="text-align: justify;">Di Villapiana, ex dipendente Enel in pensione con hobby della fotografia con particolare interesse alla natura e al territorio villapianese. Per le fotografie è stato utilizzato uno Smartphone Redmi note 7.</p>
-<hr>
-<h4 style="text-align: justify;"> </h4>
+<hr class="dashed-hr">
 <h4 style="text-align: justify;">Galleria Foto:</h4>
-<p style="text-align: justify;">{loadmoduleid 154}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<p>{loadmoduleid 154}</p>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 05:06:12 +0000</pubDate>
 		</item>
@@ -70,8 +72,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/lauretta-ugolini.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 150}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:47:11 +0000</pubDate>
 		</item>
@@ -81,8 +84,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/mostra-fotografica-restanza-e-resilienza.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 152}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:45:44 +0000</pubDate>
 		</item>
@@ -92,8 +96,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/nicola-barbati.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 149}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:48:24 +0000</pubDate>
 		</item>
@@ -102,22 +107,18 @@
 			<link>http://192.168.80.128/nicola-barbati-profumi-di-primavera.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/nicola-barbati-profumi-di-primavera.html</guid>
 			<description><![CDATA[<h4>22 Maggio 2024</h4>
-<p style="text-align: justify;"> </p>
-<div class="imTACenter" style="text-align: center;"><span class="fs12lh1-5">PICCOLA MOSTRA FOTOGRAFICA</span></div>
-<div class="imTACenter" style="text-align: center;"><strong><em class="fs12lh1-5">Sale, Arte &amp; Tabacchi</em></strong></div>
+<div class="imTACenter" style="text-align: center;"><span style="font-size: 18px;">PICCOLA MOSTRA FOTOGRAFICA</span></div>
+<div class="imTACenter" style="text-align: center;"><span style="font-size: 24px;"><strong><em>Sale, Arte &amp; Tabacchi</em></strong></span></div>
 <div class="imTACenter" style="text-align: center;"> </div>
-<div class="imTACenter" style="text-align: center;"><span class="fs12lh1-5">è n</span>el Centro Storico di Villapiana</div>
-<div class="imTACenter" style="text-align: center;"><span class="fs12lh1-5">Rivendita di Dina Staffa</span></div>
-<div class="imTACenter" style="text-align: center;"> </div>
-<div class="imTACenter" style="text-align: center;"><span class="fs12lh1-5">e su</span></div>
-<div class="imTACenter" style="text-align: center;"><a href="https://www.villapiana.tv"><span class="fs12lh1-5">www.villapiana.tv</span></a></div>
-<p style="text-align: justify;"> </p>
-<hr>
-<p style="text-align: justify;"> </p>
+<div class="imTACenter" style="text-align: center;">è nel Centro Storico di Villapiana</div>
+<div class="imTACenter" style="text-align: center;">Rivendita di <em>Dina Staffa</em></div>
+<div class="imTACenter" style="text-align: center;">e su <a href="https://www.villapiana.tv">www.villapiana.tv</a></div>
+<hr class="dashed-hr">
 <h4 style="text-align: justify;">Galleria Foto:</h4>
 <p style="text-align: justify;">{loadmoduleid 220}</p>
-<p> </p>
-<p><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"></a></p>]]></description>
+<hr>
+<div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
+<hr>]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:50:36 +0000</pubDate>
 		</item>
