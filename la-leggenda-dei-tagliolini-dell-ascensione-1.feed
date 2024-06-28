@@ -5,7 +5,7 @@
 	<subtitle type="text">Villapiana Borgo Attivo</subtitle>
 	<link rel="alternate" type="text/html" href="http://192.168.80.128"/>
 	<id>http://192.168.80.128/la-leggenda-dei-tagliolini-dell-ascensione.feed</id>
-	<updated>2024-06-28T14:26:11+00:00</updated>
+	<updated>2024-06-28T18:08:52+00:00</updated>
 	<author>
 		<name>My site</name>
 	</author>
@@ -110,14 +110,14 @@
 			<name>Federico De Marco</name>
 		</author>
 		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Benvenuti alla Galleria del Pane Fatto in Casa, un viaggio affascinante nel cuore di un antico rito che continua a ripetersi, trasmettendo tradizione e passione di generazione in generazione. Questa mostra offre uno sguardo dettagliato attraverso le fasi e i preparativi coinvolti nella creazione di pane fatto in casa, un'arte che va ben oltre la semplice cottura.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 122}&lt;/p&gt;
+&lt;hr class=&quot;dashed-hr&quot;&gt;
+&lt;p&gt;{loadmoduleid 122}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/dialetto.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</summary>
 		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Benvenuti alla Galleria del Pane Fatto in Casa, un viaggio affascinante nel cuore di un antico rito che continua a ripetersi, trasmettendo tradizione e passione di generazione in generazione. Questa mostra offre uno sguardo dettagliato attraverso le fasi e i preparativi coinvolti nella creazione di pane fatto in casa, un'arte che va ben oltre la semplice cottura.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 122}&lt;/p&gt;
+&lt;hr class=&quot;dashed-hr&quot;&gt;
+&lt;p&gt;{loadmoduleid 122}&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/dialetto.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
 &lt;hr&gt;</content>

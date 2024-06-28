@@ -5,7 +5,7 @@
 		<title>La leggenda dei Tagliolini dell'Ascensione </title>
 		<description><![CDATA[Villapiana Borgo Attivo]]></description>
 		<link>http://192.168.80.128/la-leggenda-dei-tagliolini-dell-ascensione.html?view=category&amp;id=10</link>
-		<lastBuildDate>Fri, 28 Jun 2024 14:26:11 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jun 2024 18:08:52 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://192.168.80.128/la-leggenda-dei-tagliolini-dell-ascensione.feed?view=category&amp;id=10&amp;type=rss"/>
 		<language>it-it</language>
@@ -60,8 +60,8 @@
 			<link>http://192.168.80.128/mostra-fotografica-sul-pane-fatto-in-casa.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/mostra-fotografica-sul-pane-fatto-in-casa.html</guid>
 			<description><![CDATA[<p style="text-align: justify;">Benvenuti alla Galleria del Pane Fatto in Casa, un viaggio affascinante nel cuore di un antico rito che continua a ripetersi, trasmettendo tradizione e passione di generazione in generazione. Questa mostra offre uno sguardo dettagliato attraverso le fasi e i preparativi coinvolti nella creazione di pane fatto in casa, un'arte che va ben oltre la semplice cottura.</p>
-<p style="text-align: justify;"> </p>
-<p style="text-align: justify;">{loadmoduleid 122}</p>
+<hr class="dashed-hr">
+<p>{loadmoduleid 122}</p>
 <hr>
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/dialetto.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
 <hr>]]></description>
