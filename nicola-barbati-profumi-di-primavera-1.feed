@@ -5,7 +5,7 @@
 	<subtitle type="text">Villapiana Borgo Attivo</subtitle>
 	<link rel="alternate" type="text/html" href="http://192.168.80.128"/>
 	<id>http://192.168.80.128/nicola-barbati-profumi-di-primavera.feed</id>
-	<updated>2024-06-28T20:50:08+00:00</updated>
+	<updated>2024-06-29T06:01:40+00:00</updated>
 	<author>
 		<name>My site</name>
 	</author>
@@ -22,14 +22,14 @@
 		</author>
 		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 151}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 151}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -43,14 +43,14 @@
 		</author>
 		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 148}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 148}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -64,14 +64,14 @@
 		</author>
 		<summary type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 153}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;h4&gt;Galleria Foto:&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 153}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -94,9 +94,9 @@
 &lt;hr class=&quot;dashed-hr&quot;&gt;
 &lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 154}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;p style=&quot;text-align: center;&quot;&gt;In questa pagina, presentiamo una galleria di fotografie selezionate. Di seguito sono fornite brevi informazioni sui fotografi e le loro opere, insieme ai rispettivi indirizzi email per chi desidera contattarli direttamente.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Valentina Bria &lt;/strong&gt;(vaxgilmar@gmail.com): Sila, Lago Cecita; Sila, Chiesetta di San Lorenzo&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Di Villapiana, lavora a Cosenza in una start-up produttrice di software informatico. Sin da ragazza ha l’hobby della fotografia. Predilige l’uso della pellicola – in questo caso una Fomapan 100 - utilizzando una Yashika F-X3 2000.&lt;/p&gt;
@@ -108,9 +108,9 @@
 &lt;hr class=&quot;dashed-hr&quot;&gt;
 &lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p&gt;{loadmoduleid 154}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -123,13 +123,13 @@
 			<name>Antonio Bria</name>
 		</author>
 		<summary type="html">&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;p&gt;{loadmoduleid 150}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -142,13 +142,13 @@
 			<name>Antonio Bria</name>
 		</author>
 		<summary type="html">&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;p&gt;{loadmoduleid 152}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -161,13 +161,13 @@
 			<name>Antonio Bria</name>
 		</author>
 		<summary type="html">&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;p&gt;{loadmoduleid 149}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 	<entry>
@@ -189,9 +189,9 @@
 &lt;hr class=&quot;dashed-hr&quot;&gt;
 &lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</summary>
+&lt;hr class=&quot;ab-hr&quot;&gt;</summary>
 		<content type="html">&lt;h4&gt;22 Maggio 2024&lt;/h4&gt;
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PICCOLA MOSTRA FOTOGRAFICA&lt;/span&gt;&lt;/div&gt;
 &lt;div class=&quot;imTACenter&quot; style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;&lt;em&gt;Sale, Arte &amp;amp; Tabacchi&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
@@ -202,9 +202,9 @@
 &lt;hr class=&quot;dashed-hr&quot;&gt;
 &lt;h4 style=&quot;text-align: justify;&quot;&gt;Galleria Fotografica&lt;/h4&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;{loadmoduleid 220}&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr class=&quot;ab-hr&quot;&gt;
 &lt;div style=&quot;display: flex; justify-content: flex-end; align-items: center;&quot;&gt;&lt;a class=&quot;image-link&quot; title=&quot;Torna all'indice principale&quot; href=&quot;http://192.168.80.128/fotografia.html&quot;&gt; &lt;img class=&quot;image&quot; src=&quot;http://192.168.80.128/images/componenti/reply-all.jpg&quot; alt=&quot;reply-all.jpg&quot; width=&quot;45&quot; height=&quot;40&quot; loading=&quot;lazy&quot; data-path=&quot;local-images:/Componenti/reply-all.jpg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
-&lt;hr&gt;</content>
+&lt;hr class=&quot;ab-hr&quot;&gt;</content>
 		<category term="Fotografia" />
 	</entry>
 </feed>

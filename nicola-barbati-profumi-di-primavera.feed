@@ -5,7 +5,7 @@
 		<title>Nicola Barbati - Profumi di Primavera</title>
 		<description><![CDATA[Villapiana Borgo Attivo]]></description>
 		<link>http://192.168.80.128/nicola-barbati-profumi-di-primavera.html?view=category&amp;id=15</link>
-		<lastBuildDate>Fri, 28 Jun 2024 20:50:08 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 29 Jun 2024 06:01:39 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://192.168.80.128/nicola-barbati-profumi-di-primavera.feed?view=category&amp;id=15&amp;type=rss"/>
 		<language>it-it</language>
@@ -15,9 +15,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/galleria-fotografica-di-maria-costa.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 151}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:49:03 +0000</pubDate>
 		</item>
@@ -27,9 +27,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/territorio-e-borgo.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 148}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:49:45 +0000</pubDate>
 		</item>
@@ -39,9 +39,9 @@
 			<guid isPermaLink="true">http://192.168.80.128/galleria-fotografica-di-nicola-barbati.html</guid>
 			<description><![CDATA[<h4>Galleria Foto:</h4>
 <p>{loadmoduleid 153}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:50:36 +0000</pubDate>
 		</item>
@@ -60,9 +60,9 @@
 <hr class="dashed-hr">
 <h4 style="text-align: justify;">Galleria Fotografica</h4>
 <p>{loadmoduleid 154}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 05:06:12 +0000</pubDate>
 		</item>
@@ -71,9 +71,9 @@
 			<link>http://192.168.80.128/lauretta-ugolini.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/lauretta-ugolini.html</guid>
 			<description><![CDATA[<p>{loadmoduleid 150}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:47:11 +0000</pubDate>
 		</item>
@@ -82,9 +82,9 @@
 			<link>http://192.168.80.128/mostra-fotografica-restanza-e-resilienza.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/mostra-fotografica-restanza-e-resilienza.html</guid>
 			<description><![CDATA[<p>{loadmoduleid 152}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:45:44 +0000</pubDate>
 		</item>
@@ -93,9 +93,9 @@
 			<link>http://192.168.80.128/nicola-barbati.html</link>
 			<guid isPermaLink="true">http://192.168.80.128/nicola-barbati.html</guid>
 			<description><![CDATA[<p>{loadmoduleid 149}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:48:24 +0000</pubDate>
 		</item>
@@ -113,9 +113,9 @@
 <hr class="dashed-hr">
 <h4 style="text-align: justify;">Galleria Fotografica</h4>
 <p style="text-align: justify;">{loadmoduleid 220}</p>
-<hr>
+<hr class="ab-hr">
 <div style="display: flex; justify-content: flex-end; align-items: center;"><a class="image-link" title="Torna all'indice principale" href="http://192.168.80.128/fotografia.html"> <img class="image" src="http://192.168.80.128/images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a></div>
-<hr>]]></description>
+<hr class="ab-hr">]]></description>
 			<category>Fotografia</category>
 			<pubDate>Fri, 15 Dec 2023 12:50:36 +0000</pubDate>
 		</item>
