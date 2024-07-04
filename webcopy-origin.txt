@@ -1030,10 +1030,6 @@ Uri: http://192.168.80.128/images/pagine/home_/9.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\9.png
 Content Type: image/png
 
-Uri: http://192.168.80.128/images/pagine/home_/css232_editeds_edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\css232_editeds_edited.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/home_/iiii.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\iiii.jpg
 Content Type: image/jpeg
@@ -1041,6 +1037,10 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/home_/laC-intervista.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\laC-intervista.png
 Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/home_/telea1.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\telea1.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/01_b3uzejby.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\01_b3uzejby.jpg
