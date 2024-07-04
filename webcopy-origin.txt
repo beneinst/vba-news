@@ -650,8 +650,16 @@ Uri: http://192.168.80.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.80.128/images/componenti/fonts/Lexend-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\Lexend-Regular.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.80.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.80.128/images/componenti/fonts/PlaywriteDEGrund-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\PlaywriteDEGrund-Regular.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.80.128/images/componenti/icone_pagine/image003y.png
@@ -5394,7 +5402,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?57ff43
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?5e7167
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 

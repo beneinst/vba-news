@@ -51,7 +51,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"f39cd59a4c3ffd3a640dca5582811c61"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"c1e9108945b94c40693fc354ca137df3"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -73,82 +73,108 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <style>
     /* DM Serif Display per i titoli */
-@font-face {
-    font-family: 'DM Serif Display';
-    src: url('images/componenti/fonts/DMSerifDisplay-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    @font-face {
+        font-family: 'DM Serif Display';
+        src: url('images/componenti/fonts/DMSerifDisplay-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Lexend Regular';
+        src: url('images/componenti/fonts/Lexend-Regular.ttf') format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Playwrite DE Grund Regular';
+        src: url('images/componenti/fonts/PlaywriteDEGrund-Regular.ttf') format('truetype');
+    }
+
+    /* Applica style per titoli pag e sottotitoli */
+    .title-custom {
+        font-family: 'Lexend Regular', serif;
+        font-size: 2.1em; /* Dimensione del font per i titoli */
+        color: #333; /* Colore del testo */
+        margin: 24px 0; /* Margini per separare i titoli dagli altri elementi */
+    }
+
+   .subtitle-custom {
+  font-family: 'Playwrite DE Grund Regular', cursive;
+  font-size: 1em; /* Dimensione del font per i sottotitoli */
+  color: #000000; /* Colore del testo */
+  margin: 20px 0; /* Margini per separare i sottotitoli dagli altri elementi */
+  line-height: 1.90; /* Interlinea 1.25 */
 }
 
-/* Applica i font ai titoli */
-.sppb-addon-title h1,
-.sppb-addon-title h2,
-.sppb-addon-title h3,
-.sppb-addon-title h4,
-.sppb-addon-title h5,
-.sppb-addon-title h6 {
-    font-family: 'DM Serif Display', serif;
-    font-weight: 400;
-}
 
-/* Stile personalizzato per article-header */
-.article-header {
-   font-size: 34px !important; /* Imposta la dimensione del font a 32px */
-   
-}
-
-.article-header h1 {
-    
-    font-size: 34px !important; /* Imposta la dimensione del font a 32px */
-}
-
-/* Media query per schermi di smartphone */
-@media only screen and (max-width: 600px) {
+    /* Applica i font ai titoli */
     .sppb-addon-title h1,
     .sppb-addon-title h2,
     .sppb-addon-title h3,
     .sppb-addon-title h4,
     .sppb-addon-title h5,
-    .sppb-addon-title h6,
-    .article-header h1 {
-        font-size: 28px; /* Aumenta la dimensione del testo per i titoli su schermi di smartphone */
+    .sppb-addon-title h6 {
+        font-family: 'DM Serif Display', serif;
+        font-weight: 400;
     }
-}
 
-/* NotoSansDisplay-Medium per il testo normale */
-@font-face {
-    font-family: 'NotoSansDisplay-Medium';
-    src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
+    /* Stile personalizzato per article-header */
+    .article-header {
+        font-size: 34px !important; /* Imposta la dimensione del font a 34px */
+    }
 
-/* Applica i font al testo normale nelle zone di contenuto */
-.sppb-addon-content,
-.sp-module-content,
-body,
-p,
-span,
-div,
-.fs12lh1-5 {
-    font-family: 'NotoSansDisplay-Medium', sans-serif;
-    font-size: 16px;
-    line-height: 1.92;
-}
+    .article-header h1 {
+        font-size: 34px !important; /* Imposta la dimensione del font a 34px */
+    }
 
-/* Media query per schermi di smartphone */
-@media only screen and (max-width: 600px) {
+    /* Media query per schermi di smartphone */
+    @media only screen and (max-width: 600px) {
+        .sppb-addon-title h1,
+        .sppb-addon-title h2,
+        .sppb-addon-title h3,
+        .sppb-addon-title h4,
+        .sppb-addon-title h5,
+        .sppb-addon-title h6,
+        .article-header h1 {
+            font-size: 28px; /* Aumenta la dimensione del testo per i titoli su schermi di smartphone */
+        }
+    }
+
+    /* NotoSansDisplay-Medium per il testo normale */
+    @font-face {
+        font-family: 'NotoSansDisplay-Medium';
+        src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /* Applica i font al testo normale nelle zone di contenuto */
     .sppb-addon-content,
     .sp-module-content,
     body,
     p,
     span,
-    text,
     div,
     .fs12lh1-5 {
-        font-size: 22px; /* Aumenta la dimensione del testo per il contenuto su schermi di smartphone */
+        font-family: 'NotoSansDisplay-Medium', sans-serif;
+        font-size: 16px;
+        line-height: 1.92;
     }
-    
+
+    /* Media query per schermi di smartphone */
+    @media only screen and (max-width: 600px) {
+        .sppb-addon-content,
+        .sp-module-content,
+        body,
+        p,
+        span,
+        text,
+        div,
+        .fs12lh1-5 {
+            font-size: 22px; /* Aumenta la dimensione del testo per il contenuto su schermi di smartphone */
+        }
+    }
+
     /* Riduzione della dimensione del carattere */
     .sppb-addon-content,
     body,
@@ -159,85 +185,85 @@ div,
     .fs12lh1-5 {
         font-size: calc(18px - 2px); /* Riduci la dimensione del carattere di 2px */
     }
-}
 
-/* Stili del pulsante */
-.xxx {
-    background-color: #BBDEFB;
-    color: black;
-    border: none;
-    padding: 4px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 8px;
-    transition: background-color 0.3s ease;
-}
+    /* Stili del pulsante */
+    .xxx {
+        background-color: #BBDEFB;
+        color: black;
+        border: none;
+        padding: 4px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+    }
 
-.xxx:hover {
-    background-color: #1976D2;
-    color: white;
-}
+    .xxx:hover {
+        background-color: #1976D2;
+        color: white;
+    }
 
-/* Stile per l'elemento hr con linea tratteggiata */
-.dashed-hr {
-    border: 0;
-    border-top: 1px dashed #000;
-    margin: 20px 0;
-}
+    /* Stile per l'elemento hr con linea tratteggiata */
+    .dashed-hr {
+        border: 0;
+        border-top: 1px dashed #000;
+        margin: 20px 0;
+    }
 
-/* Stile per l'elemento hr con colori chiari */
-.ab-hr {
-    border: 0;
-    border-top: 1px dashed #717171; /* Colore grigio molto chiaro */
-    margin: 20px 0;
-}
+    /* Stile per l'elemento hr con colori chiari */
+    .ab-hr {
+        border: 0;
+        border-top: 1px dashed #717171; /* Colore grigio molto chiaro */
+        margin: 20px 0;
+    }
 
-/* Stile riga social sopra */
-.article-details .article-ratings-social-share {
-    padding: 1rem 0;
-    border-top: 1px dashed #cccccc !important; /* Bordo superiore grigio scuro con !important */
-    border-bottom: 1px dashed #cccccc !important; /* Bordo inferiore grigio scuro con !important */
-    margin-bottom: 1rem;
-}
-/* Stile per miniature articoli correlati */
-.article-list .article {
-    position: relative;
-    margin-bottom: 30px;
-    padding: 20px;
-    border: 1px dashed #cccccc !important; /* Bordo grigio scuro con !important */
-    border-radius: 3px;
-}
+    /* Stile riga social sopra */
+    .article-details .article-ratings-social-share {
+        padding: 1rem 0;
+        border-top: 1px dashed #cccccc !important; /* Bordo superiore grigio scuro con !important */
+        border-bottom: 1px dashed #cccccc !important; /* Bordo inferiore grigio scuro con !important */
+        margin-bottom: 1rem;
+    }
 
-/* Stile di base per l'immagine JPEG */
-.image {
-    width: 37px;
-    height: 37px;
-    transition: transform 0.3s ease; /* Aggiungi un'animazione di transizione */
-}
+    /* Stile per miniature articoli correlati */
+    .article-list .article {
+        position: relative;
+        margin-bottom: 30px;
+        padding: 20px;
+        border: 1px dashed #cccccc !important; /* Bordo grigio scuro con !important */
+        border-radius: 3px;
+    }
 
-/* Stile hover per l'immagine JPEG */
-.image-link:hover .image {
-    transform: scale(1.2); /* Cambia la scala quando il mouse &egrave; sopra l'immagine */
-}
+    /* Stile di base per l'immagine JPEG */
+    .image {
+        width: 37px;
+        height: 37px;
+        transition: transform 0.3s ease; /* Aggiungi un'animazione di transizione */
+    }
 
-/* Stile per l'immagine di sfondo della barra del menu */
-#sp-header {
-    background-image: url('/images/componenti/qwe1t.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-}
+    /* Stile hover per l'immagine JPEG */
+    .image-link:hover .image {
+        transform: scale(1.2); /* Cambia la scala quando il mouse &egrave; sopra l'immagine */
+    }
 
-/* Stile per il blocco note */
-.tre {
-    border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
-    background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
-    padding: 10px; /* Aggiunge spazio interno al blocco note */
-}
-    </style>
+    /* Stile per l'immagine di sfondo della barra del menu */
+    #sp-header {
+        background-image: url('/images/componenti/qwe1t.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
+    }
+
+    /* Stile per il blocco note */
+    .tre {
+        border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
+        background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
+        padding: 10px; /* Aggiunge spazio interno al blocco note */
+    }
+</style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-196 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
