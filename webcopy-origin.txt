@@ -5402,7 +5402,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?a1e230
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?cb2487
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -5821,34 +5821,6 @@ Content Type: application/javascript
 Uri: https://cs.iubenda.com/autoblocking/3674597.js
 File Name: C:\Downloaded Web Sites\192.168.80.128\autoblocking\3674597.js
 Content Type: application/javascript
-
-Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.80.128\css-5
-Content Type: text/css
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-File Name: C:\Downloaded Web Sites\192.168.80.128\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-Content Type: font/ttf
 
 Uri: https://www.iubenda.com/privacy-policy/46601671.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\privacy-policy\privacy-policy-46601671.pdf
