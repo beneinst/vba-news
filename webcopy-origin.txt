@@ -422,30 +422,6 @@ Uri: http://192.168.80.128/images/2024/01/07/manifesto-28052023-VBA.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\07\manifesto-28052023-VBA.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/01/13/1-r.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\1-r.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/01/13/2-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\2-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/01/13/3.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\3.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/01/13/4-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\4-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/01/13/5-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\5-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/01/13/6-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\6-.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/01/13/7-.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\01\13\7-.png
 Content Type: image/png
@@ -628,6 +604,30 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/07/03/beneinst88jg.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\03\beneinst88jg.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/11/immagini-di-profilo-vba.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\11\immagini-di-profilo-vba.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/11/immagini-di-profilo-vba1.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\11\immagini-di-profilo-vba1.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/11/immagini-di-profilo-vba2.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\11\immagini-di-profilo-vba2.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/12/4.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\4.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/12/5.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\5.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/12/immagini-di-profilo-vba3.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\immagini-di-profilo-vba3.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/beneinstlo.png
@@ -826,32 +826,8 @@ Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-0
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/1-r.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\1-r.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/1a-.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\1a-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/2-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\2-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/3.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\3.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/4-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\4-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/5-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\5-.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/6-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\6-.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/7-.png
@@ -904,6 +880,22 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/02.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/03.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/04.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/05.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\05.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/cultura/i-pugni-in-tasca.jpg
@@ -972,6 +964,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/fotografia/palazzo-la-regina.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\palazzo-la-regina.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/home_/04ff.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\04ff.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/home_/1.png
@@ -5402,7 +5398,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?cb2487
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?c549e8
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
