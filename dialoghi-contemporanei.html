@@ -52,7 +52,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"da64f0dba12680fade817845425b9c7f"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"59193dae0c2ad8e46671f5754b7229fe"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -264,6 +264,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
         background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
         padding: 10px; /* Aggiunge spazio interno al blocco note */
     }
+
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-258 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -753,32 +754,89 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<div id="sp-bottom1" class="col-lg-3 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom130" class="mod-custom custom">
     <div>
-<p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #a66c48; display: inline-block; padding-bottom: 2px;"><span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Esplora</span></p>
-<div style="display: flex;">
-<div style="flex: 1; padding-right: 10px;">
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="cultura.html"> Cultura </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="arte-mavi.html"> Arte Mavi </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="fotografia.html"> Fotografia </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="sociale.html"> Sociale </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="scienza.html"> Scienza </a></p>
-</div>
-<div style="flex: 1; padding-left: 10px;">
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="storia.html"> Storia </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="dialetto.html"> Dialetto </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="villapianesi.html"> Villapianesi </a></p>
-<p style="font-size: 13px; line-height: 2;"><span style="color: rgb(149, 165, 166);">&#9642;&#65039;</span> <a href="imprenditoria.html"> Imprenditoria </a></p>
-</div>
-</div>
+    <style>
+        .custom-link {
+            color: inherit; /* Mantiene il colore del template */
+            text-decoration: none; /* Rimuove la sottolineatura predefinita */
+        }
+
+        .custom-link:hover {
+            color: inherit; /* Mantiene il colore del template anche in hover */
+            text-decoration: underline; /* Aggiunge la sottolineatura al passaggio del mouse */
+        }
+        
+        .light-grey {
+            color: rgb(220, 220, 220); /* Colore grigio molto chiaro per il simbolo di elenco */
+        }
+    </style>
+    <p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #a66c48; display: inline-block; padding-bottom: 2px;">
+        <span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Esplora</span>
+    </p>
+    <div style="display: flex;">
+        <div style="flex: 1; padding-right: 10px;">
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="cultura.html"> Cultura </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="arte-mavi.html"> Arte Mavi </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="fotografia.html"> Fotografia </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="sociale.html"> Sociale </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="scienza.html"> Scienza </a>
+            </p>
+        </div>
+        <div style="flex: 1; padding-left: 10px;">
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="storia.html"> Storia </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="dialetto.html"> Dialetto </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="villapianesi.html"> Villapianesi </a>
+            </p>
+            <p style="font-size: 13px; line-height: 2;">
+                <span class="light-grey">&#9642;&#65039;</span> <a class="custom-link" href="imprenditoria.html"> Imprenditoria </a>
+            </p>
+        </div>
+    </div>
 </div>
 </div>
 </div></div></div></div>
 <div id="sp-bottom2" class="col-sm-col-sm-6 col-lg-4 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom129" class="mod-custom custom">
     <div>
-<p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #a66c48; display: inline-block; padding-bottom: 2px;"><span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Articoli Recenti</span></p>
-<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">10/06/24</span><br>Sociale: Come Votano i Villapianesi <span style="color: rgb(206, 212, 217);">|</span> <a href="sociale.html">Leggi tutto ...</a></p>
-<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">12/02/24</span><br>Elsewhere: Francesco Bria &ndash; Chef <span style="color: rgb(206, 212, 217);">|</span> <a href="elsewhere.html">Leggi tutto ...</a></p>
-<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">27/10/23</span><br>Medicina: Il Melanoma Cutaneo <span style="color: rgb(206, 212, 217);">|</span> <a href="il-melanoma-cutaneo.html">Leggi tutto ...</a></p>
+    <style>
+        .custom-link {
+            color: inherit; /* Mantiene il colore del template */
+            text-decoration: none; /* Rimuove la sottolineatura predefinita */
+        }
+
+        .custom-link:hover {
+            color: inherit; /* Mantiene il colore del template anche in hover */
+            text-decoration: underline; /* Aggiunge la sottolineatura al passaggio del mouse */
+        }
+    </style>
+    <p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #a66c48; display: inline-block; padding-bottom: 2px;">
+        <span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Articoli Recenti</span>
+    </p>
+    <p style="font-size: 13px;">
+        <span style="color: rgb(206, 212, 217);">12/07/24</span><br>Cultura: Danze all'imbrunire <span style="color: rgb(206, 212, 217);">|</span> 
+        <a class="custom-link" href="cultura.html">Leggi tutto ...</a>
+    </p>
+    <p style="font-size: 13px;">
+        <span style="color: rgb(206, 212, 217);">10/06/24</span><br>Sociale: Come Votano i Villapianesi <span style="color: rgb(206, 212, 217);">|</span> 
+        <a class="custom-link" href="sociale.html">Leggi tutto ...</a>
+    </p>
+    <p style="font-size: 13px;">
+        <span style="color: rgb(206, 212, 217);">12/02/24</span><br>Elsewhere: Francesco Bria &ndash; Chef <span style="color: rgb(206, 212, 217);">|</span> 
+        <a class="custom-link" href="elsewhere.html">Leggi tutto ...</a>
+    </p>
 </div>
 </div>
 </div></div></div></div>
