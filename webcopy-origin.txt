@@ -618,16 +618,20 @@ Uri: http://192.168.80.128/images/2024/07/12/5.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\5.png
 Content Type: image/png
 
-Uri: http://192.168.80.128/images/2024/07/12/immagini-di-profilo-vba3.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\immagini-di-profilo-vba3.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/07/13/44tir.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\13\44tir.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/13/7qq.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\13\7qq.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/14/14r.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\14\14r.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/14/23e.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\14\23e.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/beneinstlo.png
@@ -825,10 +829,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-07.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Team_Vba/1a-.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Team_Vba\1a-.png
-Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
@@ -5390,7 +5390,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?bb0f45
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?4a42f9
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
