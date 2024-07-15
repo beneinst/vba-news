@@ -51,7 +51,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"45b2b6336e24b98685cc62927057b65a"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"5caecf9d1346f8f429acb155b60185ec"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -263,6 +263,43 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
         background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
         padding: 10px; /* Aggiunge spazio interno al blocco note */
     }
+/* Stili generali per la tabella e il contenitore */
+.table-container {
+    width: 100%;
+    overflow-x: auto; /* Permette lo scorrimento orizzontale */
+    overflow-y: auto; /* Permette lo scorrimento verticale */
+    display: block;
+    box-sizing: border-box; /* Assicura che padding e bordo non influenzino le dimensioni */
+}
+
+/* La tabella si adatta al contenitore */
+.responsive-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.responsive-table th, .responsive-table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+/* Media query per dispositivi mobili */
+@media (max-width: 767px) {
+    .table-container {
+        height: 500px; /* Imposta l'altezza fissa del contenitore sui dispositivi mobili */
+        overflow-y: auto; /* Aggiungi uno scorrimento verticale */
+    }
+}
+
+/* Media query per desktop */
+@media (min-width: 768px) {
+    .table-container {
+        overflow-x: auto; /* Mantiene lo scorrimento orizzontale su desktop */
+        height: auto; /* Altezza automatica su desktop */
+    }
+}
+
 
 </style>
 			</head>
@@ -674,6 +711,33 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	 
 		<div class="article-list related-article-list">
 			<div class="row">
+														<div class="col-lg-3">
+						<div class="article">
+            <a href="come-votano-i-villapianesi.html">
+            		
+        </a>
+    
+    
+	<div class="article-header">
+					<h2>
+									<a href="come-votano-i-villapianesi.html">
+						Come votano i Villapianesi					</a>
+							</h2>
+		
+		
+		
+							
+	</div>
+
+    <div class="article-info">
+                    <span class="createdby" title="Scritto da Antonio Bria">
+				<span itemprop="name">Antonio Bria</span>	</span>
+                            <span class="published" title="Pubblicato: 14 Luglio 2024">
+	<time datetime="2024-07-14T04:12:33+00:00">
+		14 Luglio 2024	</time>
+</span>
+            </div>        
+</div>					</div>
 														<div class="col-lg-3">
 						<div class="article">
             <a href="libretto-mostra-volti-e-luoghi.html">
