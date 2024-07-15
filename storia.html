@@ -54,11 +54,11 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#sp-bottom{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#sp-footer{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"f4324e8bb43948aac2af190428d5cbf0"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"a73d06fc71b72684b51223b9cb209365"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/com_wrapper/js/iframe-height.min.js?b92aeb" defer=""></script>
+	<script src="media/com_wrapper/js/iframe-height.min.js?28adf0" defer=""></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
@@ -131,7 +131,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 	<meta property="article:author" content="Antonio Bria">
 	<meta property="article:published_time" content="2023-12-05 22:07:16">
-	<meta property="article:modified_time" content="2024-07-15 11:05:02">
+	<meta property="article:modified_time" content="2024-07-15 14:50:54">
 	<meta property="og:locale" content="it-IT">
 	<meta property="og:title" content="Storia | VBA News">
 	<meta property="og:type" content="website">
@@ -340,32 +340,23 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     box-sizing: border-box; /* Assicura che padding e bordo non influenzino le dimensioni */
 }
 
-/* La tabella si adatta al contenitore */
-.responsive-table {
-    width: 100%;
-    border-collapse: collapse;
+.button-link {
+    display: inline-block;
+    padding: 4px 12px;
+    font-size: 16px;
+    color: #005a9c;
+    background-color: #fbf3f0; /* sfondo trasparente */
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid rgba(0, 90, 156, 0.3); /* bordi neri */
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.responsive-table th, .responsive-table td {
-    padding: 8px;
-    text-align: left;
-    border: 1px solid #ddd;
-}
-
-/* Media query per dispositivi mobili */
-@media (max-width: 767px) {
-    .table-container {
-        height: 500px; /* Imposta l'altezza fissa del contenitore sui dispositivi mobili */
-        overflow-y: auto; /* Aggiungi uno scorrimento verticale */
-    }
-}
-
-/* Media query per desktop */
-@media (min-width: 768px) {
-    .table-container {
-        overflow-x: auto; /* Mantiene lo scorrimento orizzontale su desktop */
-        height: auto; /* Altezza automatica su desktop */
-    }
+.button-link:hover {
+    background-color: transparent; /* sfondo trasparente */
+    border: 2px solid rgba(255, 140, 0, 0.6); /* bordi neri */
+    color: #ff8c00; /* testo bianco quando si passa sopra il pulsante */
 }
 
 
@@ -562,8 +553,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 <p style="text-align:justify;">Ogni immagine non solo rappresenta un momento, ma evoca anche emozioni e ricordi, offrendo uno sguardo intimo e affascinante su questo incantevole luogo. Lasciatevi trasportare dalle atmosfere e dai dettagli che rendono San Vito un posto speciale da scoprire e amare.</p>
 
 <hr class="ab-hr">
-<p style="text-align: center;">
-    &#128240; <a rel="" href="galleria-fotografica-luoghi-e-storia%2C-san-vito.html">Apri la galleria Foto</a>
+<p style="text-align: center;"><a class="button-link" href="galleria-fotografica-luoghi-e-storia%2C-san-vito.html">&#128240; Apri la galleria Foto</a>
 </p>
 
 </div>
@@ -593,8 +583,7 @@ L'episodio esplora storia, tradizioni e futuro di Villapiana.</p>
 <p style="text-align:justify;">Bench&eacute; di Sibari non ci sia pervenuta alcuna iscrizione, sappiamo per certo ch&rsquo;essa aveva conservato il dialetto de' suoi fondatori: le sue monete ce ne d&agrave;nno chiarissima prova. Tutta la Magna Grecia rimase per lingua un paese greco: il greco idioma cominci&ograve; a perdersi nel XIV secolo. La religione de' Sibariti era il culto della Dea Giunone, in onore della quale avevano instituito una gara di citaredi, volendo pur gustare qualche diletto nell'atto stesso che rendevano omaggio agli Dei. Avevano inoltre in particolare venerazione Filottete, le cui freccie dicevansi conservate in un antico tempio tra il Sibari e il Crati; ma il loro sommo dio era la mensa. Noi li vedremo nella loro felicit&agrave; salire a tale arroganza, da sfidare l'ira stessa del cielo. Posseditori di smisurate ricchezze, e immersi in beati ozi i Sibariti trascuravano ogni utile ed onesto lavoro.</p>
 <hr class="ab-hr">
 
-<p style="text-align: center;">
-    &#128240; <a href="la-guerra-tra-sibari-e-crotone.html">Leggi l'articolo completo</a>
+<p style="text-align: center;"><a class="button-link" href="la-guerra-tra-sibari-e-crotone.html">&#128240; Leggi l'articolo completo</a>
 </p>
 
 
@@ -612,7 +601,7 @@ L'episodio esplora storia, tradizioni e futuro di Villapiana.</p>
 
 <p style="text-align: justify;">Puoi scaricare il PDF completo cliccando sul link seguente:</p>
 <hr class="ab-hr">
-<p style="text-align: center;"><a href="images/pagine/storia/Dalla-torre-al-borgo.pdf" download="Dalla-torre-al-borgo.pdf">&#128209; Scarica il PDF</a></p>
+<p style="text-align: center;"><a class="button-link" href="images/pagine/storia/Dalla-torre-al-borgo.pdf" download="Dalla-torre-al-borgo.pdf">&#128209; Scarica il PDF</a></p>
 </div>
 </div></div></div>
 <div id="sppb-addon-wrapper-1704637193576" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-1704637193576" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div>
@@ -636,7 +625,7 @@ L'episodio esplora storia, tradizioni e futuro di Villapiana.</p>
 <p style="text-align:justify;"></p>
 <p style="text-align:justify;">Puoi scaricare il PDF completo cliccando sul link seguente:</p>
 <hr class="ab-hr">
-<p style="text-align:center;"><a href="images/pagine/storia/delibera-e-decreto-regio-testo.pdf"><u>&#128209; Scarica il PDF</u></a></p>
+<p style="text-align:center;"><a class="button-link" href="images/pagine/storia/delibera-e-decreto-regio-testo.pdf">&#128209; Scarica il PDF</a></p>
 </div></div></div></div>
 <div id="sppb-addon-wrapper-zx-9UWgYfa_P0tGNXF7ZI" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-zx-9UWgYfa_P0tGNXF7ZI" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div>
 </div></div></div>
@@ -657,8 +646,7 @@ L'episodio esplora storia, tradizioni e futuro di Villapiana.</p>
 <p style="text-align:justify;">La storia di un popolo &egrave; sempre intrecciata con i rapporti sociali, economici e culturali di altre comunit&agrave;. A questi si deve il suo grado di civilt&agrave;, cio&egrave; quello di saper cogliere gli aspetti positivi per la crescita e il benessere dell&rsquo;intera collettivit&agrave;. Villapiana, Comune in Provincia di Cosenza. Si trova a 209 mt s.l.m. e dista 84 Km c.a. dal Capoluogo di provincia. La popolazione, dati Istat (1 Gennaio 2021) &egrave; di 5.433 abitanti. La Tenenza dei carabinieri &egrave; a Corigliano Cal.; la Stazione dei Carabinieri a Villapiana Scalo. Il Tribunale &egrave; a Castrovillari; l&rsquo;ufficio del giudice di pace a Trebisacce; l&rsquo;Agenzia delle entrate &egrave; a Rossano. La conservatoria dei Registri immobiliari &egrave; a Cosenza. La stazione ferroviaria &egrave; a Villapiana (Torre Cerchiara) e dista 7 Km da Villapiana Centro. Il Distretto Militare &egrave; a Catanzaro. VILLAPIANA &egrave; situata su di una collinetta con sottostante pianura ferace di cereali, vino, frutta con pascoli e bestiame. Ad iniziare dagli anni settanta ha avuto un incremento dell&rsquo;attivit&agrave; turistica fino a diventarne centro a forte vocazione.</p>
 
 <hr class="ab-hr">
-<p style="text-align: center;">
-    &#128240; <a href="villapiana-e-dintorni.html">Leggi l'articolo completo</a>
+<p style="text-align: center;"><a class="button-link" href="villapiana-e-dintorni.html">&#128240; Leggi l'articolo completo</a>
 </p>
 
 </div>
@@ -672,8 +660,7 @@ L'episodio esplora storia, tradizioni e futuro di Villapiana.</p>
 <p></p>
 <p style="text-align:justify;">&ldquo;Come Cappellani invece vengono indicati generalmente i preti in cura d&rsquo;anime, cio&egrave; i parroci&rdquo;. La pi&ugrave; antica menzione, a quel che risulta, figura in un documento greco del settembre del 1117, che &egrave; firmata da Rao, il quale si dichiara "presbyter Cappellanus". Nel dicembre del 1182 compare un &ldquo;Presbyter Petrus Cappellanus S. Jacobi&rdquo;, di Brahalla, cio&egrave; di Altomonte. A Castrovillari poi abbiamo: un "Presbyter Hyeronimus de Salerno, Cappellanus S. Juliani" nel 1264, un"Presbyter Stabilis, Cappellanus S. Mariae de Castello" nel 1289 e un "Presbyter Jacobus, Cappellanus S. Petri de Catholica" nel 1290. Nella Decima del 1324 ricorrono, oltre quelli gi&agrave; ricordati, i cappellani di Saracena, di S. Maria di Altomonte, di S. Antonio nel Casale di Galatro, di CASALNUOVO oggi VILLAPIANA, di Normanno, di Morano e di Orsomarso.</p>
 <hr class="ab-hr">
-<p style="text-align: center;">
-    &#128240; <a href="notizie-ecclesiastiche.html">Leggi l'articolo completo</a>
+<p style="text-align: center;"><a class="button-link" href="notizie-ecclesiastiche.html">&#128240; Leggi l'articolo completo</a>
 </p>
 </div>
 </div></div></div></div></div></div>
