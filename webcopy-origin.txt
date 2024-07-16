@@ -182,12 +182,8 @@ Uri: http://192.168.80.128/francischi-i-vurpi.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\francischi-i-vurpi.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/galleria-foto-mostra-dialoghi-di%2C-nicola-barbati.html
-File Name: C:\Downloaded Web Sites\192.168.80.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
-Content Type: text/html
-
 Uri: http://192.168.80.128/galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
-File Name: C:\Downloaded Web Sites\192.168.80.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati-1.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\galleria-foto-mostra-dialoghi-di,-nicola-barbati.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/galleria-foto-premiazione-storia-dell-imprenditoria.html
@@ -634,6 +630,22 @@ Uri: http://192.168.80.128/images/2024/07/15/hy1_3f.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\15\hy1_3f.png
 Content Type: image/png
 
+Uri: http://192.168.80.128/images/2024/07/16/4_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\4_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/16/5_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\5_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/16/qwe3.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\qwe3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/16/th-14.jpeg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\th-14.jpeg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
 Content Type: image/png
@@ -969,86 +981,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/fotografia/palazzo-la-regina.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\palazzo-la-regina.png
 Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/04ff.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\04ff.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/1.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\1.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/10.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\10.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/11.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\11.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/12.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\12.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/13.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\13.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/14.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\14.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/15.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\15.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/16.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\16.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/17.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\17.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/18.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\18.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/4.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\4.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/5.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\5.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/6.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\6.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/7.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\7.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/8.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\8.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/9.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\9.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/iiii.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\iiii.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/home_/laC-intervista.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\laC-intervista.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/home_/telea1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\home_\telea1.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/01_b3uzejby.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\01_b3uzejby.jpg
@@ -5614,8 +5546,12 @@ Uri: http://192.168.80.128/notizie-ecclesiastiche.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\notizie-ecclesiastiche.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html
+Uri: http://192.168.80.128/piccola-mostra-fotografica-sale%2C-arte-tabacchi.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\piccola-mostra-fotografica-sale,-arte-tabacchi.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/piccola-mostra-fotografica-sale,-arte-tabacchi.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\piccola-mostra-fotografica-sale,-arte-tabacchi-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/pier-paolo-pasolini.html
