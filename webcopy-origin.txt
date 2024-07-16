@@ -246,6 +246,10 @@ Uri: http://192.168.80.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\11\1home_6a.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/2023/12/13/sgfr.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\13\sgfr.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/2023/12/14/scena6-cutro.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\14\scena6-cutro.jpg
 Content Type: image/jpeg
@@ -5462,7 +5466,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?28adf0
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?ea6b88
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
