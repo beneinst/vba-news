@@ -486,16 +486,8 @@ Uri: http://192.168.80.128/images/2024/03/15/sede-vba-052gt.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\03\15\sede-vba-052gt.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/03/15/vecchio-municipio-063.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\03\15\vecchio-municipio-063.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/04/06/6283367118_daa09b8cf9_z.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\6283367118_daa09b8cf9_z.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2024/04/06/oig4.9s7xs9ksck.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig4.9s7xs9ksck.jpeg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/04/25/panoramaj_5a.jpg
@@ -532,10 +524,6 @@ Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/15/centro-radionica-03u.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\15\centro-radionica-03u.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/07/15/hy1_3f.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\15\hy1_3f.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/16/4_edited.jpg
@@ -597,10 +585,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/2024/07/18/la-piuchella-new4.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\la-piuchella-new4.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2024/07/18/logovbachi.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\logovbachi.png
-Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/18/oig4-1w.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\oig4-1w.jpg
@@ -669,6 +653,50 @@ Content Type: font/ttf
 Uri: http://192.168.80.128/images/componenti/fonts/PlaywriteDEGrund-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\PlaywriteDEGrund-Regular.ttf
 Content Type: font/ttf
+
+Uri: http://192.168.80.128/images/componenti/formato-web/dsc_0003--2-w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\dsc_0003--2-w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/hy1_3f.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\hy1_3f.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Locandina-Evento-21-dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Locandina-Evento-21-dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Locandina-Evento-27-Dicembre-2022.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Locandina-Evento-27-Dicembre-2022.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/logovbachi.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\logovbachi.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/componenti/formato-web/maria-costa---campanile1.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\maria-costa---campanile1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/oig4.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\oig4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/palazzo-la-regina.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\palazzo-la-regina.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/vecchio-municipio-063.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\vecchio-municipio-063.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/componenti/icone_pagine/image003y.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\icone_pagine\image003y.png
@@ -882,14 +910,6 @@ Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Event
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-04-Dicembre-2022.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Evento-21-dicembre-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-21-dicembre-2022.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Evento-27-Dicembre-2022.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Evento-27-Dicembre-2022.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/Locandina-Pace-Web.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\Locandina-Pace-Web.jpg
 Content Type: image/jpeg
@@ -970,16 +990,8 @@ Uri: http://192.168.80.128/images/pagine/fotografia/autunno-inverno-lauretta-ugo
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\autunno-inverno-lauretta-ugolini.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/fotografia/dsc_0003--2-w.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\dsc_0003--2-w.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/pagine/fotografia/giuseppe-d-alba.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\giuseppe-d-alba.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/pagine/fotografia/maria-costa---campanile1.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\maria-costa---campanile1.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/fotografia/mostra-01.jpg
@@ -989,10 +1001,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/fotografia/nicola-barbati---villapiana-high.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\nicola-barbati---villapiana-high.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/fotografia/palazzo-la-regina.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\palazzo-la-regina.png
-Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0012.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0012.jpg
@@ -1012,10 +1020,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0020_9b6d8rp4.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0020_9b6d8rp4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0054.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0054.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0056.jpg
@@ -1056,10 +1060,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0191.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0191.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0205.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0205.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0215.jpg
@@ -1142,12 +1142,20 @@ Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\formato-web\DSC_0052r--2-.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_0054.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\formato-web\DSC_0054.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_00e66.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\formato-web\DSC_00e66.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_01e55.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\formato-web\DSC_01e55.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_0205.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\formato-web\DSC_0205.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/formato-web/DSC_0e059.jpg
@@ -1230,6 +1238,38 @@ Uri: http://192.168.80.128/images/pagine/scienza/Links-su-Canale-YouTube.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Links-su-Canale-YouTube.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/canale-youtube3h.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\canale-youtube3h.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginay_02.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginay_02.jpg
 Content Type: image/jpeg
@@ -1270,14 +1310,6 @@ Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_22.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
 Content Type: image/jpeg
@@ -1310,10 +1342,6 @@ Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomeno
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_15.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
 Content Type: image/jpeg
@@ -1338,10 +1366,6 @@ Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomeno
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_25.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
 Content Type: image/jpeg
@@ -1360,10 +1384,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_35.jpg
@@ -1392,14 +1412,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_44.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_44.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_45.jpg
@@ -1678,10 +1690,6 @@ Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_09.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_11.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_11.jpg
 Content Type: image/jpeg
@@ -1744,10 +1752,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_12.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_14.jpg
