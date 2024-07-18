@@ -230,20 +230,12 @@ Uri: http://192.168.80.128/images/2023/12/06/1home_5-new.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\06\1home_5-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2023/12/06/la-piuchella-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\06\la-piuchella-new.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2023/12/10/c1.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\10\c1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\11\1home_6a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2023/12/14/scena6-cutro.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2023\12\14\scena6-cutro.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2023/12/15/04-Maria-Costa---Torre-Castello.png
@@ -486,10 +478,6 @@ Uri: http://192.168.80.128/images/2024/03/12/sfondo34.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\03\12\sfondo34.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/03/13/image001.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\03\13\image001.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/03/15/image0231.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\03\15\image0231.png
 Content Type: image/png
@@ -506,14 +494,6 @@ Uri: http://192.168.80.128/images/2024/04/06/6283367118_daa09b8cf9_z.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\6283367118_daa09b8cf9_z.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/04/06/beneinst.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\beneinst.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/04/06/oig1.itug8srsjj_coyw2f.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig1.itug8srsjj_coyw2f.jpeg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/04/06/oig1__2_-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig1__2_-removebg-preview.png
 Content Type: image/png
@@ -522,32 +502,12 @@ Uri: http://192.168.80.128/images/2024/04/06/oig2-1.jpeg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig2-1.jpeg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/04/06/oig3-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig3-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/04/06/oig4-1.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig4-1.jpeg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2024/04/06/oig4-3.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig4-3.jpeg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/04/06/oig4.9s7xs9ksck.jpeg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\06\oig4.9s7xs9ksck.jpeg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/04/10/image005jh.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\10\image005jh.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/04/25/panoramaj_5a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\25\panoramaj_5a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2024/04/25/pino-teatro--2--new2.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\04\25\pino-teatro--2--new2.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/05/27/44.jpg
@@ -564,10 +524,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/06/18/th__2_-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__2_-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/06/18/th__4_-removebg-preview.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\06\18\th__4_-removebg-preview.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/06/22/donnap1e.jpg
@@ -592,10 +548,6 @@ Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/11/immagini-di-profilo-vba2.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\11\immagini-di-profilo-vba2.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/07/12/4.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\12\4.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/12/5.png
@@ -638,16 +590,8 @@ Uri: http://192.168.80.128/images/2024/07/16/ret3.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\ret3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/07/16/th-14.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\th-14.jpeg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/07/17/canale-youtube3.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\canale-youtube3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/2024/07/17/gtt.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\gtt.jpeg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/07/17/locandina-25-giugno-2022d.jpg
@@ -662,21 +606,185 @@ Uri: http://192.168.80.128/images/2024/07/17/sgfr3a.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\sgfr3a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/07/17/thee.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\thee.jpeg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/07/17/thgf.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\thgf.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/07/18/den.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\den.png
+Uri: http://192.168.80.128/images/2024/07/18/01_b3uzejbry.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\01_b3uzejbry.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/02w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\02w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/02_urnjvqjg6.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\02_urnjvqjg6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/03w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\03w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/03_7f79rvfgv.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\03_7f79rvfgv.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/04w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\04w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/05-bisd.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\05-bisd.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/06_pqr9u3972.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\06_pqr9u3972.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/4w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\4w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/beneinst.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\beneinst.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/denw.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\denw.png
 Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_0052r--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_0052r--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_00e66.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_00e66.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_01e55.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_01e55.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_0e054.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_0e054.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_0e059.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_0e059.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_0e062--2-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_0e062--2-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_0e180.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_0e180.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_e0106.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_e0106.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/dsc_e0107.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\dsc_e0107.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/2024/07/18/evento-airc-3107223.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\evento-airc-3107223.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/fellini-amantea-stilo-testa-diw-basilea-codex_angelo_ventimiglia.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\fellini-amantea-stilo-testa-diw-basilea-codex_angelo_ventimiglia.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/gttw.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\gttw.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/image005jhw.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\image005jhw.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/18/immagini-di-profilo-vba2w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\immagini-di-profilo-vba2w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/la-piuchella-new4.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\la-piuchella-new4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/oig1r.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\oig1r.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/oig4-1w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\oig4-1w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/oig4-3w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\oig4-3w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/pino-teatro--2--new2w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\pino-teatro--2--new2w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scena1-pentidattilow.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scena1-pentidattilow.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scena2-madonna-dwel-pilerio-e-roseto-capo-spulico.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scena2-madonna-dwel-pilerio-e-roseto-capo-spulico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenad5-rino-gaetano-e-grifone-del-pollino.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenad5-rino-gaetano-e-grifone-del-pollino.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenaw3-lungro.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenaw3-lungro.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenaw4-zungri.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenaw4-zungri.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenaw6-cutro.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenaw6-cutro.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenaw8-rossano.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenaw8-rossano.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenaw9-cerchiara-di-calabria-e-toro-cozzante.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenaw9-cerchiara-di-calabria-e-toro-cozzante.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/scenwa7-camigliatello.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\scenwa7-camigliatello.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/th-14w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\th-14w.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/theed.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\theed.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/th__4_-removebg-preview3.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\th__4_-removebg-preview3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/villapianaweb1.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\villapianaweb1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/18/villapianesi-web1.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\villapianesi-web1.png
+Content Type: image/png
 
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
@@ -714,21 +822,25 @@ Uri: http://192.168.80.128/images/componenti/img-home/stregone.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\img-home\stregone.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/componenti/OIG 6.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\OIG 6.jpeg
+Uri: http://192.168.80.128/images/componenti/logonq2ww.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\logonq2ww.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/componenti/OIG-6w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\OIG-6w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/componenti/OIG 7.jpeg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\OIG 7.jpeg
+Uri: http://192.168.80.128/images/componenti/OIG-7w.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\OIG-7w.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/componenti/reply-all.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\reply-all.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/componenti/sottotitolo3.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\sottotitolo3.png
-Content Type: image/png
+Uri: http://192.168.80.128/images/componenti/sottotitolo3.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\sottotitolo3.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/facebo1.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\facebo1.png
@@ -753,10 +865,6 @@ Content Type: image/png
 Uri: http://192.168.80.128/images/larte-e-dentro-di-te23.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\larte-e-dentro-di-te23.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/logonq2.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\logonq2.png
-Content Type: image/png
 
 Uri: http://192.168.80.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\arte-mavi\011_mavi-11-12-21.jpg
@@ -874,54 +982,6 @@ Uri: http://192.168.80.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/fellini-AMANTEA-STILO-TESTA-DI-BASILEA-CODEX_Angelo_Ventimiglia.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\fellini-AMANTEA-STILO-TESTA-DI-BASILEA-CODEX_Angelo_Ventimiglia.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena1-PENTIDATTILO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena1-PENTIDATTILO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena2-MADONNA-DEL-PILERIO-E-ROSETO-CAPO-SPULICO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena2-MADONNA-DEL-PILERIO-E-ROSETO-CAPO-SPULICO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena3-LUNGRO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena3-LUNGRO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena4-ZUNGRI.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena4-ZUNGRI.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena5-RINO-GAETANO-E-GRIFONE-DEL-POLLINO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena5-RINO-GAETANO-E-GRIFONE-DEL-POLLINO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena7-CAMIGLIATELLO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena7-CAMIGLIATELLO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena8-ROSSANO.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena8-ROSSANO.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/Fellini/scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\Fellini\scena9-CERCHIARA-DI-CALABRIA-E-TORO-COZZANTE.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/02.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\02.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/03.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\03.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/04.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\04.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/1a.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\1a.png
 Content Type: image/png
@@ -1002,26 +1062,6 @@ Uri: http://192.168.80.128/images/pagine/fotografia/palazzo-la-regina.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\fotografia\palazzo-la-regina.png
 Content Type: image/png
 
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/01_b3uzejby.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\01_b3uzejby.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/02_unjvqjg6.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\02_unjvqjg6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/03_7f79rvgv.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\03_7f79rvgv.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/05-bis.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\05-bis.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/06_pq9u3972.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\06_pq9u3972.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0002.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0002.jpg
 Content Type: image/jpeg
@@ -1046,28 +1086,8 @@ Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0020_9b6d8rp
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0020_9b6d8rp4.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0052--2-.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0052--2-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0054.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0054.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0056.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0056.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0059.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0059.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0062--2-.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0062--2-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0066.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0066.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0073.jpg
@@ -1078,28 +1098,12 @@ Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0080.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0080.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0106.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0106.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0107.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0107.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0155.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0155.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0176.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0176.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0179.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0179.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0180.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\imprenditoria\19Fuochi\DSC_0180.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/imprenditoria/19Fuochi/DSC_0187.jpg
@@ -5410,7 +5414,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?f6d4de
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?71ca81
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
