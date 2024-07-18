@@ -670,6 +670,10 @@ Uri: http://192.168.80.128/images/2024/07/17/thgf.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\17\thgf.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/2024/07/18/den.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\den.png
+Content Type: image/png
+
 Uri: http://192.168.80.128/images/2024/07/18/evento-airc-3107223.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\evento-airc-3107223.jpg
 Content Type: image/jpeg
@@ -916,10 +920,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/04.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\04.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/05.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\FINIDanceFestival\05.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/cultura/FINIDanceFestival/1a.png
@@ -5410,7 +5410,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?fdfdb0
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?f6d4de
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
