@@ -654,6 +654,10 @@ Uri: http://192.168.80.128/images/componenti/fonts/PlaywriteDEGrund-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\fonts\PlaywriteDEGrund-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.80.128/images/componenti/formato-web/011_mavi-11-12-21.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\011_mavi-11-12-21.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/componenti/formato-web/dsc_0003--2-w.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\dsc_0003--2-w.jpg
 Content Type: image/jpeg
@@ -690,12 +694,28 @@ Uri: http://192.168.80.128/images/componenti/formato-web/vecchio-municipio-063.j
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\vecchio-municipio-063.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_10.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/componenti/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/componenti/icone_pagine/image003y.png
@@ -784,10 +804,6 @@ Content Type: image/png
 
 Uri: http://192.168.80.128/images/larte-e-dentro-di-te23.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\larte-e-dentro-di-te23.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/arte-mavi/011_mavi-11-12-21.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\arte-mavi\011_mavi-11-12-21.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/arte-mavi/Angelo-Ventimiglia-articolo.pdf
@@ -1678,10 +1694,6 @@ Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_03.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_07.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/formato-web/Volti-e-Luoghi--Faces---Places-_C_Pagina_08.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\formato-web\Volti-e-Luoghi--Faces---Places-_C_Pagina_08.jpg
 Content Type: image/jpeg
@@ -1742,10 +1754,6 @@ Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_04.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_05.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_06.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_06.jpg
 Content Type: image/jpeg
@@ -1774,10 +1782,6 @@ Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_19.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_20.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_22.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_22.jpg
 Content Type: image/jpeg
@@ -1788,10 +1792,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_26.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_26.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti e Luoghi - Slide\Volti-e-Luoghi--Faces---Places-_C_Pagina_27.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/sociale/Volti e Luoghi - Slide/Volti-e-Luoghi--Faces---Places-_C_Pagina_28.jpg
@@ -1993,54 +1993,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/storia/Villapiana-e-dintorni-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\Villapiana-e-dintorni-02.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2018/Borgo-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2018\Borgo-01.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2018/nativita-01.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2018\nativita-01.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2018/nativita-02.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2018\nativita-02.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/cardatrici.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\cardatrici.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/carpentiere.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\carpentiere.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/cosefritte.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\cosefritte.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/frazzuli.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\frazzuli.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/musici.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\musici.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/nativita-bn.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\nativita-bn.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/osteria.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\osteria.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/ricamatrici.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\ricamatrici.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/teatro/Presepe 2019/verduraia.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\Presepe 2019\verduraia.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/teatro/tea.jpeg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\teatro\tea.jpeg
@@ -4630,6 +4582,102 @@ Uri: http://192.168.80.128/images/speasyimagegallery/albums/31/images/10-nv19r3g
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\31\images\10-nv19r3ge_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/borgo-01-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\borgo-01-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/borgo-01-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\borgo-01-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/nativita-01-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\nativita-01-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/nativita-01-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\nativita-01-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/nativita-02-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\nativita-02-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/33/images/nativita-02-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\33\images\nativita-02-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/cardatrici-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\cardatrici-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/cardatrici-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\cardatrici-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/carpentiere-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\carpentiere-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/carpentiere-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\carpentiere-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/cosefritte-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\cosefritte-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/cosefritte-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\cosefritte-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/frazzuli-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\frazzuli-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/frazzuli-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\frazzuli-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/musici-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\musici-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/musici-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\musici-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/nativita-bn-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\nativita-bn-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/nativita-bn-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\nativita-bn-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/osteria-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\osteria-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/osteria-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\osteria-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/ricamatrici-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\ricamatrici-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/ricamatrici-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\ricamatrici-_thumb.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/verduraia-.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\verduraia-.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/speasyimagegallery/albums/34/images/verduraia-_thumb.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\34\images\verduraia-_thumb.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/speasyimagegallery/albums/4/images/aaa.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\speasyimagegallery\albums\4\images\aaa.jpg
 Content Type: image/jpeg
@@ -5406,7 +5454,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?cd7d7f
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?5ca662
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
