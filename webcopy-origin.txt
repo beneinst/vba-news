@@ -626,8 +626,8 @@ Uri: http://192.168.80.128/images/componenti/1a44.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\1a44.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/componenti/centro-radionica-03u.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\centro-radionica-03u.png
+Uri: http://192.168.80.128/images/componenti/cenr.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\cenr.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/componenti/contatti.png
@@ -764,6 +764,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/componenti/logonq.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\logonq.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/componenti/logonq2ww.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\logonq2ww.png
 Content Type: image/png
 
 Uri: http://192.168.80.128/images/componenti/OIG-6w.jpg
@@ -1253,206 +1257,6 @@ Content Type: application/pdf
 Uri: http://192.168.80.128/images/pagine/scienza/Links-su-Canale-YouTube.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Links-su-Canale-YouTube.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_26.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_33.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/2/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\2\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_43.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/canale-youtube3h.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\canale-youtube3h.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginay_02.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginay_02.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_01.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_04.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_04.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_06.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_06.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_07.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_07.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_09.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_09.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_12-1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_12-1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_14.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_18.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_22.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_22.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_52.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginta_03.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Paginta_03.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/formato-web/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pgagina_16.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\formato-web\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pgagina_16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_05.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_05.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_10.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_10.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_11.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_13.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_15.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_19.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_20.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_20.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_21.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_21.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_23.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_23.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_24.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_24.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_25.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_25.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_27.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_28.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_28.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_29.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_29.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_30.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_30.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_32.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_35.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_35.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_36.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_36.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_37.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_37.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_38.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_38.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_39.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_39.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_40.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_42.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_45.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_45.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_46.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_46.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_47.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_47.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_48.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_48.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_49.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_49.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.128/images/pagine/scienza/Litografia Calabria/La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_50.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Litografia Calabria\La-fenomenologia-radionica-e-la-litosfera-della-Calabria_Pagina_50.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/scienza/Presentazione-Dati-di-Osservazione.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Presentazione-Dati-di-Osservazione.pdf
@@ -5648,6 +5452,22 @@ Content Type: text/html
 
 Uri: http://192.168.80.128/sospensione-pubblicazione-dati-orclav.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\sospensione-pubblicazione-dati-orclav.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.feed?view=category&id=27&type=atom
+File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo-1.feed
+Content Type: application/atom+xml
+
+Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.feed?view=category&id=27&type=rss
+File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo.feed
+Content Type: application/rss+xml
+
+Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.html?view=category&id=27
+File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/storia.html
