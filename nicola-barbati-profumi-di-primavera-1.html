@@ -60,7 +60,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"480b6798500bc988e43829ce8666212b"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"83e709cc1486478adcbcc323cab3f9c2"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/webcomponentsjs/js/webcomponents-bundle.min.js?2.8.0" nomodule="" defer=""></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
@@ -340,14 +340,17 @@ document.addEventListener('DOMContentLoaded', function() {
    padding: 0;
    display: flex;
    border-bottom: 2px solid #ddd;
+   flex-wrap: wrap; /* Aggiunto per permettere la flessibilit&agrave; */
 }
 .tab-link {
-   padding: 10px 20px;
+   padding: 8px 10px; /* Ridotto il padding */
    cursor: pointer;
    background: #f7f7f7;
    border: 1px solid #ddd;
-   border-bottom: none;
-   margin-right: 5px;
+   border-bottom: none; /* Rimuove il bordo inferiore */
+   margin-right: 2px; /* Ridotto il margine */
+   flex: 1 1 auto; /* Aggiunto per rendere i tab flessibili */
+   text-align: center; /* Aggiunto per centrare il testo */
 }
 .tab-link.active {
    background: #fff;
@@ -356,13 +359,27 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 .tab-content {
    display: none;
-   padding: 20px;
-   border: 1px solid #ddd;
+   padding: 15px; /* Ridotto il padding */
+   border-top: 1px solid #ddd; /* Mantiene solo il bordo superiore */
+   border-bottom: 1px solid #ddd; /* Mantiene solo il bordo inferiore */
    background: #fffaf7;
 }
 .tab-content.active {
    display: block;
 }
+
+/* Media query per schermi piccoli */
+@media (max-width: 768px) {
+   .tab-link {
+      padding: 8px 5px; /* Ridotto il padding per adattarsi meglio agli schermi piccoli */
+      font-size: 12px; /* Ridotto la dimensione del font */
+      margin-right: 1px; /* Ridotto il margine tra i tab */
+   }
+   .tab-content {
+      padding: 10px; /* Ridotto il padding del contenuto per schermi piccoli */
+   }
+}
+
 
 </style>
 			</head>
