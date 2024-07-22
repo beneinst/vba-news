@@ -1226,6 +1226,14 @@ Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/24
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\24t.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/25t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\25t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/26t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\26t.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/pagine/chi siamo/STATUTO-VillapianaBorgoAttivo.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\STATUTO-VillapianaBorgoAttivo.pdf
 Content Type: application/pdf
@@ -5618,7 +5626,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?01a326
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?615234
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
