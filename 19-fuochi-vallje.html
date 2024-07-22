@@ -52,7 +52,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"5236f232a7fe9efb3b6ab44e5232f774"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"6f2d41c6e5b7ca443a6a8a1a2f69db4d"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -70,6 +70,26 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<script src="widgets/latest/fc.js" data-gt-orig-url="/19-fuochi-vallje.html" data-gt-orig-domain="192.168.80.128" data-gt-widget-id="227" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/2aadf67effb4fa11684538bc1d6fb929.js"></script>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.80.128/#/schema/Organization/base","name":"VBA News","url":"http://192.168.80.128/"},{"@type":"WebSite","@id":"http://192.168.80.128/#/schema/WebSite/base","url":"http://192.168.80.128/","name":"VBA News","publisher":{"@id":"http://192.168.80.128/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.80.128/#/schema/WebPage/base","url":"http://192.168.80.128/19-fuochi-vallje.html","name":"19 Fuochi & Vallje: Identit&agrave; e Imprenditorialit&agrave; Arb&euml;resh&euml;","description":"Villapiana Borgo Attivo","isPartOf":{"@id":"http://192.168.80.128/#/schema/WebSite/base"},"about":{"@id":"http://192.168.80.128/#/schema/Organization/base"},"inLanguage":"it-IT","breadcrumb":{"@id":"http://192.168.80.128/#/schema/BreadcrumbList/17"}},{"@type":"Article","@id":"http://192.168.80.128/#/schema/com_content/article/56","name":"19 Fuochi & Vallje: Identit&agrave; e Imprenditorialit&agrave; Arb&euml;resh&euml;","headline":"19 Fuochi & Vallje: Identit&agrave; e Imprenditorialit&agrave; Arb&euml;resh&euml;","inLanguage":"it-IT","author":{"@type":"Person","name":"Antonio Bria"},"dateCreated":"2023-12-15T12:50:36+00:00","isPartOf":{"@id":"http://192.168.80.128/#/schema/WebPage/base"}}]}</script>
+	<script><script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tab-link');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            const tabId = this.getAttribute('data-tab');
+
+            // Rimuovi la classe 'active' da tutti i tab e contenuti
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+
+            // Aggiungi la classe 'active' al tab e al contenuto corrispondente
+            this.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        });
+    });
+});
+</script>
 	<script>template="shaper_helixultimate";</script>
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <style>
@@ -292,11 +312,73 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     color: #ff8c00; /* testo bianco quando si passa sopra il pulsante */
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-wrapper {
+    margin: 0 18px; /* Margine tra le immagini, pu&ograve; essere regolato a piacere */
+    text-align: center;
+}
+.tab-container {
+   width: 100%;
+   margin: 0 auto;
+}
+.tabs {
+   list-style: none;
+   padding: 0;
+   display: flex;
+   border-bottom: 2px solid #ddd;
+}
+.tab-link {
+   padding: 10px 20px;
+   cursor: pointer;
+   background: #f7f7f7;
+   border: 1px solid #ddd;
+   border-bottom: none;
+   margin-right: 5px;
+}
+.tab-link.active {
+   background: #fff;
+   border-bottom: 2px solid #fff;
+   font-weight: bold;
+}
+.tab-content {
+   display: none;
+   padding: 20px;
+   border: 1px solid #ddd;
+   background: #fffaf7;
+}
+.tab-content.active {
+   display: block;
+}
 
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-264 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
+					<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tab-link');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            const tabId = this.getAttribute('data-tab');
+
+            // Rimuovi la classe 'active' da tutti i tab e contenuti
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+
+            // Aggiungi la classe 'active' al tab e al contenuto corrispondente
+            this.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        });
+    });
+});
+</script>
 		
 					<div class="sp-pre-loader">
 				<div class="wave-two-wrap">

@@ -51,7 +51,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"5236f232a7fe9efb3b6ab44e5232f774"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.80.128/","base":"","baseFull":"http://192.168.80.128/"},"csrf.token":"6f2d41c6e5b7ca443a6a8a1a2f69db4d"}</script>
 	<script src="media/system/js/core.min.js?83f2c9"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -69,6 +69,26 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<script src="widgets/latest/fc.js" data-gt-orig-url="/come-votano-i-villapianesi.html" data-gt-orig-domain="192.168.80.128" data-gt-widget-id="227" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js"></script>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.80.128/#/schema/Organization/base","name":"VBA News","url":"http://192.168.80.128/"},{"@type":"WebSite","@id":"http://192.168.80.128/#/schema/WebSite/base","url":"http://192.168.80.128/","name":"VBA News","publisher":{"@id":"http://192.168.80.128/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.80.128/#/schema/WebPage/base","url":"http://192.168.80.128/come-votano-i-villapianesi.html","name":"Come votano i Villapianesi","description":"Villapiana Borgo Attivo","isPartOf":{"@id":"http://192.168.80.128/#/schema/WebSite/base"},"about":{"@id":"http://192.168.80.128/#/schema/Organization/base"},"inLanguage":"it-IT","breadcrumb":{"@id":"http://192.168.80.128/#/schema/BreadcrumbList/17"}},{"@type":"Article","@id":"http://192.168.80.128/#/schema/com_content/article/60","name":"Come votano i Villapianesi","headline":"Come votano i Villapianesi","inLanguage":"it-IT","author":{"@type":"Person","name":"Antonio Bria"},"dateCreated":"2024-07-14T04:12:33+00:00","isPartOf":{"@id":"http://192.168.80.128/#/schema/WebPage/base"}}]}</script>
+	<script><script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tab-link');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            const tabId = this.getAttribute('data-tab');
+
+            // Rimuovi la classe 'active' da tutti i tab e contenuti
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+
+            // Aggiungi la classe 'active' al tab e al contenuto corrispondente
+            this.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        });
+    });
+});
+</script>
 	<script>template="shaper_helixultimate";</script>
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <style>
@@ -291,11 +311,73 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     color: #ff8c00; /* testo bianco quando si passa sopra il pulsante */
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-wrapper {
+    margin: 0 18px; /* Margine tra le immagini, pu&ograve; essere regolato a piacere */
+    text-align: center;
+}
+.tab-container {
+   width: 100%;
+   margin: 0 auto;
+}
+.tabs {
+   list-style: none;
+   padding: 0;
+   display: flex;
+   border-bottom: 2px solid #ddd;
+}
+.tab-link {
+   padding: 10px 20px;
+   cursor: pointer;
+   background: #f7f7f7;
+   border: 1px solid #ddd;
+   border-bottom: none;
+   margin-right: 5px;
+}
+.tab-link.active {
+   background: #fff;
+   border-bottom: 2px solid #fff;
+   font-weight: bold;
+}
+.tab-content {
+   display: none;
+   padding: 20px;
+   border: 1px solid #ddd;
+   background: #fffaf7;
+}
+.tab-content.active {
+   display: block;
+}
 
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-355 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
+					<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tab-link');
+    const contents = document.querySelectorAll('.tab-content');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            const tabId = this.getAttribute('data-tab');
+
+            // Rimuovi la classe 'active' da tutti i tab e contenuti
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+
+            // Aggiungi la classe 'active' al tab e al contenuto corrispondente
+            this.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        });
+    });
+});
+</script>
 		
 					<div class="sp-pre-loader">
 				<div class="wave-two-wrap">
@@ -434,7 +516,9 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<meta itemprop="inLanguage" content="it-IT">
 	
 	
-					
+				<div class="article-full-image">
+		<img src="images/2024/07/21/th-(1)rf.jpg" itemprop="image" alt="Come votano i Villapianesi">	</div>
+
 		
 		
 		<div class="article-header">
@@ -498,64 +582,69 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	
 	<div itemprop="articleBody">
 		<p style="text-align: justify;">Con particolare riferimento al&nbsp;<em>non voto.&nbsp;</em></p>
-<p style="text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;">Premessa</h4>
 <p style="text-align: justify;">Lungi dall&rsquo;assumere qui un atteggiamento scientifico ci preme subito chiarire che questo studio si colloca nell&rsquo;area della narrazione storica di eventi massimamente certificati dal sito Eligendo del Ministero degli Interni e da esperienza diretta e indiretta dello scrivente. L&rsquo;analisi dei numeri, poi, &egrave; ricondotta ad alcune sollecitazioni e ragionamenti certamente opinabili, seppur tuttavia ascrivibili all&rsquo;area dell&rsquo;oggettivit&agrave;: sempre numeri sono!</p>
 <p style="text-align: justify;">In linea generale il voto dei villapianesi &egrave; riconducibile alle tendenze nazionali, anche se alcune particolarit&agrave; sono certamente riscontrabili. Diciamo che in piccolo il dato di Villapiana ben rappresenta il dato nazionale, con qualche eccezione.</p>
-<p style="text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;">Un po&rsquo; di storia</h4>
 <p style="text-align: justify;">Alle elezioni per l&rsquo;Assemblea Costituente del 1946 i Villapianesi ci andarono quasi tutti. Gli aventi diritto erano 1.333<span style="font-size: 14px;"><strong>[1]</strong></span> e i Votanti risultarono 1.219 (91,45%), le schede non valide 59<span style="font-size: 14px;"><strong>[2]</strong></span>. In quanti non espressero una propria scelta furono quindi 173 (13%), portando la percentuale dei Votanti netti a 87% (1.160). I risultati dei principali partiti furono i seguenti:</p>
 <div class="image-container">
-<div class="image-wrapper">Grafico 1 <img src="images/pagine/sociale/votanovillapianesi/i1.jpg" alt="Grafico 1" width="530" height="332" loading="lazy">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 1</span> <img src="images/pagine/sociale/votanovillapianesi/i1_edited.jpg" alt="Grafico 1" width="530" height="335" loading="lazy">
 </div>
-<div class="image-wrapper">Grafico 2 <img src="images/pagine/sociale/votanovillapianesi/i2a.jpg" width="530" height="341" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i2a.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 2</span> <img src="images/pagine/sociale/votanovillapianesi/i2a_2.jpg" width="530" height="335" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i2a.jpg">
 </div>
 </div>
+<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg" width="64" height="4" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg"></p>
 <p style="text-align: justify;">Le elezioni del 92, 94 e 96 coincidono con l&rsquo;inizio della &ldquo;seconda Repubblica&rdquo; (o meglio del bipolarismo) e contemporaneamente con l&rsquo;allontanamento dal voto da parte degli italiani e dei villapianesi (percentuale e numeri assoluti).</p>
 <p style="text-align: justify;">Dal punto di vista politico &ndash; nello stesso arco temporale &ndash; il partito della Democrazia Cristiana ha avuto un ruolo egemone che potremmo anche definire in termini culturali. Dopo l&rsquo;exploit del 46/48 (88,10% e 83,46%) le percentuali raccolte dalla DC sono sempre state elevate e sopra il 40% (in alcuni casi sopra il 50%<span style="font-size: 14px;"><strong>[3]</strong></span>). Il secondo partito &egrave; sempre stato il Partito Socialista Italiano con percentuali superiori a quelle del Partito Comunista Italiano (tranne che nel 1976, quando le parti si ribaltano<span style="font-size: 14px;"><strong>[4]</strong></span>). Ad ogni modo la somma dei voti raccolti dai due principali partiti di sinistra non ha mai superato le percentuali della DC, tranne che nell&rsquo;ultimissimo periodo<strong><span style="font-size: 14px;">[5]</span></strong>.</p>
 <p style="text-align: justify;"><em>Le Culture politiche villapianesi.</em></p>
 <p style="text-align: justify;">Come accennato, possiamo asserire che le due principali culture politiche villapianesi affermatisi nel dopoguerra sono quella cattolica rappresentata in maniera egemone dalla Democrazia Cristiana, e quella operaia concentrata sui due partiti maggiori PSI e PCI con prevalenza socialista<span style="font-size: 14px;"><strong>[6]</strong></span>. Significativa anche la presenza del PSDI, anche se con numeri pi&ugrave; bassi. Solo nell&rsquo;ultimissimo periodo i due partiti della sinistra hanno superato la DC. Tuttavia negli anni &lsquo;60 e la prima met&agrave; dei &rsquo;70, alle comunali la sinistra &egrave; riuscita a portare un socialista alla guida del paese<span style="font-size: 14px;"><strong>[7]</strong></span>. L&rsquo;egemonia democristiana come fatto culturale &egrave; una questione sulla quale la sinistra ha dovuto continuamente misurarsi: vincere le elezioni comunali &ndash; anche quando &egrave; successo &ndash; non &egrave; mai stata una partita facile in questo contesto di riferimento.</p>
 <p style="text-align: justify;"><em>Il periodo della seconda Repubblica.</em></p>
 <p style="text-align: justify;">Con le elezioni politiche del 94 e del 96 abbiamo &ndash; anche a Villapiana &ndash; la rottura del vecchio schema, ma anche la conferma della situazione di minoranza della sinistra. Di seguito i risultati &ndash; in percentuale - dei maggiori partiti:</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i3.jpg" width="446" height="212" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i3.jpg"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i3_edited.jpg" width="530" height="252" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i3.jpg"></p>
 <p style="text-align: justify;">Come evidenziato dai grafici sopra (1 e 2), inizia in questo periodo l&rsquo;aumento degli aventi diritto al voto che scelgono di non agire tale diritto: 1994 = 1378 (37,23%); 1996 = 1562 (40,79%).</p>
-<p style="text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;">Il voto alle Regionali e alle Europee.</h4>
 <p style="text-align: justify;">Il dato dell&rsquo;astensione delle Europee e delle Regionali &egrave; in linea con il dato delle politiche. Da notare che le prime Regionali sono del 1970 e le prime Europee del 1979. Il dato politico segue anch&rsquo;esso le tendenze nazionali, e nel caso delle Regionali, quelle locali. La frantumazione del vecchio schema politico (&ldquo;prima repubblica&rdquo;), ovviamente trova riscontro anche in queste categorie elettorali; difficile quindi fare confronti tra il &ldquo;prima&rdquo; e il &ldquo;dopo&rdquo;.</p>
 <p style="text-align: justify;">Tuttavia, possiamo asserire, con un certo grado di sicurezza che l&rsquo;egemonia politico-culturale della Democrazia Cristiana si &ldquo;sposta&rdquo; negli anni recenti del bipolarismo, nel campo del Centro-Destra moderno (Forza Italia e Alleanza Nazionale). Mentre il Centro-Sinistra raccoglie l&rsquo;eredit&agrave; del Partito Comunista e della Sinistra Cattolico-Sociale (PDS-DS-PD). Resiste una piccola area di Sinistra (RC, SL). Come nel resto d&rsquo;Italia penta sempre pi&ugrave; difficile inpiduare culture politiche coerenti e costanti nel tempo.</p>
 <p style="text-align: justify;">Di seguito i grafici 3 e 4 illustrano i risultati delle prime regionali e delle prime europee:</p>
 <div class="image-container">
-<div class="image-wrapper">Grafico 3 <img src="images/pagine/sociale/votanovillapianesi/i4.jpg" width="531" height="326" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i4.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 3</span> <img src="images/pagine/sociale/votanovillapianesi/i4_edited.jpg" width="531" height="326" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i4.jpg">
 </div>
-<div class="image-wrapper">Grafico 4 <img src="images/pagine/sociale/votanovillapianesi/i5.jpg" width="530" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i5.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 4</span> <img src="images/pagine/sociale/votanovillapianesi/i5_edited.jpg" width="530" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i5.jpg">
 </div>
 </div>
+<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg" width="64" height="4" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg"></p>
 <p style="text-align: justify;">Mentre il Grafico 5 illustra i risultati delle ultime europee con le &ldquo;nuove&rdquo; formazioni politiche. Le europee consentono di visualizzare i valori dei singoli partiti essendo elezioni proporzionali per eccellenza.</p>
-<p style="text-align: justify;">Grafico 5</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i6.jpg" width="631" height="353" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i6.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Grafico 5</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i6_edited.jpg" width="631" height="353" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i6.jpg"></p>
 <p style="text-align: justify;">Il grafico 6 illustra l&rsquo;astensione delle europee, mentre il grafico 7 quella delle regionali. Come si vede la flessione coincide con le elezioni dei primi anni 90. Le ultime europee sono &ldquo;agganciate&rdquo; alle comunali (o viceversa) e questo porta ad un&rsquo;affluenza maggiore, che tuttavia non si riflette nell&rsquo;espressione del voto; in realt&agrave; il numero dei voti non espressi (astensione + bianche e nulle) &egrave; molto alto: 2004 = 1645; 2009 = 1679; 2014 =1624; 2019 =1598.</p>
 <div class="image-container">
-<div class="image-wrapper">Grafico 6 <img src="images/pagine/sociale/votanovillapianesi/i7.jpg" width="551" height="381" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i7.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 6</span> <img src="images/pagine/sociale/votanovillapianesi/i7_edited.jpg" width="551" height="381" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i7.jpg">
 </div>
-<div class="image-wrapper">Grafico 7 <img src="images/pagine/sociale/votanovillapianesi/i8.jpg" width="551" height="359" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i8.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 7</span> <img src="images/pagine/sociale/votanovillapianesi/i8_edited.jpg" width="551" height="359" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i8.jpg">
 </div>
 </div>
+<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg" width="64" height="4" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg"></p>
 <p style="text-align: justify;">I Referendum.</p>
 <p style="text-align: justify;">Le tornate referendarie hanno seguito gli andamenti nazionali, sia in termini di partecipazione che di esito, anche se, fosse stato per i villapianesi oggi avremmo come capo dello Stato Emanuele Filiberto di Savoia e non si potrebbe porziare; ma sarebbe legale l&rsquo;interruzione di gravidanza e non avremmo centrali nucleari sul territorio nazionale. Analogamente non sarebbe passata la riforma costituzionale Renzi-Boschi.</p>
-<p style="text-align: justify;">Tabella 2</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i9r.jpg" width="846" height="392" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i9r.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 2</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i9r_edited.jpg" width="909" height="421" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i9r.jpg"></p>
 <div class="table-container">
 <p style="text-align: justify;"><em>Le elezioni comunali del dopoguerra.</em></p>
-<p style="text-align: justify;">Tabella 3</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i103.jpg" width="773" height="151" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i103.jpg"></p>
-<p style="text-align: justify;">La Tabella 3 rendiconta sui mandati di &ldquo;direzione&rdquo; comunale dal 1900 in avanti11. Si evidenzia come il periodo pi&ugrave; instabile sia per paradosso quello del fascismo i mandati duravano mediamente 1,7 anni con la nomina di ben 6 Commissari Prefettizi.</p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 3</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i103_edited.jpg" width="906" height="177" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i103.jpg"></p>
+<p style="text-align: justify;">La Tabella 3 rendiconta sui mandati di &ldquo;direzione&rdquo; comunale dal 1900 in avanti<strong><span style="font-size: 14px;">[11]</span></strong>. Si evidenzia come il periodo pi&ugrave; instabile sia per paradosso quello del fascismo i mandati duravano mediamente 1,7 anni con la nomina di ben 6 Commissari Prefettizi.</p>
 <p style="text-align: justify;">Approcciamoci, ora a periodi pi&ugrave; vicini e pi&ugrave; documentati.</p>
-<p style="text-align: justify;">Il Ministero dell&rsquo;Interno non ha ancora caricato i dati relativi alle elezioni comunali di questo periodo12, anche perch&eacute; il sistema elettorale era perso e pi&ugrave; complicato. I candidati erano inquadrati in liste dove era previsto un capolista e non un candidato a sindaco direttamente. Inoltre si potevano votare candidati da liste perse, componendo un proprio Consiglio Comunale. Sicuramente esistono dati certi, ma non sono nella nostra immediata disponibilit&agrave;, e assumiamo quindi di non prenderli in considerazione per questa analisi; anche perch&eacute; non sarebbero omogenei con il periodo successivo, quello qui analizzato in dettaglio, con la nuova legge elettorale. Ad ogni modo, in tabella sono elencati gli esiti delle elezioni comunali attraverso l&rsquo;indicazione del capolista eletto sindaco:</p>
-<p style="text-align: justify;">Tabella 4</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i11.jpg" width="517" height="219" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i11.jpg"></p>
-<p style="text-align: justify;">Le elezioni del 1980 furono contestate con ricorsi e ribaltamenti della vittoria nei conteggi, ma alla fine fu decretata la vittoria della lista guidata da Paolo Montalti13. In questo periodo, nell&rsquo;area del centro-sinistra, si &egrave; consolidata l&rsquo;opinione che nel 1980 e nel 1985 la vittoria fu determinata dalla compresenza di 2 liste di sinistra, che nei fatti agevol&ograve; l&rsquo;unica lista di centro destra. Infatti, le elezioni del 1990 (ultime del vecchio sistema elettorale) furono vinte da una ampia coalizione civica di centro- sinistra guidata da Gianni Mazzei14. Quest&rsquo;ultimo esito ha generato l&rsquo;idea che una lista unitaria a sinistra ha pi&ugrave; possibilit&agrave; di vincere. Ma, come vedremo, questo &egrave; vero anche per il centro-destra. Gli eventuali dati precisi degli esiti ci consentirebbero di approfondire l&rsquo;analisi anche dal punto di vista che oggi ci sembra pi&ugrave; interessante, ossia il &ldquo;peso&rdquo; della scelta del non-voto.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<h4 style="text-align: justify;">Comparazione delle ultime sei tornate elettorali (politiche, regionali e comunali) con attenzione alle dinamiche del <em>non voto</em>.</h4>
+<p style="text-align: justify;">Il Ministero dell&rsquo;Interno non ha ancora caricato i dati relativi alle elezioni comunali di questo periodo<span style="font-size: 14px;"><strong>[12]</strong></span>, anche perch&eacute; il sistema elettorale era perso e pi&ugrave; complicato. I candidati erano inquadrati in liste dove era previsto un capolista e non un candidato a sindaco direttamente. Inoltre si potevano votare candidati da liste perse, componendo un proprio Consiglio Comunale. Sicuramente esistono dati certi, ma non sono nella nostra immediata disponibilit&agrave;, e assumiamo quindi di non prenderli in considerazione per questa analisi; anche perch&eacute; non sarebbero omogenei con il periodo successivo, quello qui analizzato in dettaglio, con la nuova legge elettorale. Ad ogni modo, in tabella sono elencati gli esiti delle elezioni comunali attraverso l&rsquo;indicazione del capolista eletto sindaco:</p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 4</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i11_edited.jpg" width="524" height="222" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i11.jpg"></p>
+<p style="text-align: justify;">Le elezioni del 1980 furono contestate con ricorsi e ribaltamenti della vittoria nei conteggi, ma alla fine fu decretata la vittoria della lista guidata da Paolo Montalti<span style="font-size: 14px;"><strong>[13]</strong></span>. In questo periodo, nell&rsquo;area del centro-sinistra, si &egrave; consolidata l&rsquo;opinione che nel 1980 e nel 1985 la vittoria fu determinata dalla compresenza di 2 liste di sinistra, che nei fatti agevol&ograve; l&rsquo;unica lista di centro destra. Infatti, le elezioni del 1990 (ultime del vecchio sistema elettorale) furono vinte da una ampia coalizione civica di centro- sinistra guidata da Gianni Mazzei<span style="font-size: 14px;"><strong>[14]</strong></span>. Quest&rsquo;ultimo esito ha generato l&rsquo;idea che una lista unitaria a sinistra ha pi&ugrave; possibilit&agrave; di vincere. Ma, come vedremo, questo &egrave; vero anche per il centro-destra. Gli eventuali dati precisi degli esiti ci consentirebbero di approfondire l&rsquo;analisi anche dal punto di vista che oggi ci sembra pi&ugrave; interessante, ossia il &ldquo;peso&rdquo; della scelta del non-voto.</p>
+<h4 style="text-align: justify;">Comparazione delle ultime sei tornate elettorali (politiche, regionali e comunali) con attenzione alle dinamiche del&nbsp;<em>non voto</em>.</h4>
 <p style="text-align: justify;">Abbiamo considerato le principali tornate elettorali, ossia le politiche nazionali, le regionali calabresi e le comunali di Villapiana; ovviamente le date tra le tre tipologie elettorali non coincidono; tuttavia si pu&ograve; certamente registrare una tendenza sul non voto che &egrave; in linea con quella nazionale: si vota sempre meno. I dati sono certi, in quanto la fonte &egrave; il sito del Ministero dell&rsquo;Interno.</p>
 <p style="text-align: justify;">Specifiche delle colonne delle Tabelle generali:</p>
 <ul>
@@ -576,211 +665,127 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 <li style="text-align: justify;">
 <strong>No voto numero:</strong> &egrave; il numero dei cittadini che non ha espresso un voto: astenuti + bianche + nulle.</li>
 </ul>
-<p style="text-align: justify;">Tabella 5</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i12.jpg" width="965" height="236" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i12.jpg"></p>
-<p style="text-align: justify;">Tabella 6</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i13.jpg" width="1055" height="263" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i13.jpg"></p>
-<p style="text-align: justify;">Tabella 7</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i14.jpg" width="892" height="221" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i14.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 5</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i12_edited.jpg" width="907" height="222" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i12.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 6</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i13_edited.jpg" width="907" height="226" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i13.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 7</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i14_edited.jpg" width="908" height="225" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i14.jpg"></p>
 <p style="text-align: justify;">Grafici 8 e 9</p>
 <div class="image-container">
-<div class="image-wrapper">Grafico 8 <img src="images/pagine/sociale/votanovillapianesi/i15.jpg" width="529" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i15.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 8</span> <img src="images/pagine/sociale/votanovillapianesi/i15_edited.jpg" width="529" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i15.jpg">
 </div>
-<div class="image-wrapper">Grafico 9 <img src="images/pagine/sociale/votanovillapianesi/i16.jpg" width="530" height="339" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i16.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 9</span> <img src="images/pagine/sociale/votanovillapianesi/i16_edited.jpg" width="530" height="339" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i16.jpg">
 </div>
 </div>
 <p style="text-align: justify;"><strong>Considerazioni</strong></p>
 <p style="text-align: justify;">Alle Comunali si vota certamente di pi&ugrave; che alle politiche ed alle regionali, e la differenza (il delta) &egrave; in progressiva crescita. Politiche e regionali registrano un allontanamento dal voto al di sopra del 50% e 60%. I dati sono in linea con la tendenza nazionale, e sono preoccupanti per motivi che non indagheremo qui ed ora.</p>
-<p style="text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;">Dettaglio comunali, con elezione diretta del sindaco.</h4>
 <p style="text-align: justify;">I risultati presi in considerazione sono quelli dei candidati a sindaco (elezione diretta). Si specifica che dai dati del ministero dell&rsquo;interno c&rsquo;&egrave; assoluta coincidenza tra voto al candidato sindaco e voto alla lista collegata.</p>
-<p style="text-align: justify;">Tabella 8</p>
-<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/i17.jpg" width="1002" height="227" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i17.jpg"></p>
-<p style="text-align: justify;">data eletto voti % su elettori % su voti espressi</p>
-<p style="text-align: justify;">23/04/1995 Antonio Faillace 1444 38,32 48,74</p>
-<p style="text-align: justify;">13/06/1999 Luigi Bria 1400 35,13 47,21</p>
-<p style="text-align: justify;">12/06/2004 Luigi Bria 1663 38,98 50,23</p>
-<p style="text-align: justify;">07/06/2009 Roberto Rizzuto 1678 36,57 48,09</p>
-<p style="text-align: justify;">25/05/2014 Paolo Montalti 1807 38,00 51,80</p>
-<p style="text-align: justify;">26/05/2019 Paolo Montalti 1551 32,98 46,06</p>
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 8</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i17_edited.jpg" width="909" height="206" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i17.jpg"></p>
 <p style="text-align: justify;">Tabella 9</p>
 <p style="text-align: justify;">La prima colonna descrive numericamente il delta (differenza) tra 1&deg; e 2&deg;; la seconda colonna descrive numericamente la somma del risultato di eventuali altri candidati; la terza colonna riprende il dato del non voto della tabella Elezioni Comunali.</p>
-<p style="text-align: justify;">&#8710; 1&deg; vs 2&deg; altri non voto</p>
-<p style="text-align: justify;">1 513 588 806</p>
-<p style="text-align: justify;">2 166 332 1019</p>
-<p style="text-align: justify;">3 15 0 955</p>
-<p style="text-align: justify;">4 369 502 1100</p>
-<p style="text-align: justify;">5 481 355 1267</p>
-<p style="text-align: justify;">6 267 532 1336</p>
-<p style="text-align: justify;">Grafico 10</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Il Grafico 10 evidenzia come la linea del Delta (differenza di risultato tra primo e secondo candidato) incrocia la linea di risultato di eventuali altri candidati: questo fa ritenere che gli eventuali altri</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">candidati sottraggano voti al secondo arrivato; &egrave; vero in alcuni casi ma non in assoluto: l&rsquo;analisi necessita di essere approfondita. Pi&ugrave; rilevante invece &ndash; perch&eacute; pi&ugrave; ampia &ndash; &egrave; la misura della linea del non voto.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Considerazioni</p>
-<p style="text-align: justify;">Il numero dei non votanti &ndash; anche alle comunali &ndash; &egrave; tendenzialmente in crescita, come evidenzia il grafico: alle ultime del 2019 erano 1.336 (29%).</p>
+<p style="text-align: center;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/i21_edited.jpg" width="426" height="241" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i21_edited.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Grafico 10</span></p>
+<p style="text-align: center;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/i22_edited.jpg" width="565" height="354" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i22_edited.jpg"></p>
+<p style="text-align: justify;">Il Grafico 10 evidenzia come la linea del Delta (differenza di risultato tra primo e secondo candidato) incrocia la linea di risultato di eventuali altri candidati: questo fa ritenere che gli eventuali altri candidati sottraggano voti al secondo arrivato; &egrave; vero in alcuni casi ma non in assoluto: l&rsquo;analisi necessita di essere approfondita. Pi&ugrave; rilevante invece &ndash; perch&eacute; pi&ugrave; ampia &ndash; &egrave; la misura della linea del non voto.</p>
+<h4 style="text-align: justify;">Considerazioni</h4>
+<p style="text-align: justify;">Il numero dei <strong>non votanti</strong> &ndash; anche alle comunali &ndash; &egrave; tendenzialmente in crescita, come evidenzia il grafico: alle ultime del 2019 erano <strong>1.336 (29%)</strong>.</p>
 <p style="text-align: justify;">Alcune domande che non hanno una risposta immediata, ma che possono dare spunti di riflessione:</p>
-<p style="text-align: justify;">- perch&eacute; questi cittadini non votano?</p>
-<p style="text-align: justify;">- Chi sono tipologicamente?</p>
-<p style="text-align: justify;">- In quale categoria sociale possono essere inquadrati?</p>
-<p style="text-align: justify;">- In ultima analisi quali sono le motivazioni del non-voto?</p>
-<p style="text-align: justify;">- Anche considerando le perse tipologie di elezioni?</p>
-<p style="text-align: justify;">Infatti il dato delle politiche (2.362) e delle regionali (2.936) &egrave; di gran lunga superiore. Il dato dei voti non validi (aventi diritto che si sono recati ai seggi e che non hanno espresso un voto), 2019</p>
-<p style="text-align: justify;">= 85, in realt&agrave; &egrave; poco significativo, quasi fisiologico.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Tabella 10</p>
-<p style="text-align: justify;">Peso % primo Peso % secondo Peso % non voto</p>
-<p style="text-align: justify;">Comunali 1995 38 25 21</p>
-<p style="text-align: justify;">Comunali 1999 35 31 26</p>
-<p style="text-align: justify;">Comunali 2004 39 38,6 22,4</p>
-<p style="text-align: justify;">Comunali 2009 37 29 24</p>
-<p style="text-align: justify;">Comunali 2014 38 28 27</p>
-<p style="text-align: justify;">Comunali 2019 33 27 29</p>
-<p style="text-align: justify;">&nbsp;</p>
+<ul>
+<li style="text-align: justify;">Perch&eacute; questi cittadini non votano?</li>
+<li style="text-align: justify;">Chi sono tipologicamente?</li>
+<li style="text-align: justify;">In quale categoria sociale possono essere inquadrati?</li>
+<li style="text-align: justify;">In ultima analisi quali sono le motivazioni del non-voto?</li>
+<li style="text-align: justify;">Anche considerando le perse tipologie di elezioni?</li>
+</ul>
+<p style="text-align: justify;">Infatti il dato delle politiche (2.362) e delle regionali (2.936) &egrave; di gran lunga superiore. Il dato dei voti non validi (aventi diritto che si sono recati ai seggi e che non hanno espresso un voto), 2019 = <strong>85</strong>, in realt&agrave; &egrave; poco significativo, quasi fisiologico.</p>
+<p style="text-align: center;"><span style="font-size: 14px;">Tabella 10</span></p>
+<p><span style="font-size: 14px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/pagine/sociale/votanovillapianesi/i23_edited.jpg" width="909" height="171" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i23_edited.jpg"></span></p>
 <p style="text-align: justify;">La Tabella 10 rendiconta le ultime 6 elezioni comunali in raffronto con il peso del non voto (tra i 20 e i 30 punti percentuali) tendenzialmente in crescita.</p>
-<p style="text-align: justify;">I grafici (11 e 12) a &ldquo;torta&rdquo;, relativi alle Comunali del 2014 e del 2019, evidenziano visivamente il &ldquo;peso&rdquo; delle singole scelte di voto, e di non-voto: ovviamente &egrave; fuori discussione l&rsquo;esito, ma qualche riflessione va fatta sul peso del non voto.</p>
+<div class="image-container">&nbsp;</div>
 <div class="image-container">
-<div class="image-wrapper">Grafico 11 <img src="images/pagine/sociale/votanovillapianesi/i4.jpg" width="531" height="326" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i4.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 11</span> <img src="images/pagine/sociale/votanovillapianesi/i24_edited.jpg" width="531" height="326" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i4.jpg">
 </div>
-<div class="image-wrapper">Grafico 12 <img src="images/pagine/sociale/votanovillapianesi/i5.jpg" width="530" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i5.jpg">
+<div class="image-wrapper">
+<span style="font-size: 14px;">Grafico 12</span> <img src="images/pagine/sociale/votanovillapianesi/i25_edited.jpg" width="530" height="338" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i5.jpg">
 </div>
 </div>
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><img src="images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg" width="64" height="4" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg"></p>
+<p style="text-align: justify;">I&nbsp;<strong>grafici</strong> (11 e 12) a &ldquo;torta&rdquo;, relativi alle Comunali del 2014 e del 2019, evidenziano visivamente il &ldquo;peso&rdquo; delle singole scelte di voto, e di non-voto: ovviamente &egrave; fuori discussione l&rsquo;esito, ma qualche riflessione va fatta sul peso del non voto.</p>
 <p style="text-align: justify;">Inoltre:</p>
-<p style="text-align: justify;">- In linea generale la presenza di pi&ugrave; liste in un campo agevola la vittoria dell&rsquo;altro campo: centro-sinistra vs centro-destra e vice versa.</p>
-<p style="text-align: justify;">- La presenza di sole due liste (2004) produce una situazione di &ldquo;quasi&rdquo; equilibrio; chi vince, vince per pochi voti. Questo non accadeva negli anni 60 e 70.</p>
-<p style="text-align: justify;">- come &egrave; evidenziato nel grafico, la presenza di altre liste in generale &ldquo;viaggia&rdquo; con il dato della differenza tra prima e seconda lista classificata.</p>
-<p style="text-align: justify;">&nbsp;</p>
+<ul>
+<li style="text-align: justify;">In linea generale la presenza di pi&ugrave; liste in un campo agevola la vittoria dell&rsquo;altro campo: centro-sinistra vs centro-destra e vice versa.</li>
+<li style="text-align: justify;">La presenza di sole due liste (2004) produce una situazione di &ldquo;quasi&rdquo; equilibrio; chi vince, vince per pochi voti. Questo non accadeva negli anni 60 e 70.</li>
+<li style="text-align: justify;">Come &egrave; evidenziato nel grafico, la presenza di altre liste in generale &ldquo;viaggia&rdquo; con il dato della differenza tra prima e seconda lista classificata.</li>
+</ul>
 <p style="text-align: justify;">Questa &egrave; l&rsquo;analisi sui numeri, i quali torchiati a dovere possono dire qualsiasi cosa, ma possono portare a riflessioni su cosa fare, in particolar modo sul come sollecitare la partecipazione dei cittadini alla vita sociale e politica della comunit&agrave; villapianese. La discussione &egrave; quindi aperta.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Conclusioni parziali e aperte</p>
+<h4 style="text-align: justify;">Conclusioni parziali e aperte</h4>
 <p style="text-align: justify;">Abbiamo tentato di mettere insieme dei dati certi (per la massima parte) per poter affrontare dei ragionamenti e delle riflessioni sulle motivazioni delle scelte politiche dei villapianesi, preoccupati per il dato dell&rsquo;astensione. Il dato &ndash; &egrave; vero &ndash; &egrave; di tendenza nazionale; tuttavia qui vorremmo poterlo affrontare in una prospettiva dinamica e attiva di coinvolgimento dei cittadini, al di l&agrave; quindi delle loro scelte &ldquo;politiche&rdquo;. Ci interessa il loro grado di interesse nella cosa pubblica. Da questo punto di vista questo lavoro &egrave; solo all&rsquo;inizio.</p>
 <p style="text-align: justify;">In linea generale risulterebbero utili e oltremodo interessanti ulteriori approfondimenti su:</p>
-<p style="text-align: justify;">- periodo post-unitario: dal 1860 e a partire dal cambio di nome da Casalnuovo a Villapiana</p>
-<p style="text-align: justify;">(delibera del 8 novembre 1862 del Consiglio Comunale &ndash; Sindaco Francesco Gentile);</p>
-<p style="text-align: justify;">- periodo fascista: come mai tanti Commissari Prefettizi? Episodi di dissenso nei confronti del Regime?</p>
-<p style="text-align: justify;">- periodo fino al 1960: egemonia cattolica, lotte operaie, &ldquo;muratura del Municipio&rdquo;, vittoria dei socialisti.</p>
+<ul>
+<li style="text-align: justify;">Periodo post-unitario: dal 1860 e a partire dal cambio di nome da Casalnuovo a Villapiana (delibera del 8 novembre 1862 del Consiglio Comunale &ndash; Sindaco Francesco Gentile);</li>
+<li style="text-align: justify;">Periodo fascista: come mai tanti Commissari Prefettizi? Episodi di dissenso nei confronti del Regime?</li>
+<li style="text-align: justify;">Periodo fino al 1960: egemonia cattolica, lotte operaie, &ldquo;muratura del Municipio&rdquo;, vittoria dei socialisti.</li>
+</ul>
 <p style="text-align: justify;">&Egrave; anche auspicabile una riflessione sulla evoluzione delle &ldquo;nuove&rdquo; culture politiche negli anni futuri, in direzione dell&rsquo;interesse dei cittadini:</p>
-<p style="text-align: justify;">- quale il loro coinvolgimento;</p>
-<p style="text-align: justify;">- con quali forme aggregative;</p>
-<p style="text-align: justify;">- in quali luoghi.</p>
-<p style="text-align: justify;">&nbsp;</p>
+<ul>
+<li style="text-align: justify;">Quale il loro coinvolgimento;</li>
+<li style="text-align: justify;">Con quali forme aggregative;</li>
+<li style="text-align: justify;">In quali luoghi.</li>
+</ul>
 <p style="text-align: justify;">&Egrave; probabile che abbiamo involontariamente trattato qualche argomento non con la necessaria attenzione per esigenza di sintesi di questo studio. Ci dispiace e ci scusiamo; saremo pi&ugrave; attenti in futuro. Intanto restiamo assolutamente disponibili a ricevere correzioni, integrazioni, consigli, suggerimenti e riflessioni. Se pertinenti le pubblicheremo qui.</p>
 <p style="text-align: justify;">A chi si sta predisponendo per candidarsi alle prossime elezioni comunali l&rsquo;Associazione Villapiana Borgo Attivo (Ets) augura buon lavoro, con l&rsquo;auspicio che si possa progressivamente coinvolgere i cittadini nella partecipazione attiva della gestione del bene comune. Ai Villapianesi, Buon Voto.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">11 aprile 2024</p>
-<p style="text-align: justify;">Antonio Bria</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Appendice</p>
-<p style="text-align: justify;">a) Elenco Sindaci di Villapiana dal 190015</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">dal al Sindaco Regio Commissario Commissario Prefettizio Podest&agrave;</p>
-<p style="text-align: justify;">01/01/1900 30/06/1900 Leonardo Bianculli</p>
-<p style="text-align: justify;">01/07/1900 30/06/1901 Giuseppe Maiuri</p>
-<p style="text-align: justify;">01/07/1901 30/06/1902 Alberto Barletta</p>
-<p style="text-align: justify;">01/07/1902 30/12/1902 Anselmo Fedele</p>
-<p style="text-align: justify;">01/01/1903 31/05/1910 Antonio Pacilio</p>
-<p style="text-align: justify;">01/06/1910 31/08/1920 Domenico Barletta</p>
-<p style="text-align: justify;">01/09/1920 31/12/1920 Raffaele Magnelli</p>
-<p style="text-align: justify;">01/01/1921 31/12/1923 Giuseppe Pizzulli</p>
-<p style="text-align: justify;">01/01/1924 15/02/1924 Vincenzo Bonanno &ndash;</p>
-<p style="text-align: justify;">Giuseppe Russo</p>
-<p style="text-align: justify;">16/02/1924 31/10/1924 Francesco Pizzuti</p>
-<p style="text-align: justify;">01/11/1924 30/06/1926 Giuseppe Russo</p>
-<p style="text-align: justify;">01/07/1926 15/02/1928 Vincenzo Fara</p>
-<p style="text-align: justify;">16/02/1928 30/06/1930 Giuseppe De Pasquale</p>
-<p style="text-align: justify;">01/07/1930 31/07/1930 Giuseppe Merolla</p>
-<p style="text-align: justify;">01/08/1930 31/12/1930 Colonnello Guido Torriani</p>
-<p style="text-align: justify;">01/01/1931 10/09/1931 Agostino Praino</p>
-<p style="text-align: justify;">11/09/1931 30/09/1932 Carlo Stiano</p>
-<p style="text-align: justify;">01/10/1932 31/12/1934 Eduardo Tiripicchio</p>
-<p style="text-align: justify;">01/01/1935 31/12/1943 Eduardo Tiripicchio</p>
-<p style="text-align: justify;">01/01/1944 30/10/1944 Gaetano Brancia</p>
-<p style="text-align: justify;">01/11/1944 09/05/1946 Antonio Bonanno</p>
-<p style="text-align: justify;">10/05/1946 20/11/1947 Domenico De Franco</p>
-<p style="text-align: justify;">21/11/1947 31/12/1947 F.F. Sindaco Guido Tiripicchio</p>
-<p style="text-align: justify;">01/01/1948 30/05/1952 Domenico Bianculli</p>
-<p style="text-align: justify;">01/06/1952 25/08/1956 Vincenzo Bonanno</p>
-<p style="text-align: justify;">25/08/1956 30/11/1960 Eugenio Gentile</p>
-<p style="text-align: justify;">01/12/1960 15/06/1975 Domenico Bianculli</p>
-<p style="text-align: justify;">16/06/1975 07/06/1980 Vito Antonio La Regina</p>
-<p style="text-align: justify;">08/05/1980 07/05/1990 Paolo Montalti</p>
-<p style="text-align: justify;">08/05/1990 15/04/1992 Giovanni Mazzei</p>
-<p style="text-align: justify;">16/04/1992 23/04/1995 Luigi Bria</p>
-<p style="text-align: justify;">24/04/1995 13/06/1999 Antonio Maria</p>
-<p style="text-align: justify;">Faillace</p>
-<p style="text-align: justify;">14/06/1999 08/06/2009 Luigi Bria</p>
-<p style="text-align: justify;">09/06/2009 27/05/2014 Roberto Rizzuto</p>
-<p style="text-align: justify;">28/05/2014 30/01/2024 Paolo Montalti</p>
-<p style="text-align: justify;">31/01/2024 10/06/202416</p>
-<p style="text-align: justify;">Umberto Pio Antonio Campini</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">15 Elenco pubblicato da Francesco Pizzulli sul suo profilo Facebook.</p>
-<p style="text-align: justify;">16 Sono previste le elezioni per l&rsquo;8 e 9 giugno prossimi in concomitanza con le elezioni europee. Riga aggiunta dallo scrivente.</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">b) Risultati elettorali elezioni comunali di Villapiana con elezione diretta del Sindaco.17</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">1. Comunali 23/04/1995</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Faillace 1444 38,32 48,74</p>
-<p style="text-align: justify;">Bria 931 24,70 31,42</p>
-<p style="text-align: justify;">Severini 438 11,62 14,78</p>
-<p style="text-align: justify;">Dramisino 150 3,98 5,06</p>
-<p style="text-align: justify;">Totale voti espressi 2963 78,62 100,00</p>
-<p style="text-align: justify;">Non Voto 806 21,38</p>
-<p style="text-align: justify;">totale 3769 100,00</p>
-<p style="text-align: justify;">1. Comunali 13/06/1999</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Faillace 1234 30,97 41,60</p>
-<p style="text-align: justify;">Bria 1400 35,13 47,21</p>
-<p style="text-align: justify;">Dima 332 8,33 11,19</p>
-<p style="text-align: justify;">Totale voti espressi 2966 74,43 100,00</p>
-<p style="text-align: justify;">Non Voto 1019 25,57</p>
-<p style="text-align: justify;">totale 3985 100,00</p>
-<p style="text-align: justify;">2. Comunali 12/06/2004</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Bria 1663 38,98 50,23</p>
-<p style="text-align: justify;">Cavaliere 1648 38,63 49,77</p>
-<p style="text-align: justify;">Totale voti espressi 3311 77,61 100,00</p>
-<p style="text-align: justify;">Non Voto 955 22,39</p>
-<p style="text-align: justify;">totale 4266 100,00</p>
-<p style="text-align: justify;">3. Comunali 07/06/2009</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Rizzuto 1678 36,57 48,09</p>
-<p style="text-align: justify;">De Luca 1309 28,52 37,52</p>
-<p style="text-align: justify;">Cesarini 502 10,94 14,39</p>
-<p style="text-align: justify;">Totale voti espressi 3489 76,03 100,00</p>
-<p style="text-align: justify;">Non Voto 1100 23,97</p>
-<p style="text-align: justify;">totale 4589 100,00</p>
-<p style="text-align: justify;">4. Comunali 25/05/2014</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Bria 1326 27,89 38,02</p>
-<p style="text-align: justify;">Montalti 1807 38,00 51,80</p>
-<p style="text-align: justify;">Costa 355 7,47 10,18</p>
-<p style="text-align: justify;">Totale voti espressi 3488 73,35 100,00</p>
-<p style="text-align: justify;">Non Voto 1267 26,65</p>
-<p style="text-align: justify;">totale 4755 100,00</p>
-<p style="text-align: justify;">5. Comunali 26/05/2019</p>
-<p style="text-align: justify;">candidato voti % elettori % voti espressi</p>
-<p style="text-align: justify;">Bria 1284 27,30 38,13</p>
-<p style="text-align: justify;">Montalti 1551 32,98 46,06</p>
-<p style="text-align: justify;">Grande 392 8,34 11,64</p>
-<p style="text-align: justify;">Rossi 140 2,98 4,17</p>
-<p style="text-align: justify;">Totale voti espressi 3367 71,60 100,00</p>
-<p style="text-align: justify;">Non Voto 1336 28,40</p>
-<p style="text-align: justify;">totale 4703 100,00</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">17 Fonte Eligendo &ndash; Ministero degli Interni.</p>
-<p style="text-align: justify;">&nbsp;</p>
-</div> 	</div>
+<p style="text-align: left;">&nbsp; &nbsp; &nbsp; 11 aprile 2024 - <em>Antonio Bria</em></p>
+<p style="text-align: left;"><em><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/i26_edited.jpg" width="732" height="188" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/i26_edited.jpg"></em></p>
+<hr class="ab-hr">
+<h4 style="text-align: justify;">Appendice</h4>
+<p style="text-align: justify;"><strong>a)</strong> Elenco Sindaci di Villapiana dal 1900 <strong><span style="font-size: 14px;">[15]</span></strong></p>
+</div>
+<p style="text-align: center;"><strong><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/1_editedg.jpg" width="907" height="1126" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/1_editedg.jpg"><img src="images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg" width="64" height="4" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg"></strong></p>
+<p style="text-align: justify;"><strong>b)</strong> Risultati elettorali elezioni comunali di Villapiana con elezione diretta del Sindaco. <span style="font-size: 14px;"><strong>[17]</strong></span></p>
+<div class="table-container">
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 23/04/1995</span></p>
+<p style="text-align: center;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c1_edited.jpg" width="909" height="218" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c1_edited.jpg"></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 13/06/1999</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c1_edited.jpg" width="909" height="218" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c1_edited.jpg"></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 12/06/2004</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c3_edited.jpg" width="910" height="167" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c3_edited.jpg"></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 07/06/2009</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c4_edited.jpg" width="909" height="191" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c4_edited.jpg"></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 25/05/2014</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c5_edited.jpg" width="910" height="194" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c5_edited.jpg"></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;">Comunali 26/05/2019</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><img class="mx-auto d-block" src="images/pagine/sociale/votanovillapianesi/c6_edited.jpg" width="909" height="218" loading="lazy" data-path="local-images:/pagine/sociale/votanovillapianesi/c6_edited.jpg"></span></p>
+<hr class="ab-hr">
+</div>
+<p style="text-align: left;">Note a pie di pagina</p>
+<p class="MsoNormal"><strong><sup>1</sup></strong> <span style="font-size: 14px;">Per la prima volta in Italia hanno diritto di voto anche le donne.</span></p>
+<p class="MsoNormal"><strong><sup>2</sup></strong> <span style="font-size: 14px;">Delle quali 11 bianche.</span></p>
+<p class="MsoNormal"><strong><sup>3</sup></strong> <span style="font-size: 14px;">1958 = 56,13%; 1963= 53,61%.</span></p>
+<p class="MsoNormal"><strong><sup>4</sup></strong> <span style="font-size: 14px;">PCI = 21,00%; PSI = 14,96%.</span></p>
+<p class="MsoNormal"><strong><sup>5</sup></strong> <span style="font-size: 14px;">1987: PSI + PCI = 41,88%; DC = 38,86%. 1992: PSI + PDS = 45,77%; DC = 40,70%.</span></p>
+<p class="MsoNormal"><strong><sup>6</sup></strong> <span style="font-size: 14px;">Solo negli ultimi anni 70 si &egrave; aggiunta a queste forze una presenza di movimento giovanile nell&rsquo;area extra-parlamentare del PdUP prima e Democrazia Proletaria poi, raggiungendo alle elezioni qualche decina di voti.</span></p>
+<p class="MsoNormal"><strong><sup>7</sup></strong> <span style="font-size: 14px;">Il maestro elementare Domenico Bianculli.</span></p>
+<p class="MsoNormal"><strong><sup>8</sup></strong> <span style="font-size: 14px;">Proposta abrogativa presentata dal Partito Radicale (Marco Pannella, Emma Bonino).</span></p>
+<p class="MsoNormal"><strong><sup>9</sup></strong> <span style="font-size: 14px;">Proposta abrogativa presentata dal Movimento per la Vita.</span></p>
+<p class="MsoNormal"><strong><sup>10</sup></strong> <span style="font-size: 14px;">In realt&agrave; i CP sono 2: infatti nel 1980 &egrave; stato nominato un commissario prefettizio per un brevissimo periodo per la gestione del contenzioso nel riconteggio delle schede elettorali.</span></p>
+<p class="MsoNormal"><strong><sup>11</sup></strong> <span style="font-size: 14px;">Si veda l&rsquo;Appendice a).</span></p>
+<p class="MsoNormal"><strong><sup>12</sup></strong> <span style="font-size: 14px;">In realt&agrave; non siamo in grado di dire se saranno mai pubblicati, o se al Ministero ci si stia lavorando. Per il periodo del dopo guerra e fino al 1960 si veda l&rsquo;Appendice a) Elenco dei Sindaci di Villapiana dal 1900 (Francesco Pizzulli).</span></p>
+<p class="MsoNormal"><strong><sup>13</sup></strong> <span style="font-size: 14px;">Per un brevissimo periodo fu nominato anche un Commissario Prefettizio, in attesa della sentenza del Consiglio di Stato.</span></p>
+<p class="MsoNormal"><strong><sup>14</sup></strong> <span style="font-size: 14px;">In seguito a un cambio di maggioranza il Consiglio Comunale il 16/04/1992 elegge Sindaco Luigi Bria che resta in carica fino a fine consiliatura (23/04/1995).</span></p>
+<p class="MsoNormal"><strong><sup>15</sup></strong> <span style="font-size: 14px;">Elenco pubblicato da Francesco Pizzulli sul suo profilo Facebook.</span></p>
+<p class="MsoNormal"><strong><sup>16</sup></strong> <span style="font-size: 14px;">Sono previste le elezioni per l&rsquo;8 e 9 giugno prossimi in concomitanza con le elezioni europee. Riga aggiunta dallo scrivente.</span></p>
+<p class="MsoNormal"><strong><sup>17</sup></strong> <span style="font-size: 14px;">Fonte Eligendo &ndash; Ministero degli Interni.</span></p>
+<hr class="ab-hr">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="images/pagine/sociale/votanovillapianesi/Come-votano-i-Villapianesi.pdf" download="Come-votano-i-Villapianesi.pdf"> <button class="xxx">&#128209; Scarica il PDF</button> </a> <a class="image-link" title="Torna all'indice principale" href="sociale.html"> <img class="image" src="images/componenti/reply-all.jpg" alt="reply-all.jpg" width="45" height="40" loading="lazy" data-path="local-images:/Componenti/reply-all.jpg"> </a>
+</div>
+<hr class="ab-hr"> 	</div>
 
 	
 	

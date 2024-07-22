@@ -6,6 +6,18 @@ Uri: http://192.168.80.128/19-fuochi-vallje.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\19-fuochi-vallje.html
 Content Type: text/html
 
+Uri: http://192.168.80.128/2021-report,-bilancio-e-relazione-sulla-gestione.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\2021-report,-bilancio-e-relazione-sulla-gestione.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/2022-report,-bilancio-e-relazione-sulla-gestione.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\2022-report,-bilancio-e-relazione-sulla-gestione.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/2023-report,-bilancio-e-relazione-sulla-gestione.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\2023-report,-bilancio-e-relazione-sulla-gestione.html
+Content Type: text/html
+
 Uri: http://192.168.80.128/a-tavola-nel-borgo.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\a-tavola-nel-borgo.html
 Content Type: text/html
@@ -610,6 +622,38 @@ Uri: http://192.168.80.128/images/2024/07/18/villapianesi-web1.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\18\villapianesi-web1.png
 Content Type: image/png
 
+Uri: http://192.168.80.128/images/2024/07/21/th-(1)rf.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\21\th-(1)rf.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/21/th-1rf.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\21\th-1rf.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/21/torremine_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\21\torremine_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/21/torre_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\21\torre_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/22/2021min.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2021min.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/22/2022min.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2022min.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/22/2023min.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2023min.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/22/beneinst88jgee.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\beneinst88jgee.png
+Content Type: image/png
+
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
 Content Type: image/png
@@ -766,10 +810,6 @@ Uri: http://192.168.80.128/images/componenti/logonq.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\logonq.png
 Content Type: image/png
 
-Uri: http://192.168.80.128/images/componenti/logonq2ww.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\logonq2ww.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/componenti/OIG-6w.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\componenti\OIG-6w.jpg
 Content Type: image/jpeg
@@ -878,6 +918,30 @@ Uri: http://192.168.80.128/images/pagine/chi siamo/02-Scopertura-Targa.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\02-Scopertura-Targa.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.128/images/pagine/chi siamo/AVBA Bilancio 2023.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\AVBA Bilancio 2023.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/AVBA Relazione sulla Gestione 2023.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\AVBA Relazione sulla Gestione 2023.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/AVBA-Bilancio-2021.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\AVBA-Bilancio-2021.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/AVBA-Relazione-sulla-Gestione-2021.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\AVBA-Relazione-sulla-Gestione-2021.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/AVBA-Relazione-sulla-Gestione-2022.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\AVBA-Relazione-sulla-Gestione-2022.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Bilancio-Associazione-2022.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Bilancio-Associazione-2022.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.80.128/images/pagine/chi siamo/CD-VBA.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\CD-VBA.jpg
 Content Type: image/jpeg
@@ -961,6 +1025,210 @@ Content Type: image/jpeg
 Uri: http://192.168.80.128/images/pagine/chi siamo/Eventi di VBA/manifesto-rev-07.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Eventi di VBA\manifesto-rev-07.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Report-Sito-Web-VBA-News-2023.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Report-Sito-Web-VBA-News-2023.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Report-sul-Sito-Web-VBA.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Report-sul-Sito-Web-VBA.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/AVBA-Bilancio-2021_page-0001.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\AVBA-Bilancio-2021_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/AVBA-Bilancio-2021_page-0002.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\AVBA-Bilancio-2021_page-0002.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/AVBA-Bilancio-2021_page-0003.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\AVBA-Bilancio-2021_page-0003.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/AVBA-Bilancio-2021_page-0004.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\AVBA-Bilancio-2021_page-0004.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/10th.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\10th.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/4qu.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\4qu.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/5tg.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\5tg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/6tg.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\6tg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/7tg.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\7tg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/8th.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\8th.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/9th.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\9th.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/due.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\due.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_010.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_010.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_011.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_011.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_014.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_014.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_017.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_017.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_018.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_018.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/Image_019.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\Image_019.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/tre.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\tre.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2021/report/uno.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2021\report\uno.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Bilancio-Associazione-2022_page-0001.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Bilancio-Associazione-2022_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Bilancio-Associazione-2022_page-0002.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Bilancio-Associazione-2022_page-0002.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Bilancio-Associazione-2022_page-0003.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Bilancio-Associazione-2022_page-0003.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Bilancio-Associazione-2022_page-0004.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Bilancio-Associazione-2022_page-0004.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_002.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_002.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_002.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_002.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_003.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_003.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_004.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_004.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_005.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_005.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/Image_006.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\Image_006.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2022/bilancio/locand.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2022\bilancio\locand.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/bilancio/AVBA Bilancio 2023_page-0001.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\bilancio\AVBA Bilancio 2023_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/bilancio/AVBA Bilancio 2023_page-0002.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\bilancio\AVBA Bilancio 2023_page-0002.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/bilancio/AVBA Bilancio 2023_page-0003.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\bilancio\AVBA Bilancio 2023_page-0003.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/bilancio/AVBA Bilancio 2023_page-0004.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\bilancio\AVBA Bilancio 2023_page-0004.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/11t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\11t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/12t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\12t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/13t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\13t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/14t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\14t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/15t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\15t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/16t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\16t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/17t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\17t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/18t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\18t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/19t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\19t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/20t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\20t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/21t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\21t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/22t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\22t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/Reportbilancio/2023/report/24t.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\Reportbilancio\2023\report\24t.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/chi siamo/STATUTO-VillapianaBorgoAttivo.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\chi siamo\STATUTO-VillapianaBorgoAttivo.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.80.128/images/pagine/cultura/aldo-moro-volonte-02.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\cultura\aldo-moro-volonte-02.jpg
@@ -1220,6 +1488,10 @@ Content Type: application/pdf
 
 Uri: http://192.168.80.128/images/pagine/scienza/Elenco-link-video-YouTube.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Elenco-link-video-YouTube.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/scienza/Esperimento-1--di-Villapiana.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\scienza\Esperimento-1--di-Villapiana.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.80.128/images/pagine/scienza/evento-15-05-2022-def.jpeg
@@ -1674,81 +1946,169 @@ Uri: http://192.168.80.128/images/pagine/sociale/Volti-e-Luoghi--Faces---Places-
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\Volti-e-Luoghi--Faces---Places-_C.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/1_editedg.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\1_editedg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/c1_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\c1_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/c3_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\c3_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/c4_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\c4_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/c5_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\c5_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/c6_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\c6_edited.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/Come-votano-i-Villapianesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\Come-votano-i-Villapianesi.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i1.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i103_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i103_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i103.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i103.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i11_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i11_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i11.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i11.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i12_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i12_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i12.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i12.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i13_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i13_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i13.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i13.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i14_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i14_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i14.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i14.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i15_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i15_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i15.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i15.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i16_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i16_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i16.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i16.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i17_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i17_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i17.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i17.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i1_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i1_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i2a.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i2a.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i21_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i21_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i3.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i3.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i22_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i22_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i4.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i4.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i23_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i23_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i5.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i5.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i24_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i24_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i6.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i6.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i25_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i25_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i7.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i7.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i26_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i26_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i8.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i8.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i2a_2.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i2a_2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i9r.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i9r.jpg
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i3_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i3_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i4_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i4_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i5_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i5_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i6_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i6_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i7_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i7_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i8_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i8_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/i9r_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\i9r_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/sociale/votanovillapianesi/spaziovuotorigo.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\sociale\votanovillapianesi\spaziovuotorigo.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/storia/Dalla-torre-al-borgo.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\Dalla-torre-al-borgo.pdf
 Content Type: application/pdf
+
+Uri: http://192.168.80.128/images/pagine/storia/dd5.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd5.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/dd6.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/dd7.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd7.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/ddd.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\ddd.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/dddd3.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dddd3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/decretoimg/delibera-e-decreto-regio-testo-4_Pagina_1.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\decretoimg\delibera-e-decreto-regio-testo-4_Pagina_1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/decretoimg/delibera-e-decreto-regio-testo-4_Pagina_2.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\decretoimg\delibera-e-decreto-regio-testo-4_Pagina_2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/decretoimg/delibera-e-decreto-regio-testo-4_Pagina_3.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\decretoimg\delibera-e-decreto-regio-testo-4_Pagina_3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/pagine/storia/decretoimg/delibera-e-decreto-regio-testo-4_Pagina_4.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\decretoimg\delibera-e-decreto-regio-testo-4_Pagina_4.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/storia/delibera-e-decreto-regio-testo.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\delibera-e-decreto-regio-testo.pdf
@@ -5258,7 +5618,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?89e90c
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?01a326
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -5454,20 +5814,8 @@ Uri: http://192.168.80.128/sospensione-pubblicazione-dati-orclav.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\sospensione-pubblicazione-dati-orclav.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.feed?view=category&id=27&type=atom
-File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.feed?view=category&id=27&type=rss
-File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo.html
-Content Type: text/html
-
-Uri: http://192.168.80.128/statuto-dell-associazione-villapiana-borgo-attivo.html?view=category&id=27
-File Name: C:\Downloaded Web Sites\192.168.80.128\statuto-dell-associazione-villapiana-borgo-attivo-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/storia.html
@@ -5488,6 +5836,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.128/territorio-e-borgo.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\territorio-e-borgo.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/villapiana-dalla-torre-al-borgo-fortificato.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\villapiana-dalla-torre-al-borgo-fortificato.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/villapiana-e-dintorni.html
