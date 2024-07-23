@@ -634,25 +634,25 @@ Uri: http://192.168.80.128/images/2024/07/21/torre_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\21\torre_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/07/22/2021min.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2021min.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/07/22/2022min.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2022min.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/07/22/2023min.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\2023min.png
-Content Type: image/png
-
-Uri: http://192.168.80.128/images/2024/07/22/beneinst88jgee.png
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\beneinst88jgee.png
-Content Type: image/png
-
 Uri: http://192.168.80.128/images/2024/07/23/08-bronze-medalgr.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\08-bronze-medalgr.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/23/2021minw.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\2021minw.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/23/2022minw.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\2022minw.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/23/2023minw.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\2023minw.png
+Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/23/beneinst88jgeee.png
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\beneinst88jgeee.png
+Content Type: image/png
 
 Uri: http://192.168.80.128/images/2024/07/23/erminia-de-paola-newmin.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\erminia-de-paola-newmin.jpg
@@ -2102,16 +2102,16 @@ Uri: http://192.168.80.128/images/pagine/storia/dd6.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd6.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/storia/dd7.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd7.jpg
+Uri: http://192.168.80.128/images/pagine/storia/dd7e_edited-new_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dd7e_edited-new_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/storia/ddd.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\ddd.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/pagine/storia/dddd3.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dddd3.jpg
+Uri: http://192.168.80.128/images/pagine/storia/dddd3t_editedq_editedd.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\pagine\storia\dddd3t_editedq_editedd.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/pagine/storia/decretoimg/delibera-e-decreto-regio-testo-4_Pagina_1.jpg
@@ -5642,7 +5642,7 @@ Uri: http://192.168.80.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?615234
+Uri: http://192.168.80.128/media/com_wrapper/js/iframe-height.min.js?9522de
 File Name: C:\Downloaded Web Sites\192.168.80.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
