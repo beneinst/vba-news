@@ -190,6 +190,10 @@ Uri: http://192.168.80.128/fotone-onda.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\fotone-onda.html
 Content Type: text/html
 
+Uri: http://192.168.80.128/francesco-bria-–-chef.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\francesco-bria-–-chef.html
+Content Type: text/html
+
 Uri: http://192.168.80.128/francischi-i-vurpi.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\francischi-i-vurpi.html
 Content Type: text/html
@@ -542,10 +546,6 @@ Uri: http://192.168.80.128/images/2024/07/16/4_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\4_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.128/images/2024/07/16/fw3.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\fw3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.128/images/2024/07/16/ret3.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\16\ret3.jpg
 Content Type: image/jpeg
@@ -653,6 +653,18 @@ Content Type: image/png
 Uri: http://192.168.80.128/images/2024/07/22/beneinst88jgee.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\22\beneinst88jgee.png
 Content Type: image/png
+
+Uri: http://192.168.80.128/images/2024/07/23/08-bronze-medalgr.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\08-bronze-medalgr.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/23/erminia-de-paola-newmin.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\erminia-de-paola-newmin.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.128/images/2024/07/23/erminia-de-paola-newmin2.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.128\images\2024\07\23\erminia-de-paola-newmin2.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.128\images\beneinstlo.png
@@ -5584,6 +5596,10 @@ Content Type: text/html
 
 Uri: http://192.168.80.128/k-radioscopia-in-microonde-hertziane-osservatorio-di-villapiana.html
 File Name: C:\Downloaded Web Sites\192.168.80.128\k-radioscopia-in-microonde-hertziane-osservatorio-di-villapiana.html
+Content Type: text/html
+
+Uri: http://192.168.80.128/l-arte-di-erminia-de-paola-poesie-e-biografia.html
+File Name: C:\Downloaded Web Sites\192.168.80.128\l-arte-di-erminia-de-paola-poesie-e-biografia.html
 Content Type: text/html
 
 Uri: http://192.168.80.128/la-guerra-tra-sibari-e-crotone.html
