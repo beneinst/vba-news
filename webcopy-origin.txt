@@ -42,6 +42,10 @@ Uri: http://192.168.80.129/bellezza-e-socialità.html
 File Name: C:\Downloaded Web Sites\192.168.80.129\bellezza-e-socialità.html
 Content Type: text/html
 
+Uri: http://192.168.80.129/cache/com_templates/templates/shaper_helixultimate/0177c04bd652ebd7cdd746cbb1f249cc.css
+File Name: C:\Downloaded Web Sites\192.168.80.129\cache\com_templates\templates\shaper_helixultimate\0177c04bd652ebd7cdd746cbb1f249cc.css
+Content Type: text/css
+
 Uri: http://192.168.80.129/cache/com_templates/templates/shaper_helixultimate/1e19efb4f628c737dcd1386c8d3f661c.css
 File Name: C:\Downloaded Web Sites\192.168.80.129\cache\com_templates\templates\shaper_helixultimate\1e19efb4f628c737dcd1386c8d3f661c.css
 Content Type: text/css
@@ -5730,7 +5734,7 @@ Uri: http://192.168.80.129/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.80.129\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.80.129/media/com_wrapper/js/iframe-height.min.js?92aa67
+Uri: http://192.168.80.129/media/com_wrapper/js/iframe-height.min.js?7e0459
 File Name: C:\Downloaded Web Sites\192.168.80.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
