@@ -638,10 +638,6 @@ Uri: http://192.168.80.129/images/2024/07/18/oig4-3w.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.129\images\2024\07\18\oig4-3w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.129/images/2024/07/18/th-14w.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.129\images\2024\07\18\th-14w.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.129/images/2024/07/18/theed.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.129\images\2024\07\18\theed.jpg
 Content Type: image/jpeg
@@ -713,6 +709,10 @@ Content Type: image/gif
 Uri: http://192.168.80.129/images/2024/08/22/2131-new_edited.gif
 File Name: C:\Downloaded Web Sites\192.168.80.129\images\2024\08\22\2131-new_edited.gif
 Content Type: image/gif
+
+Uri: http://192.168.80.129/images/2024/08/29/ciabattino.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.129\images\2024\08\29\ciabattino.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.129/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.80.129\images\beneinstlo.png
@@ -2276,6 +2276,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.129/images/pagine/Villapianesi/1_villapianesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.129\images\pagine\Villapianesi\1_villapianesi.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.80.129/images/pagine/Villapianesi/Il Ciabattino - Gianni Mazzei.pdf
+File Name: C:\Downloaded Web Sites\192.168.80.129\images\pagine\Villapianesi\Il Ciabattino - Gianni Mazzei.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.80.129/images/pagine/Villapianesi/Tabasciaja.pdf
