@@ -78,6 +78,10 @@ Uri: http://192.168.175.129/chi-siamo.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\chi-siamo.html
 Content Type: text/html
 
+Uri: http://192.168.175.129/come-votano-i-villapianesi-aggiornamento.html
+File Name: C:\Downloaded Web Sites\192.168.175.129\come-votano-i-villapianesi-aggiornamento.html
+Content Type: text/html
+
 Uri: http://192.168.175.129/come-votano-i-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\come-votano-i-villapianesi.html
 Content Type: text/html
@@ -698,10 +702,6 @@ Uri: http://192.168.175.129/images/2024/07/30/poli.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\07\30\poli.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.175.129/images/2024/08/03/th-(1)rf_edited4.jpg
-File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\08\03\th-(1)rf_edited4.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.175.129/images/2024/08/11/culmar.gif
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\08\11\culmar.gif
 Content Type: image/gif
@@ -713,6 +713,18 @@ Content Type: image/gif
 Uri: http://192.168.175.129/images/2024/08/29/ciabattino.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\08\29\ciabattino.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/2024/09/02/th-1rf.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\09\02\th-1rf.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/2024/09/02/th6.gif
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\09\02\th6.gif
+Content Type: image/gif
+
+Uri: http://192.168.175.129/images/2024/09/02/th61.gif
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\2024\09\02\th61.gif
+Content Type: image/gif
 
 Uri: http://192.168.175.129/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\beneinstlo.png
@@ -2058,8 +2070,80 @@ Uri: http://192.168.175.129/images/pagine/sociale/Volti-e-Luoghi--Faces---Places
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\Volti-e-Luoghi--Faces---Places-_C.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/10z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\10z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/11z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\11z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/12z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\12z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/13z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\13z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/14z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\14z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/15z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\15z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/16z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\16z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/17z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\17z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/18z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\18z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/1z2.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\1z2.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/1_editedg.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\1_editedg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/2z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\2z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/3z1.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\3z1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/4z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\4z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/5z1.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\5z1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/6z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\6z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/7z2.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\7z2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/8z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\8z.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/9z.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\9z.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/c1_edited.jpg
@@ -2081,6 +2165,10 @@ Content Type: image/jpeg
 Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/c6_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\c6_edited.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/Come votano i Villapianesi - Aggiornamento.pdf
+File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\Come votano i Villapianesi - Aggiornamento.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.175.129/images/pagine/sociale/votanovillapianesi/Come-votano-i-Villapianesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.175.129\images\pagine\sociale\votanovillapianesi\Come-votano-i-Villapianesi.pdf
