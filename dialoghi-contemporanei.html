@@ -25,7 +25,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
     background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
     padding: 10px; /* Aggiunge spazio interno al blocco note */
 }</style>
-	<style>.sp-reading-progress-bar { position:fixed;z-index:9999;height:5px;background-color:#92a8d1;top:0; }</style>
+	<style>.sp-reading-progress-bar { position:fixed;z-index:9999;height:5px;background-color:#758cbf;top:0; }</style>
 	<style>h1{font-family: 'DM Serif Display', sans-serif;font-weight: 400;text-decoration: none;}
 </style>
 	<style>h2{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
@@ -53,7 +53,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.129/","base":"","baseFull":"http://192.168.175.129/"},"csrf.token":"b6ae7569e23ccd5ad845b687c817a5fd"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.129/","base":"","baseFull":"http://192.168.175.129/"},"csrf.token":"81452f1d716981669a01b1a86bea24c4"}</script>
 	<script src="media/system/js/core.min.js?e20992"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -90,6 +90,18 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var iframes = document.querySelectorAll('.video-container iframe');
+    iframes.forEach(function(iframe) {
+      var src = iframe.src;
+      // Aggiungi parametri per modalità privacy migliorata e rel=0
+      if (!src.includes('modestbranding=1')) {
+        iframe.src = src + (src.includes('?') ? '&' : '?') + 'modestbranding=1&rel=0&autoplay=0';
+      }
+    });
+  });
 </script>
 	<script>template="shaper_helixultimate";</script>
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
@@ -435,6 +447,18 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var iframes = document.querySelectorAll('.video-container iframe');
+    iframes.forEach(function(iframe) {
+      var src = iframe.src;
+      // Aggiungi parametri per modalità privacy migliorata e rel=0
+      if (!src.includes('modestbranding=1')) {
+        iframe.src = src + (src.includes('?') ? '&' : '?') + 'modestbranding=1&rel=0&autoplay=0';
+      }
+    });
+  });
 </script>
 		
 					<div class="sp-pre-loader">
@@ -876,9 +900,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="mod-custom129" class="mod-custom custom">
     <div>
 <p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #a66c48; display: inline-block; padding-bottom: 2px;"><span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Articoli Recenti</span></p>
+<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">02/09/24</span><br>Sociale: Come votano i Villapianesi Agg.<span style="color: rgb(206, 212, 217);">|</span> <a class="underline-on-hover" href="come-votano-i-villapianesi-aggiornamento.html">Leggi tutto ...</a></p>
+<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">30/08/24</span><br>VILLAPIANESI: Il Ciabattino<span style="color: rgb(206, 212, 217);">|</span> <a class="underline-on-hover" href="villapianesi.html">Leggi tutto ...</a></p>
 <p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">22/08/24</span><br>Elsewhere: Intervista al Prof. Evaristo Ettorre <span style="color: rgb(206, 212, 217);">|</span> <a class="underline-on-hover" href="elsewhere.html">Leggi tutto ...</a></p>
-<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">11/08/24</span><br>Cultura: Maratona della Cultura 2024 <span style="color: rgb(206, 212, 217);">|</span> <a class="underline-on-hover" href="cultura.html#Danze">Leggi tutto ...</a></p>
-<p style="font-size: 13px;"><span style="color: rgb(206, 212, 217);">23/07/24</span><br>Elsewhere: L'Arte di Erminia De Paola <span style="color: rgb(206, 212, 217);">|</span> <a class="underline-on-hover" href="l-arte-di-erminia-de-paola-poesie-e-biografia.html">Leggi tutto ...</a></p>
 </div></div>
 </div></div></div></div><div id="sp-bottom4" class="col-lg-5 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom131" class="mod-custom custom">
