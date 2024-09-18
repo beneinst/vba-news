@@ -42,10 +42,6 @@ Uri: http://192.168.175.129/bellezza-e-socialità.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\bellezza-e-socialità.html
 Content Type: text/html
 
-Uri: http://192.168.175.129/cache/com_templates/templates/shaper_helixultimate/0177c04bd652ebd7cdd746cbb1f249cc.css
-File Name: C:\Downloaded Web Sites\192.168.175.129\cache\com_templates\templates\shaper_helixultimate\0177c04bd652ebd7cdd746cbb1f249cc.css
-Content Type: text/css
-
 Uri: http://192.168.175.129/cache/com_templates/templates/shaper_helixultimate/1e19efb4f628c737dcd1386c8d3f661c.css
 File Name: C:\Downloaded Web Sites\192.168.175.129\cache\com_templates\templates\shaper_helixultimate\1e19efb4f628c737dcd1386c8d3f661c.css
 Content Type: text/css
@@ -86,19 +82,19 @@ Uri: http://192.168.175.129/come-votano-i-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\come-votano-i-villapianesi.html
 Content Type: text/html
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/animate.min.css?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/animate.min.css?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -106,7 +102,7 @@ Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -126,11 +122,11 @@ Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?2cf0875e1daf356bc4e64c053e7a4150
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?9b160b415b961aeb41b64305a23d2953
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -5826,7 +5822,7 @@ Uri: http://192.168.175.129/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.175.129/media/com_wrapper/js/iframe-height.min.js?9f56dd
+Uri: http://192.168.175.129/media/com_wrapper/js/iframe-height.min.js?6d1186
 File Name: C:\Downloaded Web Sites\192.168.175.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -6252,6 +6248,10 @@ Content Type: application/javascript
 
 Uri: https://cs.iubenda.com/autoblocking/3674597.js
 File Name: C:\Downloaded Web Sites\192.168.175.129\autoblocking\3674597.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4G0SLVQY0D
+File Name: C:\Downloaded Web Sites\192.168.175.129\gtag\js
 Content Type: application/javascript
 
 Uri: https://www.iubenda.com/privacy-policy/46601671.pdf
