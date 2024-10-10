@@ -82,19 +82,19 @@ Uri: http://192.168.175.129/come-votano-i-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\come-votano-i-villapianesi.html
 Content Type: text/html
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/animate.min.css?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/animate.min.css?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -102,7 +102,7 @@ Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -122,11 +122,11 @@ Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?9b160b415b961aeb41b64305a23d2953
+Uri: http://192.168.175.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?431006b7798dde30d7728c5df9bb0948
 File Name: C:\Downloaded Web Sites\192.168.175.129\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -5822,7 +5822,7 @@ Uri: http://192.168.175.129/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.175.129\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.175.129/media/com_wrapper/js/iframe-height.min.js?6d1186
+Uri: http://192.168.175.129/media/com_wrapper/js/iframe-height.min.js?706e2a
 File Name: C:\Downloaded Web Sites\192.168.175.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
