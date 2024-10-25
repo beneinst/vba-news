@@ -714,10 +714,6 @@ Uri: http://192.168.109.128/images/2024/09/02/th61.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\09\02\th61.gif
 Content Type: image/gif
 
-Uri: http://192.168.109.128/images/2024/10/25/artk.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\artk.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/10/25/ed1.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\ed1.gif
 Content Type: image/gif
@@ -725,6 +721,10 @@ Content Type: image/gif
 Uri: http://192.168.109.128/images/2024/10/25/ed2.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\ed2.gif
 Content Type: image/gif
+
+Uri: http://192.168.109.128/images/2024/10/25/oerw.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\oerw.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/25/orclav.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\orclav.jpg
