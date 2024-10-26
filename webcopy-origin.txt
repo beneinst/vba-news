@@ -286,8 +286,8 @@ Uri: http://192.168.109.128/il-tempo-che-fu-della-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\il-tempo-che-fu-della-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/images/2023/12/06/1home_5-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\06\1home_5-new.jpg
+Uri: http://192.168.109.128/images/2023/12/06/hotitle.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\06\hotitle.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/10/c1.jpg
@@ -296,6 +296,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\11\1home_6a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2023/12/11/1home_6a_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\11\1home_6a_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/15/04-Maria-Costa---Torre-Castello.png
@@ -732,6 +736,214 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/25/qewq.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\qewq.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_01.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_01.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_02.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_02.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_03.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_03.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_04.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_04.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_05.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_05.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_06.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_06.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_07.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_07.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_08.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_08.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_09.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_09.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_10.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_10.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_11.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_12.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_12.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_13.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_13.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_14.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_14.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_15.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_15.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_16.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_16.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_17.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_17.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_18.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_18.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_19.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_19.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_20.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_20.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_21.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_21.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_221.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_221.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_23.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_23.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_24.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_24.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_25.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_25.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_26.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_26.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_27.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_27.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_28.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_28.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_29.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_29.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_30.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_30.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_311.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_311.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_32.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_32.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_33.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_33.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_34.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_34.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_35.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_35.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_36.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_36.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_37.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_37.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_38.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_38.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_39.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_39.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_401.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_401.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_41.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_41.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_42.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_42.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_43.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_43.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_44.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_44.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_45.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_45.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_46.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_46.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_47.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_47.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_48.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_48.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_49.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_49.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_50.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_50.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_51.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_51.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_52.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_52.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
@@ -6046,7 +6258,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?1822b3
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?24eebc
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
