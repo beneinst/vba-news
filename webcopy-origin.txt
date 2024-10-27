@@ -286,10 +286,6 @@ Uri: http://192.168.109.128/il-tempo-che-fu-della-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\il-tempo-che-fu-della-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/images/2023/12/06/1home_5-new.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\06\1home_5-new.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2023/12/10/c1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\10\c1.jpg
 Content Type: image/jpeg
@@ -582,6 +578,10 @@ Uri: http://192.168.109.128/images/2024/07/15/centro-radionica-03u.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\15\centro-radionica-03u.png
 Content Type: image/png
 
+Uri: http://192.168.109.128/images/2024/07/16/sfoncont.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\16\sfoncont.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.128/images/2024/07/17/canale-youtube3.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\canale-youtube3.jpg
 Content Type: image/jpeg
@@ -592,10 +592,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/07/17/manifesto-rev-06g.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\manifesto-rev-06g.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/07/17/sgfr3a.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\sgfr3a.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/07/17/thgf.jpg
@@ -944,6 +940,14 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/27/ew2.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\ew2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/home1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\home1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/home2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\home2.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/27/sfondo1home13.jpg
@@ -6372,6 +6376,10 @@ Content Type: video/mp4
 
 Uri: http://192.168.109.128/media/videos/2023/12/14/genetica-e-umanita--.mp4
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\videos\2023\12\14\genetica-e-umanita--.mp4
+Content Type: video/mp4
+
+Uri: http://192.168.109.128/media/videos/2024/10/27/sottotitolopagine1.mp4
+File Name: C:\Downloaded Web Sites\192.168.109.128\media\videos\2024\10\27\sottotitolopagine1.mp4
 Content Type: video/mp4
 
 Uri: http://192.168.109.128/medicina.html
