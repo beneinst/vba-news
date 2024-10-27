@@ -286,8 +286,8 @@ Uri: http://192.168.109.128/il-tempo-che-fu-della-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\il-tempo-che-fu-della-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/images/2023/12/06/hotitle.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\06\hotitle.jpg
+Uri: http://192.168.109.128/images/2023/12/06/1home_5-new.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\06\1home_5-new.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/10/c1.jpg
@@ -296,10 +296,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/11/1home_6a.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\11\1home_6a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2023/12/11/1home_6a_edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\11\1home_6a_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2023/12/15/04-Maria-Costa---Torre-Castello.png
@@ -944,6 +940,14 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_52.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_52.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/ew2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\ew2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/sfondo1home13.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\sfondo1home13.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
