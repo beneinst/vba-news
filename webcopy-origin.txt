@@ -82,19 +82,19 @@ Uri: http://192.168.109.128/come-votano-i-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\come-votano-i-villapianesi.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/animate.min.css?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/animate.min.css?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -102,7 +102,7 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -122,11 +122,11 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?b7275171fee7833b33216c067c3940d2
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?ce25081991fa6ca202f1c312abc42fab
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -570,10 +570,6 @@ Uri: http://192.168.109.128/images/2024/06/22/taaz2.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\06\22\taaz2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/07/03/beneinst88jg.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\03\beneinst88jg.png
-Content Type: image/png
-
 Uri: http://192.168.109.128/images/2024/07/15/centro-radionica-03u.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\15\centro-radionica-03u.png
 Content Type: image/png
@@ -949,6 +945,10 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/2024/10/27/sfonpag_1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\sfonpag_1.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/30/beneinst88jgt.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\30\beneinst88jgt.png
+Content Type: image/png
 
 Uri: http://192.168.109.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo.png
@@ -6262,7 +6262,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?01f788
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?9b52df
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
