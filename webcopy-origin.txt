@@ -990,6 +990,10 @@ Uri: http://192.168.109.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.109.128/images/componenti/fonts/Lexend-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\Lexend-Regular.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.109.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
 Content Type: font/ttf
