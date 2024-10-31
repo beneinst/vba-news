@@ -6698,22 +6698,6 @@ Uri: https://cs.iubenda.com/autoblocking/3674597.js
 File Name: C:\Downloaded Web Sites\192.168.109.128\autoblocking\3674597.js
 Content Type: application/javascript
 
-Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Lexend&family=Noto+Sans+Display:wght@500&display=swap
-File Name: C:\Downloaded Web Sites\192.168.109.128\css2
-Content Type: text/css
-
-Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/lexend/v23/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\s\lexend\v23\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTE.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTE.ttf
-Content Type: font/ttf
-
 Uri: https://www.googletagmanager.com/gtag/js?id=G-4G0SLVQY0D
 File Name: C:\Downloaded Web Sites\192.168.109.128\gtag\js
 Content Type: application/javascript
