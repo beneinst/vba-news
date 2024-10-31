@@ -1,9 +1,9 @@
 ﻿@font-face {
-  font-family: 'Crimson Text';
+  font-family: 'DM Serif Display';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
   font-display: swap;
-  src: url(s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf) format('truetype');
+  src: url(s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Lexend';

@@ -43,6 +43,12 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 </style>
 	<style>h3{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
 </style>
+	<style>h4{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
+</style>
+	<style>h5{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
+</style>
+	<style>h6{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
+</style>
 	<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 15px;font-weight: 500;text-decoration: none;}
 </style>
 	<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 15px;font-weight: 500;text-decoration: none;}
@@ -58,7 +64,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"6e4155887054b15373a90083b527fe79"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"e5bb2be334ccf93efae4d61ae5478032"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/webcomponentsjs/js/webcomponents-bundle.min.js?2.8.0" nomodule="" defer=""></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
@@ -113,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	<script>template="shaper_helixultimate";</script>
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['227'] = {"default_language":"it","languages":["en","zh-CN","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-227","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wiub {\r\n  text-align: right;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <style>
-/* Import Google Fonts */
+ /* Import Google Fonts */
 @import url('css2');
 
 /* Base styles */
@@ -126,6 +132,20 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 /* Typography */
+
+ /* DM Serif Display per i titoli */
+    @font-face {
+        font-family: 'DM Serif Display';
+        src: url('images/componenti/fonts/DMSerifDisplay-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+	@font-face {
+        font-family: 'NotoSansDisplay-Medium';
+        src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
 body {
     font-family: 'Noto Sans Display', sans-serif;
     font-size: 17px;
@@ -139,6 +159,11 @@ body {
     margin: 24px 0;
 }
 
+   @font-face {
+        font-family: 'Playwrite DE Grund Regular';
+        src: url('images/componenti/fonts/PlaywriteDEGrund-Regular.ttf') format('truetype');
+    }
+
 .subtitle-custom {
     font-family: 'Playwrite DE Grund Regular', cursive;
     font-size: 0.97em;
@@ -147,7 +172,8 @@ body {
     line-height: 1.90;
 }
 
-/* Headers - Updated with Crimson Text */
+
+/* Headers */
 .sppb-addon-title h1,
 .sppb-addon-title h2,
 .sppb-addon-title h3,
@@ -156,8 +182,8 @@ body {
 .sppb-addon-title h6,
 .article-header,
 .article-header h1 {
-    font-family: 'Crimson Text', serif;
-    font-weight: 600;
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
     font-size: 34px !important;
 }
 
@@ -380,7 +406,7 @@ div,
     span,
     div,
     .fs12lh1-5 {
-        font-size: 23px;
+        font-size: 22px;
     }
 
     .sppb-addon-title h1,
