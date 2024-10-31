@@ -950,6 +950,14 @@ Uri: http://192.168.109.128/images/2024/10/30/beneinst88jgt.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\30\beneinst88jgt.png
 Content Type: image/png
 
+Uri: http://192.168.109.128/images/2024/10/31/progetto-senza-titolo.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\31\progetto-senza-titolo.png
+Content Type: image/png
+
+Uri: http://192.168.109.128/images/2024/10/31/sottotitolo-vbat.gif
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\31\sottotitolo-vbat.gif
+Content Type: image/gif
+
 Uri: http://192.168.109.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo.png
 Content Type: image/png
