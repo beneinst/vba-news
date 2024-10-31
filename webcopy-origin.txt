@@ -986,22 +986,6 @@ Uri: http://192.168.109.128/images/componenti/contwe.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\contwe.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/componenti/fonts/DMSerifDisplay-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\DMSerifDisplay-Regular.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/images/componenti/fonts/Lexend-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\Lexend-Regular.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/images/componenti/fonts/NotoSansDisplay-Medium.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\NotoSansDisplay-Medium.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/images/componenti/fonts/PlaywriteDEGrund-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\fonts\PlaywriteDEGrund-Regular.ttf
-Content Type: font/ttf
-
 Uri: http://192.168.109.128/images/componenti/formato-web/011_mavi-11-12-21.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\formato-web\011_mavi-11-12-21.jpg
 Content Type: image/jpeg
@@ -6697,6 +6681,22 @@ Content Type: application/javascript
 Uri: https://cs.iubenda.com/autoblocking/3674597.js
 File Name: C:\Downloaded Web Sites\192.168.109.128\autoblocking\3674597.js
 Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&family=Lexend&family=Noto+Sans+Display:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.128\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.128\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v23/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.128\s\lexend\v23\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTE.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.128\s\notosansdisplay\v26\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTE.ttf
+Content Type: font/ttf
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-4G0SLVQY0D
 File Name: C:\Downloaded Web Sites\192.168.109.128\gtag\js

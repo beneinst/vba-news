@@ -48,12 +48,6 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 </style>
 	<style>h3{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
 </style>
-	<style>h4{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
-</style>
-	<style>h5{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
-</style>
-	<style>h6{font-family: 'DM Serif Display', sans-serif;text-decoration: none;}
-</style>
 	<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 15px;font-weight: 500;text-decoration: none;}
 </style>
 	<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Noto Sans Display', sans-serif;font-size: 15px;font-weight: 500;text-decoration: none;}
@@ -67,7 +61,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#sp-bottom{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#sp-footer{ background-image:url("images/larte-e-dentro-di-te23.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"2576b7117fcbeed946e6572225e3f8df"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"6e4155887054b15373a90083b527fe79"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -419,225 +413,167 @@ document.addEventListener('DOMContentLoaded', function() {
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="VBA News">
 <style>
-    /* DM Serif Display per i titoli */
-    @font-face {
-        font-family: 'DM Serif Display';
-        src: url('images/componenti/fonts/DMSerifDisplay-Regular.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
+/* Import Google Fonts */
+@import url('css2');
 
-    @font-face {
-        font-family: 'Lexend Regular';
-        src: url('images/componenti/fonts/Lexend-Regular.ttf') format('truetype');
-    }
-
-    @font-face {
-        font-family: 'Playwrite DE Grund Regular';
-        src: url('images/componenti/fonts/PlaywriteDEGrund-Regular.ttf') format('truetype');
-    }
-
-    /* Applica style per titoli pag e sottotitoli */
-    .title-custom {
-        font-family: 'Lexend Regular', serif;
-        font-size: 2em; /* Dimensione del font per i titoli */
-        color: #333; /* Colore del testo */
-        margin: 24px 0; /* Margini per separare i titoli dagli altri elementi */
-    }
-
-   .subtitle-custom {
-  font-family: 'Playwrite DE Grund Regular', cursive;
-  font-size: 0.96em; /* Dimensione del font per i sottotitoli */
-  color: #000000; /* Colore del testo */
-  margin: 20px 0; /* Margini per separare i sottotitoli dagli altri elementi */
-  line-height: 1.90; /* Interlinea 1.25 */
+/* Base styles */
+:root {
+    --text-color: #333;
+    --border-color: #cccccc;
+    --hover-blue: #1976D2;
+    --light-blue: #BBDEFB;
+    --orange: #ff8c00;
 }
 
+/* Typography */
+body {
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 17px;
+    line-height: 1.92;
+}
 
-    /* Applica i font ai titoli */
-    .sppb-addon-title h1,
-    .sppb-addon-title h2,
-    .sppb-addon-title h3,
-    .sppb-addon-title h4,
-    .sppb-addon-title h5,
-    .sppb-addon-title h6 {
-        font-family: 'DM Serif Display', serif;
-        font-weight: 400;
-    }
+.title-custom {
+    font-family: 'Lexend', sans-serif;
+    font-size: 2em;
+    color: var(--text-color);
+    margin: 24px 0;
+}
 
-    /* Stile personalizzato per article-header */
-    .article-header {
-        font-size: 34px !important; /* Imposta la dimensione del font a 34px */
-    }
+.subtitle-custom {
+    font-family: 'Playwrite DE Grund Regular', cursive;
+    font-size: 0.97em;
+    color: #333333;
+    margin: 20px 0;
+    line-height: 1.90;
+}
 
-    .article-header h1 {
-        font-size: 34px !important; /* Imposta la dimensione del font a 34px */
-    }
+/* Headers - Updated with Crimson Text */
+.sppb-addon-title h1,
+.sppb-addon-title h2,
+.sppb-addon-title h3,
+.sppb-addon-title h4,
+.sppb-addon-title h5,
+.sppb-addon-title h6,
+.article-header,
+.article-header h1 {
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+    font-size: 34px !important;
+}
 
-    /* Media query per schermi di smartphone */
-    @media only screen and (max-width: 600px) {
-        .sppb-addon-title h1,
-        .sppb-addon-title h2,
-        .sppb-addon-title h3,
-        .sppb-addon-title h4,
-        .sppb-addon-title h5,
-        .sppb-addon-title h6,
-        .article-header h1 {
-            font-size: 28px; /* Aumenta la dimensione del testo per i titoli su schermi di smartphone */
-        }
-    }
+/* Content text */
+.sppb-addon-content,
+.sp-module-content,
+p,
+span,
+div,
+.fs12lh1-5 {
+    font-size: 17px;
+}
 
-    /* NotoSansDisplay-Medium per il testo normale */
-    @font-face {
-        font-family: 'NotoSansDisplay-Medium';
-        src: url('images/componenti/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
+/* Button styles */
+.xxx {
+    background-color: var(--light-blue);
+    color: black;
+    border: none;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
 
-    /* Applica i font al testo normale nelle zone di contenuto */
-    .sppb-addon-content,
-    .sp-module-content,
-    body,
-    p,
-    span,
-    div,
-    .fs12lh1-5 {
-        font-family: 'NotoSansDisplay-Medium', sans-serif;
-        font-size: 16px;
-        line-height: 1.92;
-    }
+.xxx:hover {
+    background-color: var(--hover-blue);
+    color: white;
+}
 
-    /* Media query per schermi di smartphone */
-    @media only screen and (max-width: 600px) {
-        .sppb-addon-content,
-        .sp-module-content,
-        body,
-        p,
-        span,
-        text,
-        div,
-        .fs12lh1-5 {
-            font-size: 22px; /* Aumenta la dimensione del testo per il contenuto su schermi di smartphone */
-        }
-    }
+/* Horizontal rules */
+.dashed-hr {
+    border: 0;
+    border-top: 1px dashed #000;
+    margin: 20px 0;
+}
 
-    /* Riduzione della dimensione del carattere */
-    .sppb-addon-content,
-    body,
-    p,
-    span,
-    text,
-    div,
-    .fs12lh1-5 {
-        font-size: calc(18px - 2px); /* Riduci la dimensione del carattere di 2px */
-    }
+.ab-hr {
+    border: 0;
+    border-top: 1px dashed #717171;
+    margin: 20px 0;
+}
 
-    /* Stili del pulsante */
-    .xxx {
-        background-color: #BBDEFB;
-        color: black;
-        border: none;
-        padding: 4px 20px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        border-radius: 8px;
-        transition: background-color 0.3s ease;
-    }
+/* Article styles */
+.article-details .article-ratings-social-share {
+    padding: 1rem 0;
+    border-top: 1px dashed var(--border-color) !important;
+    border-bottom: 1px dashed var(--border-color) !important;
+    margin-bottom: 1rem;
+}
 
-    .xxx:hover {
-        background-color: #1976D2;
-        color: white;
-    }
+.article-list .article {
+    position: relative;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px dashed var(--border-color) !important;
+    border-radius: 3px;
+}
 
-    /* Stile per l'elemento hr con linea tratteggiata */
-    .dashed-hr {
-        border: 0;
-        border-top: 1px dashed #000;
-        margin: 20px 0;
-    }
+/* Image styles */
+.image {
+    width: 37px;
+    height: 37px;
+    transition: transform 0.3s ease;
+}
 
-    /* Stile per l'elemento hr con colori chiari */
-    .ab-hr {
-        border: 0;
-        border-top: 1px dashed #717171; /* Colore grigio molto chiaro */
-        margin: 20px 0;
-    }
+.image-link:hover .image {
+    transform: scale(1.2);
+}
 
-    /* Stile riga social sopra */
-    .article-details .article-ratings-social-share {
-        padding: 1rem 0;
-        border-top: 1px dashed #cccccc !important; /* Bordo superiore grigio scuro con !important */
-        border-bottom: 1px dashed #cccccc !important; /* Bordo inferiore grigio scuro con !important */
-        margin-bottom: 1rem;
-    }
+/* Header background */
+#sp-header {
+    background-image: url('/images/componenti/qwe1t.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 
-    /* Stile per miniature articoli correlati */
-    .article-list .article {
-        position: relative;
-        margin-bottom: 30px;
-        padding: 20px;
-        border: 1px dashed #cccccc !important; /* Bordo grigio scuro con !important */
-        border-radius: 3px;
-    }
+/* Note block */
+.tre {
+    border-left: 5px solid var(--orange);
+    background-color: rgba(240, 240, 240, 0.2);
+    padding: 10px;
+}
 
-    /* Stile di base per l'immagine JPEG */
-    .image {
-        width: 37px;
-        height: 37px;
-        transition: transform 0.3s ease; /* Aggiungi un'animazione di transizione */
-    }
-
-    /* Stile hover per l'immagine JPEG */
-    .image-link:hover .image {
-        transform: scale(1.2); /* Cambia la scala quando il mouse è sopra l'immagine */
-    }
-
-    /* Stile per l'immagine di sfondo della barra del menu */
-    #sp-header {
-        background-image: url('/images/componenti/qwe1t.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        background-position: center center;
-    }
-
-    /* Stile per il blocco note */
-    .tre {
-        border-left: 5px solid #ff8c00; /* Imposta il colore arancione */
-        background-color: rgba(240, 240, 240, 0.2); /* Imposta il colore di sfondo con trasparenza */
-        padding: 10px; /* Aggiunge spazio interno al blocco note */
-    }
-/* Stili generali per la tabella e il contenitore */
+/* Table styles */
 .table-container {
     width: 100%;
-    overflow-x: auto; /* Permette lo scorrimento orizzontale */
-    overflow-y: auto; /* Permette lo scorrimento verticale */
+    overflow: auto;
     display: block;
-    box-sizing: border-box; /* Assicura che padding e bordo non influenzino le dimensioni */
+    box-sizing: border-box;
 }
 
+/* Button link */
 .button-link {
     display: inline-block;
     padding: 4px 12px;
     font-size: 16px;
     color: #005a9c;
-    background-color: #fbf3f0; /* sfondo trasparente */
+    background-color: #fbf3f0;
+    border: 2px solid rgba(0, 90, 156, 0.3);
+    border-radius: 5px;
     text-align: center;
     text-decoration: none;
-    border: 2px solid rgba(0, 90, 156, 0.3); /* bordi neri */
-    border-radius: 5px;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .button-link:hover {
-    background-color: transparent; /* sfondo trasparente */
-    border: 2px solid rgba(255, 140, 0, 0.6); /* bordi neri */
-    color: #ff8c00; /* testo bianco quando si passa sopra il pulsante */
+    background-color: transparent;
+    border-color: rgba(255, 140, 0, 0.6);
+    color: var(--orange);
 }
 
+/* Image container */
 .image-container {
     display: flex;
     justify-content: center;
@@ -645,104 +581,118 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .image-wrapper {
-    margin: 0 18px; /* Margine tra le immagini, può essere regolato a piacere */
+    margin: 0 18px;
     text-align: center;
 }
+
+/* Tab styles */
 .tab-container {
-   width: 100%;
-   margin: 0 auto;
+    width: 100%;
+    margin: 0 auto;
 }
+
 .tabs {
-   list-style: none;
-   padding: 0;
-   display: flex;
-   border-bottom: 2px solid #ddd;
-   flex-wrap: wrap; /* Aggiunto per permettere la flessibilità */
+    list-style: none;
+    padding: 0;
+    display: flex;
+    border-bottom: 2px solid #ddd;
+    flex-wrap: wrap;
 }
+
 .tab-link {
-   padding: 8px 10px; /* Ridotto il padding */
-   cursor: pointer;
-   background: #f7f7f7;
-   border: 1px solid #ddd;
-   border-bottom: none; /* Rimuove il bordo inferiore */
-   margin-right: 2px; /* Ridotto il margine */
-   flex: 1 1 auto; /* Aggiunto per rendere i tab flessibili */
-   text-align: center; /* Aggiunto per centrare il testo */
+    padding: 8px 10px;
+    cursor: pointer;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    margin-right: 2px;
+    flex: 1 1 auto;
+    text-align: center;
 }
+
 .tab-link.active {
-   background: #fff;
-   border-bottom: 2px solid #fff;
-   font-weight: bold;
+    background: #fff;
+    border-bottom: 2px solid #fff;
+    font-weight: bold;
 }
+
 .tab-content {
-   display: none;
-   padding: 15px; /* Ridotto il padding */
-   border-top: 1px solid #ddd; /* Mantiene solo il bordo superiore */
-   border-bottom: 1px solid #ddd; /* Mantiene solo il bordo inferiore */
-   background: #fffaf7;
+    display: none;
+    padding: 15px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background: #fffaf7;
 }
+
 .tab-content.active {
-   display: block;
+    display: block;
 }
 
-/* Media query per schermi piccoli */
-@media (max-width: 768px) {
-   .tab-link {
-      padding: 8px 5px; /* Ridotto il padding per adattarsi meglio agli schermi piccoli */
-      font-size: 12px; /* Ridotto la dimensione del font */
-      margin-right: 1px; /* Ridotto il margine tra i tab */
-   }
-   .tab-content {
-      padding: 10px; /* Ridotto il padding del contenuto per schermi piccoli */
-   }
-}
- .underline-on-hover {
-            text-decoration: none; /* Rimuove la sottolineatura iniziale */
-        }
-
-        .underline-on-hover:hover {
-            text-decoration: underline; /* Aggiunge la sottolineatura al passaggio del mouse */
-        }
-
+/* Video container */
 .video-wrapper {
-  width: 95%;
-  margin: 0 auto;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .video-container {
-  position: relative;
-  padding-bottom: 59.48%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  background: #fffaf7;
+    position: relative;
+    padding-bottom: 59.48%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #fffaf7;
 }
 
 .video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important;
+    max-height: none !important;
 }
 
-/* Nuove regole per forzare la modalità a schermo intero */
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100% !important;
-  height: 100% !important;
-  max-width: none !important;
-  max-height: none !important;
-}
-/* Nascondi il menu principale su schermi stretti */
-@media screen and (max-width: 1200px) {
+/* Media Queries */
+@media only screen and (max-width: 1200px) {
     .sp-megamenu-parent {
         display: none !important;
     }
-   }
+}
+
+@media only screen and (max-width: 768px) {
+    .tab-link {
+        padding: 8px 5px;
+        font-size: 12px;
+        margin-right: 1px;
+    }
+    
+    .tab-content {
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body,
+    .sppb-addon-content,
+    .sp-module-content,
+    p,
+    span,
+    div,
+    .fs12lh1-5 {
+        font-size: 23px;
+    }
+
+    .sppb-addon-title h1,
+    .sppb-addon-title h2,
+    .sppb-addon-title h3,
+    .sppb-addon-title h4,
+    .sppb-addon-title h5,
+    .sppb-addon-title h6,
+    .article-header h1 {
+        font-size: 28px;
+    }
+}
 </style>
 <!-- Google tag (gtag.js) -->
   <script async="" src="gtag/js?id=G-4G0SLVQY0D"></script>

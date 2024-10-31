@@ -1,0 +1,22 @@
+﻿@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2Cw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/lexend/v23/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Display';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/notosansdisplay/v26/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTE.ttf) format('truetype');
+}
