@@ -650,16 +650,8 @@ Uri: http://192.168.109.128/images/2024/07/23/2021minw.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2021minw.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/23/2021minw_thumbnail.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2021minw_thumbnail.png
-Content Type: image/png
-
 Uri: http://192.168.109.128/images/2024/07/23/2022minw.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2022minw.png
-Content Type: image/png
-
-Uri: http://192.168.109.128/images/2024/07/23/2022minw_thumbnail.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2022minw_thumbnail.png
 Content Type: image/png
 
 Uri: http://192.168.109.128/images/2024/07/23/2023minw.png
@@ -1038,16 +1030,8 @@ Uri: http://192.168.109.128/images/2024/11/05/2024minw.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\2024minw.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/11/05/2024minw_thumbnail.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\2024minw_thumbnail.png
-Content Type: image/png
-
 Uri: http://192.168.109.128/images/2024/11/05/logo2statu.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\logo2statu.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/11/05/logo2statu_thumbnail.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\logo2statu_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
@@ -6562,20 +6546,8 @@ Uri: http://192.168.109.128/relazione-gaetano-silvestri.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\relazione-gaetano-silvestri.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.feed?view=category&id=27&type=atom
-File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.feed?view=category&id=27&type=rss
-File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno.feed
-Content Type: application/rss+xml
-
 Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno.html
-Content Type: text/html
-
-Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.html?view=category&id=27
-File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno-1.html
 Content Type: text/html
 
 Uri: http://192.168.109.128/scienza.html
