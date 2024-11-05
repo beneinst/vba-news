@@ -526,10 +526,6 @@ Uri: http://192.168.109.128/images/2024/01/16/OIG1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\01\16\OIG1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/03/12/sfondo1home.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\03\12\sfondo1home.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/03/12/sfondo34.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\03\12\sfondo34.jpg
 Content Type: image/jpeg
@@ -654,16 +650,20 @@ Uri: http://192.168.109.128/images/2024/07/23/2021minw.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2021minw.png
 Content Type: image/png
 
+Uri: http://192.168.109.128/images/2024/07/23/2021minw_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2021minw_thumbnail.png
+Content Type: image/png
+
 Uri: http://192.168.109.128/images/2024/07/23/2022minw.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2022minw.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/23/2023minw.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2023minw.png
+Uri: http://192.168.109.128/images/2024/07/23/2022minw_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2022minw_thumbnail.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/23/beneinst88jgeee.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\beneinst88jgeee.png
+Uri: http://192.168.109.128/images/2024/07/23/2023minw.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\2023minw.png
 Content Type: image/png
 
 Uri: http://192.168.109.128/images/2024/07/23/erminia-de-paola-newmin.jpg
@@ -682,10 +682,6 @@ Uri: http://192.168.109.128/images/2024/07/30/poli.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\30\poli.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/08/22/2131-new_edited.gif
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\08\22\2131-new_edited.gif
-Content Type: image/gif
-
 Uri: http://192.168.109.128/images/2024/08/29/ciabattino.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\08\29\ciabattino.jpg
 Content Type: image/jpeg
@@ -701,22 +697,6 @@ Content Type: image/gif
 Uri: http://192.168.109.128/images/2024/09/02/th61.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\09\02\th61.gif
 Content Type: image/gif
-
-Uri: http://192.168.109.128/images/2024/10/25/ed1.gif
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\ed1.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.128/images/2024/10/25/ed2.gif
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\ed2.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.128/images/2024/10/25/oerw.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\oerw.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/10/25/orclav.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\orclav.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/25/qewq.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\25\qewq.jpg
@@ -930,25 +910,73 @@ Uri: http://192.168.109.128/images/2024/10/26/la-fenomenologia-radionica-e-la-li
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\26\la-fenomenologia-radionica-e-la-litosfera-della-calabria_pagina_52.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/10/27/ew2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\ew2.jpg
+Uri: http://192.168.109.128/images/2024/10/27/34111.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\34111.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/10/27/home2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\home2.jpg
+Uri: http://192.168.109.128/images/2024/10/27/34111415.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\34111415.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/341114156.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\341114156.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3411141567.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3411141567.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/34111418.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\34111418.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/341114189.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\341114189.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3411141891.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3411141891.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/34111418912.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\34111418912.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3411141891234.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3411141891234.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/341114189123489.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\341114189123489.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/34111418912348a.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\34111418912348a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3453.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3453.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3453e.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3453e.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3453ee.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3453ee.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3453ee1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3453ee1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/10/27/3453ee23.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\3453ee23.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/10/27/sfhome3.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\sfhome3.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/10/27/sfonpag_1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\27\sfonpag_1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/10/30/beneinst88jgt.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\30\beneinst88jgt.png
-Content Type: image/png
 
 Uri: http://192.168.109.128/images/2024/10/31/progetto-senza-titolo.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\31\progetto-senza-titolo.png
@@ -957,6 +985,90 @@ Content Type: image/png
 Uri: http://192.168.109.128/images/2024/10/31/sottotitolo-vbat.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\31\sottotitolo-vbat.gif
 Content Type: image/gif
+
+Uri: http://192.168.109.128/images/2024/11/04/2131-new_edited1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\2131-new_edited1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/beneinst88jgt3.gif
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\beneinst88jgt3.gif
+Content Type: image/gif
+
+Uri: http://192.168.109.128/images/2024/11/04/ciabattino1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ciabattino1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/ed11.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ed11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/ede.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ede.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/ede3.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ede3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/larte-e-dentro-di-te4.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\larte-e-dentro-di-te4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/oerw11.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\oerw11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/orclav1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\orclav1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/sfondohomer225re23.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\sfondohomer225re23.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/sfonpag_1-1sf.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\sfonpag_1-1sf.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/04/th61.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\th61.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/05/2024minw.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\2024minw.png
+Content Type: image/png
+
+Uri: http://192.168.109.128/images/2024/11/05/2024minw_thumbnail.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\2024minw_thumbnail.png
+Content Type: image/png
+
+Uri: http://192.168.109.128/images/2024/11/05/logo2statu.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\logo2statu.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/05/logo2statu_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\logo2statu_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\341112-nazionali.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/3411123-lingua.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\3411123-lingua.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/341114-genere.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\341114-genere.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/3411141-eta.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\3411141-eta.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/341114189123-pubblico.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\341114189123-pubblico.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo.png
@@ -1605,6 +1717,10 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/pagine/chi siamo/Reportbilancio/2023/report/26t.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\chi siamo\Reportbilancio\2023\report\26t.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/pagine/chi siamo/Reportbilancio/2024/Report sul Sito Web VBA III anno.pdf
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\chi siamo\Reportbilancio\2024\Report sul Sito Web VBA III anno.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.109.128/images/pagine/chi siamo/STATUTO-VillapianaBorgoAttivo.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\chi siamo\STATUTO-VillapianaBorgoAttivo.pdf
@@ -6270,7 +6386,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?b09a55
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?a3f4cc
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -6444,6 +6560,22 @@ Content Type: text/html
 
 Uri: http://192.168.109.128/relazione-gaetano-silvestri.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\relazione-gaetano-silvestri.html
+Content Type: text/html
+
+Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.feed?view=category&id=27&type=atom
+File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno-1.feed
+Content Type: application/atom+xml
+
+Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.feed?view=category&id=27&type=rss
+File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno.feed
+Content Type: application/rss+xml
+
+Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.html
+File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno.html
+Content Type: text/html
+
+Uri: http://192.168.109.128/report-sul-sito-vba-news-2024-terzo-anno.html?view=category&id=27
+File Name: C:\Downloaded Web Sites\192.168.109.128\report-sul-sito-vba-news-2024-terzo-anno-1.html
 Content Type: text/html
 
 Uri: http://192.168.109.128/scienza.html
