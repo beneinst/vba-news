@@ -1034,6 +1034,14 @@ Uri: http://192.168.109.128/images/2024/11/05/logo2statu.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\05\logo2statu.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.128/images/2024/11/06/contattih.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\06\contattih.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/06/primop.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\06\primop.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\341112-nazionali.jpg
 Content Type: image/jpeg
@@ -6370,7 +6378,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?8e0f1a
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?b10be4
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -6800,6 +6808,10 @@ Content Type: application/javascript
 
 Uri: https://cs.iubenda.com/autoblocking/3674597.js
 File Name: C:\Downloaded Web Sites\192.168.109.128\autoblocking\3674597.js
+Content Type: application/javascript
+
+Uri: https://static.elfsight.com/platform/platform.js
+File Name: C:\Downloaded Web Sites\192.168.109.128\platform\platform.js
 Content Type: application/javascript
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-4G0SLVQY0D
