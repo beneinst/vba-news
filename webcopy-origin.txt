@@ -978,10 +978,6 @@ Uri: http://192.168.109.128/images/2024/10/31/sottotitolo-vbat.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\10\31\sottotitolo-vbat.gif
 Content Type: image/gif
 
-Uri: http://192.168.109.128/images/2024/11/04/2131-new_edited1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\2131-new_edited1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/11/04/beneinst88jgt3.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\beneinst88jgt3.gif
 Content Type: image/gif
@@ -1004,10 +1000,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/04/larte-e-dentro-di-te4.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\larte-e-dentro-di-te4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/11/04/oerw11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\oerw11.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/04/orclav1.jpg
@@ -1038,8 +1030,12 @@ Uri: http://192.168.109.128/images/2024/11/06/contattih.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\06\contattih.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/11/06/primop.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\06\primop.jpg
+Uri: http://192.168.109.128/images/2024/11/07/ggtrrr1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\07\ggtrrr1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/07/oerw11e.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\07\oerw11e.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
@@ -6378,7 +6374,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?b10be4
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?734d9d
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
