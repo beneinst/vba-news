@@ -1006,10 +1006,6 @@ Uri: http://192.168.109.128/images/2024/11/04/orclav1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\orclav1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/11/04/sfondohomer225re23.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\sfondohomer225re23.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/11/04/sfonpag_1-1sf.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\sfonpag_1-1sf.jpg
 Content Type: image/jpeg
@@ -1036,6 +1032,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/07/oerw11e.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\07\oerw11e.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/08/ggtrrr123ah.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\08\ggtrrr123ah.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
