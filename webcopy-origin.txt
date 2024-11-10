@@ -1294,8 +1294,8 @@ Uri: http://192.168.109.128/images/pagine/arte-mavi/25Ott/Catalogo Museo Diffuso
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\arte-mavi\25Ott\Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_10.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/arte-mavi/25Ott/Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\arte-mavi\25Ott\Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_11.jpg
+Uri: http://192.168.109.128/images/pagine/arte-mavi/25Ott/Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_11f.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\arte-mavi\25Ott\Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_11f.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/pagine/arte-mavi/25Ott/Catalogo Museo Diffuso Villapiana ottobre 2024 1_Pagina_12.jpg
