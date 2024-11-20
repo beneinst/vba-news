@@ -570,10 +570,6 @@ Uri: http://192.168.109.128/images/2024/07/15/centro-radionica-03u.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\15\centro-radionica-03u.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/17/canale-youtube3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\canale-youtube3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/07/17/locandina-25-giugno-2022d.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\locandina-25-giugno-2022d.jpg
 Content Type: image/jpeg
@@ -982,10 +978,6 @@ Uri: http://192.168.109.128/images/2024/11/04/beneinst88jgt3.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\beneinst88jgt3.gif
 Content Type: image/gif
 
-Uri: http://192.168.109.128/images/2024/11/04/ciabattino1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ciabattino1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/11/04/ed11.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ed11.jpg
 Content Type: image/jpeg
@@ -1030,12 +1022,20 @@ Uri: http://192.168.109.128/images/2024/11/07/ggtrrr1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\07\ggtrrr1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/11/07/oerw11e.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\07\oerw11e.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/11/08/ggtrrr123ah.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\08\ggtrrr123ah.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/20/oerw11e2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\20\oerw11e2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/20/orclkav_edited2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\20\orclkav_edited2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/11/20/scientific-research-and-study-style-logo-for-orclav-youtube-channel.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\20\scientific-research-and-study-style-logo-for-orclav-youtube-channel.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/341112-nazionali.jpg
@@ -6374,7 +6374,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?ee3094
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?d5a151
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
