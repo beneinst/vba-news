@@ -358,10 +358,6 @@ Uri: http://192.168.109.128/images/2023/12/19/Image_001-removebg-preview.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2023\12\19\Image_001-removebg-preview.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/01/04/Image_001x.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\01\04\Image_001x.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/01/04/manifesto-rev-06r.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\01\04\manifesto-rev-06r.jpg
 Content Type: image/jpeg
@@ -384,10 +380,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/01/05/Fotone-Onda6m.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\01\05\Fotone-Onda6m.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/01/05/Image_003-(1)g.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\01\05\Image_003-(1)g.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/01/05/OIG-(2).jpg
@@ -1056,6 +1048,14 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/341114189123-pubblico.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\341114189123-pubblico.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/04/thsasa1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\04\thsasa1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/04/vvghjvgjhsas.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\04\vvghjvgjhsas.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
@@ -2094,69 +2094,25 @@ Uri: http://192.168.109.128/images/pagine/scienza/RELAZIONE-VILLAPIANA-GAETANO-S
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\scienza\RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.109.128/images/pagine/sociale/Due-Fotografie-rev-02.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Due-Fotografie-rev-02.pdf
-Content Type: application/pdf
-
 Uri: http://192.168.109.128/images/pagine/sociale/enzo-favale.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\enzo-favale.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/sociale/Image_001x.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Image_001x.jpg
+Uri: http://192.168.109.128/images/pagine/sociale/Immagine1r5.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagine1r5.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/sociale/Image_002x.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Image_002x.jpg
+Uri: http://192.168.109.128/images/pagine/sociale/Immagine1r5e.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagine1r5e.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_001.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_001.jpg
+Uri: http://192.168.109.128/images/pagine/sociale/Immagine2z2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagine2z2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_002.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_002.jpg
+Uri: http://192.168.109.128/images/pagine/sociale/Immagine3z2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagine3z2.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_003.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_003.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_004.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_004.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_005.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_005.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_006.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_006.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_007.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_007.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_008.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_008.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_009.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_009.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_010.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_010.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini dal Web/Image_011.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini dal Web\Image_011.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/sociale/Immagini-dal-web.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagini-dal-web.pdf
-Content Type: application/pdf
 
 Uri: http://192.168.109.128/images/pagine/sociale/Libretto Mostra - Immagini/Image_003.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Libretto Mostra - Immagini\Image_003.jpg
@@ -6374,7 +6330,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?d5a151
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?66e6d0
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
