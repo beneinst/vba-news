@@ -2614,6 +2614,14 @@ Uri: http://192.168.109.128/images/pagine/sociale/votanovillapianesi/spaziovuoto
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\votanovillapianesi\spaziovuotorigo.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.128/images/pagine/storia/1s.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\1s.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/pagine/storia/2s.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\2s.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.128/images/pagine/storia/Dalla-torre-al-borgo.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Dalla-torre-al-borgo.pdf
 Content Type: application/pdf
