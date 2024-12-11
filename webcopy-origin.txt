@@ -82,19 +82,15 @@ Uri: http://192.168.109.128/come-votano-i-villapianesi.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\come-votano-i-villapianesi.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/animate.min.css?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/animate.min.css?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?ce25081991fa6ca202f1c312abc42fab
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
-Content Type: text/css
-
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -102,7 +98,7 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -122,11 +118,11 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?ce25081991fa6ca202f1c312abc42fab
+Uri: http://192.168.109.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?7bdda2ba97a09ec689190d2c91f579fe
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -138,14 +134,6 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-bran
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6.woff2
 Content Type: font/woff2
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400.woff
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400.woff
-Content Type: font/woff
-
 Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400-6.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.ttf
 Content Type: font/ttf
@@ -154,14 +142,6 @@ Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-regu
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.woff2
 Content Type: font/woff2
 
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400.woff
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400.woff
-Content Type: font/woff
-
 Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.ttf
 Content Type: font/ttf
@@ -169,14 +149,6 @@ Content Type: font/ttf
 Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.woff2
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.woff2
 Content Type: font/woff2
-
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900.woff
-File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
-Content Type: font/woff
 
 Uri: http://192.168.109.128/components/com_sppagebuilder/assets/webfonts/fa-v4compatibility.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility.ttf
@@ -970,10 +942,6 @@ Uri: http://192.168.109.128/images/2024/11/04/beneinst88jgt3.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\beneinst88jgt3.gif
 Content Type: image/gif
 
-Uri: http://192.168.109.128/images/2024/11/04/ed11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ed11.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/11/04/ede.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\ede.jpg
 Content Type: image/jpeg
@@ -984,10 +952,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/04/larte-e-dentro-di-te4.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\larte-e-dentro-di-te4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/11/04/orclav1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\11\04\orclav1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/11/04/sfonpag_1-1sf.jpg
@@ -1056,6 +1020,26 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/12/07/1733597080w.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\07\1733597080w.png
+Content Type: image/png
+
+Uri: http://192.168.109.128/images/2024/12/11/1b4_edited3.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\1b4_edited3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/11/3c3.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\3c3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/11/3c7.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\3c7.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/11/3cqw.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\3cqw.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/11/filomena7.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\filomena7.png
 Content Type: image/png
 
 Uri: http://192.168.109.128/images/beneinstlo.png
@@ -2713,6 +2697,10 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/pagine/storia/Sibarys-03.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Sibarys-03.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/pagine/storia/Trascrizione del Volantino.pdf
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Trascrizione del Volantino.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.109.128/images/pagine/storia/Villapiana-e-dintorni-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Villapiana-e-dintorni-02.pdf
@@ -6330,7 +6318,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?e3fa86
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?c61a94
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -6556,6 +6544,10 @@ Content Type: text/html
 
 Uri: http://192.168.109.128/villapiana-e-dintorni.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\villapiana-e-dintorni.html
+Content Type: text/html
+
+Uri: http://192.168.109.128/villapiana-elezioni-del-1946.html
+File Name: C:\Downloaded Web Sites\192.168.109.128\villapiana-elezioni-del-1946.html
 Content Type: text/html
 
 Uri: http://192.168.109.128/villapianesi.html
