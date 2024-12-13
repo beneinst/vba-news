@@ -2706,8 +2706,8 @@ Uri: http://192.168.109.128/images/pagine/storia/Sibarys-03.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Sibarys-03.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/pagine/storia/Trascrizione del Volantino1.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Trascrizione del Volantino1.pdf
+Uri: http://192.168.109.128/images/pagine/storia/Trascrizione del Volantino.pdf
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\storia\Trascrizione del Volantino.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.109.128/images/pagine/storia/Villapiana-e-dintorni-02.pdf
@@ -6326,7 +6326,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?61dd57
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?7126ac
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
