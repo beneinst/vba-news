@@ -534,18 +534,6 @@ Uri: http://192.168.109.128/images/2024/07/15/centro-radionica-03u.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\15\centro-radionica-03u.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/17/locandina-25-giugno-2022d.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\locandina-25-giugno-2022d.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/07/17/manifesto-rev-06g.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\manifesto-rev-06g.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/07/17/thgf.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\17\thgf.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/07/18/02w.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\18\02w.jpg
 Content Type: image/jpeg
@@ -580,10 +568,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/07/18/oig4-3w.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\18\oig4-3w.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/07/18/theed.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\18\theed.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/07/18/villapianesi-web1.png
@@ -1041,6 +1025,26 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/2024/12/11/filomena7.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\filomena7.png
 Content Type: image/png
+
+Uri: http://192.168.109.128/images/2024/12/16/enzo-favale1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\enzo-favale1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/16/locandina-25-giugno-2022d1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\locandina-25-giugno-2022d1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/16/manifesto-rev-06g1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\manifesto-rev-06g1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/16/theed1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\theed1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/16/thgf1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\thgf1.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo.png
@@ -2077,10 +2081,6 @@ Content Type: image/png
 Uri: http://192.168.109.128/images/pagine/scienza/RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\scienza\RELAZIONE-VILLAPIANA-GAETANO-SILVESTRI-02.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.109.128/images/pagine/sociale/enzo-favale.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\enzo-favale.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/pagine/sociale/Immagine1r5.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\sociale\Immagine1r5.jpg
@@ -6326,7 +6326,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?d19fb7
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?668b29
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
