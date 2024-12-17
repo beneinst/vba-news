@@ -582,10 +582,6 @@ Uri: http://192.168.109.128/images/2024/07/21/torremine_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\21\torremine_edited.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/07/21/torre_edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\21\torre_edited.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/07/23/08-bronze-medalgr.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\23\08-bronze-medalgr.jpg
 Content Type: image/jpeg
@@ -1010,10 +1006,6 @@ Uri: http://192.168.109.128/images/2024/12/11/1b4_edited3.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\1b4_edited3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/2024/12/11/3c3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\3c3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/12/11/3c7.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\11\3c7.jpg
 Content Type: image/jpeg
@@ -1044,6 +1036,22 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/12/16/thgf1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\16\thgf1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/3c31.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\3c31.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/plataci-16-settembre1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\plataci-16-settembre1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/stregone1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\stregone1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/torre_edited1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\torre_edited1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/beneinstlo.png
@@ -1157,10 +1165,6 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/componenti/icone_pagine/image003y.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\icone_pagine\image003y.png
 Content Type: image/png
-
-Uri: http://192.168.109.128/images/componenti/img-home/stregone.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\img-home\stregone.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/componenti/immagini-profilo/14rh.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\componenti\immagini-profilo\14rh.jpg
@@ -1984,10 +1988,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/pagine/imprenditoria/19Fuochi/formato-web/oig1r.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\imprenditoria\19Fuochi\formato-web\oig1r.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/pagine/imprenditoria/plataci-16-settembre.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\pagine\imprenditoria\plataci-16-settembre.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/pagine/medicina/Il Melanoma Cutaneo.pdf
@@ -6326,7 +6326,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?668b29
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?b180ed
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 

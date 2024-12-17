@@ -64,7 +64,7 @@ _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,
 	<style>#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-132 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-132 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"b85cf4dfe12fac0cb0403c381c3b7d61"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.128/","base":"","baseFull":"http://192.168.109.128/"},"csrf.token":"ed9a6633d84db9250812ab85ced20c3d"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/webcomponentsjs/js/webcomponents-bundle.min.js?2.8.0" nomodule="" defer=""></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
@@ -451,8 +451,76 @@ div,
     line-height: 34px; /* Per allineare verticalmente il testo */
     overflow: hidden; /* Nasconde eventuale testo in eccesso */
 }
+/* Nascondi su desktop (schermi più larghi di 1919px) */
+@media screen and (min-width: 1920px) {
+    .laptop-tablet-only {
+        display: none !important;
+        visibility: hidden;
+        position: absolute;
+        width: 0;
+        height: 0;
+        overflow: hidden;
+    }
+}
 
+/* Mostra solo su tablet e notebook (tra 768px e 1919px) */
+@media screen and (min-width: 768px) and (max-width: 1919px) {
+    .laptop-tablet-only {
+        display: block !important;
+        visibility: visible;
+        position: static;
+        width: auto;
+        height: auto;
+        overflow: visible;
+    }
+}
 
+/* Nascondi su dispositivi mobili (meno di 768px) */
+@media screen and (max-width: 767px) {
+    .laptop-tablet-only {
+        display: none !important;
+        visibility: hidden;
+        position: absolute;
+        width: 0;
+        height: 0;
+        overflow: hidden;
+    }
+}
+/* Mostra desktop e mobile, nascondi laptop/tablet */
+@media screen and (min-width: 768px) and (max-width: 1919px) {
+    .desktop-mobile-only {
+        display: none !important;
+        visibility: hidden;
+        position: absolute;
+        width: 0;
+        height: 0;
+        overflow: hidden;
+    }
+}
+
+/* Mostra desktop e mobile (desktop > 1919px) */
+@media screen and (min-width: 1920px) {
+    .desktop-mobile-only {
+        display: block !important;
+        visibility: visible;
+        position: static;
+        width: auto;
+        height: auto;
+        overflow: visible;
+    }
+}
+
+/* Mostra desktop e mobile (mobile < 768px) */
+@media screen and (max-width: 767px) {
+    .desktop-mobile-only {
+        display: block !important;
+        visibility: visible;
+        position: static;
+        width: auto;
+        height: auto;
+        overflow: visible;
+    }
+}
    }
 </style>
 <!-- Google tag (gtag.js) -->
