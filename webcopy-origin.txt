@@ -574,10 +574,6 @@ Uri: http://192.168.109.128/images/2024/07/18/villapianesi-web1.png
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\18\villapianesi-web1.png
 Content Type: image/png
 
-Uri: http://192.168.109.128/images/2024/07/21/th-1rf.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\21\th-1rf.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.128/images/2024/07/21/torremine_edited.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\07\21\torremine_edited.jpg
 Content Type: image/jpeg
@@ -621,10 +617,6 @@ Content Type: image/jpeg
 Uri: http://192.168.109.128/images/2024/09/02/th-1rf.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\09\02\th-1rf.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.128/images/2024/09/02/th6.gif
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\09\02\th6.gif
-Content Type: image/gif
 
 Uri: http://192.168.109.128/images/2024/09/02/th61.gif
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\09\02\th61.gif
@@ -1048,6 +1040,14 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/12/17/stregone1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\stregone1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/th-1rf1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\th-1rf1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.128/images/2024/12/17/th61.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\17\th61.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.128/images/2024/12/17/torre_edited1.jpg
@@ -6326,7 +6326,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?b180ed
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?141c6e
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
