@@ -1054,8 +1054,8 @@ Uri: http://192.168.109.128/images/2024/12/18/evento-airc-31072231.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.128\images\2024\12\18\evento-airc-31072231.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.128/images/beneinstlo.png
-File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo.png
+Uri: http://192.168.109.128/images/beneinstlo-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.109.128\images\beneinstlo-removebg-preview.png
 Content Type: image/png
 
 Uri: http://192.168.109.128/images/cenrrrr.jpg
@@ -6326,7 +6326,7 @@ Uri: http://192.168.109.128/matematica-e-bellezza.html
 File Name: C:\Downloaded Web Sites\192.168.109.128\matematica-e-bellezza.html
 Content Type: text/html
 
-Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?6bec84
+Uri: http://192.168.109.128/media/com_wrapper/js/iframe-height.min.js?c4f17d
 File Name: C:\Downloaded Web Sites\192.168.109.128\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
